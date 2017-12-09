@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.02 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
-<bounds minlat="43.66592663" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
+<bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T19:46:31.596Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T19:52:51.138Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
 </active_point>
 </extensions>
@@ -1384,7 +1384,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-08T23:26:27.268Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-08T23:26:27.267Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MtEllen</label_text>
 </label>
@@ -1411,7 +1411,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:20:29.962Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:20:29.961Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LTJerusalem</label_text>
 </label>
@@ -2045,7 +2045,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </wpt>
 <wpt lat="43.82974151" lon="-72.97098052">
 <ele>1003.402</ele>
-<time>2017-12-09T02:58:26.518Z</time>
+<time>2017-12-09T02:58:26.517Z</time>
 <name>GoshenMtn</name>
 <sym>Summit</sym>
 <type>Summit</type>
@@ -2062,7 +2062,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T03:00:05.222Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T03:00:05.221Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RomanceE</label_text>
 </label>
@@ -2070,7 +2070,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </wpt>
 <wpt lat="43.88243640" lon="-72.98596267">
 <ele>951.000</ele>
-<time>2017-12-09T03:00:33.587Z</time>
+<time>2017-12-09T03:00:33.586Z</time>
 <name>RomanceW</name>
 <sym>Summit</sym>
 <type>Summit</type>
@@ -2147,7 +2147,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:01:00.883Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:01:00.882Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BeaneMtn</label_text>
 </label>
@@ -2274,7 +2274,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </extensions>
 </wpt>
 <wpt lat="43.90716506" lon="-73.00423694">
-<time>2017-12-09T17:28:01.699Z</time>
+<time>2017-12-09T17:28:01.698Z</time>
 <name>SuckerBk-Stewart</name>
 <desc>Sucker Brook Trail joins Stewart Trail.</desc>
 <sym>Trail Head</sym>
@@ -2286,7 +2286,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </extensions>
 </wpt>
 <wpt lat="43.90724651" lon="-73.00881815">
-<time>2017-12-09T17:28:32.814Z</time>
+<time>2017-12-09T17:28:32.813Z</time>
 <name>SuckerBkTH</name>
 <desc>Goshen Dam Road.</desc>
 <sym>Trail Head</sym>
@@ -2319,51 +2319,6 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T18:29:44.728Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT11212</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="43.67806747" lon="-72.90171444">
-<time>2017-12-09T19:44:48.904Z</time>
-<name>BlueRidgeMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BlueRidgeMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="43.67768591" lon="-72.90199071">
-<time>2017-12-09T19:45:06.198Z</time>
-<name>BlueRidgeView</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BlueRidgeView</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="43.66759527" lon="-72.87971496">
-<time>2017-12-09T19:45:49.061Z</time>
-<name>Canty43</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Canty43</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="43.66592663" lon="-72.87399918">
-<time>2017-12-09T19:46:08.471Z</time>
-<name>CantyTH</name>
-<desc>Old Turnpike Road.</desc>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CantyTH</label_text>
 </label>
 </extensions>
 </wpt>
@@ -43885,7 +43840,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T01:58:41.656Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T01:58:41.655Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Clark Brook Trail</label_text>
@@ -47778,7 +47733,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:47:21.962Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:47:21.961Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Forest City Trail</label_text>
@@ -48769,7 +48724,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:35:59.199Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:35:59.198Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Beane Trail</label_text>
@@ -50659,929 +50614,6 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </trkpt>
 <trkpt lat="43.89297572" lon="-72.97117978">
 <ele>740.000</ele>
-</trkpt>
-</trkseg>
-</trk>
-<trk>
-<name>CANTY</name>
-<desc>good,nw</desc>
-<type>Line</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T19:43:50.389Z</time>
-<override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Canty Trail</label_text>
-</label>
-<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-<color>cb0017</color>
-<opacity>1.00</opacity>
-<width>1.1250</width>
-<pattern>Solid</pattern>
-</line>
-</extensions>
-<trkseg>
-<trkpt lat="43.66592806" lon="-72.87400454">
-<ele>590.000</ele>
-</trkpt>
-<trkpt lat="43.66601666" lon="-72.87410244">
-<ele>590.000</ele>
-</trkpt>
-<trkpt lat="43.66609649" lon="-72.87421241">
-<ele>589.000</ele>
-</trkpt>
-<trkpt lat="43.66609843" lon="-72.87432238">
-<ele>589.000</ele>
-</trkpt>
-<trkpt lat="43.66607507" lon="-72.87447125">
-<ele>587.000</ele>
-</trkpt>
-<trkpt lat="43.66605852" lon="-72.87463218">
-<ele>587.000</ele>
-</trkpt>
-<trkpt lat="43.66605560" lon="-72.87474617">
-<ele>587.000</ele>
-</trkpt>
-<trkpt lat="43.66605852" lon="-72.87487894">
-<ele>583.000</ele>
-</trkpt>
-<trkpt lat="43.66600984" lon="-72.87504256">
-<ele>583.000</ele>
-</trkpt>
-<trkpt lat="43.66599621" lon="-72.87514448">
-<ele>582.000</ele>
-</trkpt>
-<trkpt lat="43.66604489" lon="-72.87533760">
-<ele>581.000</ele>
-</trkpt>
-<trkpt lat="43.66607604" lon="-72.87542343">
-<ele>581.000</ele>
-</trkpt>
-<trkpt lat="43.66613056" lon="-72.87558168">
-<ele>579.000</ele>
-</trkpt>
-<trkpt lat="43.66618508" lon="-72.87576943">
-<ele>579.000</ele>
-</trkpt>
-<trkpt lat="43.66621429" lon="-72.87585795">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66627270" lon="-72.87598938">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66634085" lon="-72.87614226">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66638174" lon="-72.87631124">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66636226" lon="-72.87640244">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66636616" lon="-72.87653923">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66645183" lon="-72.87673235">
-<ele>570.000</ele>
-</trkpt>
-<trkpt lat="43.66654334" lon="-72.87689596">
-<ele>570.000</ele>
-</trkpt>
-<trkpt lat="43.66664264" lon="-72.87702739">
-<ele>567.000</ele>
-</trkpt>
-<trkpt lat="43.66670106" lon="-72.87709713">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66682177" lon="-72.87704617">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66692692" lon="-72.87685305">
-<ele>571.000</ele>
-</trkpt>
-<trkpt lat="43.66700090" lon="-72.87672698">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66710605" lon="-72.87664652">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66723261" lon="-72.87658483">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66732022" lon="-72.87657678">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66740395" lon="-72.87661701">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66746625" lon="-72.87675381">
-<ele>576.000</ele>
-</trkpt>
-<trkpt lat="43.66751493" lon="-72.87686378">
-<ele>576.000</ele>
-</trkpt>
-<trkpt lat="43.66755192" lon="-72.87695229">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66761617" lon="-72.87711590">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66765317" lon="-72.87727415">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66768432" lon="-72.87740022">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66770768" lon="-72.87759065">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66773884" lon="-72.87777573">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66774857" lon="-72.87786960">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66773300" lon="-72.87798226">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66769795" lon="-72.87808418">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66762786" lon="-72.87814587">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66753634" lon="-72.87818074">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66739616" lon="-72.87822902">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66730854" lon="-72.87825048">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66722676" lon="-72.87826657">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66714888" lon="-72.87842482">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66713136" lon="-72.87859112">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66714693" lon="-72.87869841">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66722092" lon="-72.87885397">
-<ele>569.000</ele>
-</trkpt>
-<trkpt lat="43.66727155" lon="-72.87895053">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66734359" lon="-72.87907123">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66742342" lon="-72.87918657">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66747404" lon="-72.87932604">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66750130" lon="-72.87944943">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66755776" lon="-72.87964523">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66760060" lon="-72.87972837">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66767264" lon="-72.87987321">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66772326" lon="-72.87996977">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66781088" lon="-72.88014680">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66788486" lon="-72.88029164">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66795885" lon="-72.88039624">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66801921" lon="-72.88047135">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66809125" lon="-72.88057327">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66815355" lon="-72.88066447">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66824506" lon="-72.88082272">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66829179" lon="-72.88092732">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66829179" lon="-72.88110971">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66826648" lon="-72.88120359">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66824312" lon="-72.88138598">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66823922" lon="-72.88152545">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66824312" lon="-72.88165957">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66824896" lon="-72.88179636">
-<ele>574.000</ele>
-</trkpt>
-<trkpt lat="43.66826454" lon="-72.88196534">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66828790" lon="-72.88217991">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66833073" lon="-72.88237035">
-<ele>579.000</ele>
-</trkpt>
-<trkpt lat="43.66838525" lon="-72.88257688">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66843782" lon="-72.88274586">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66844171" lon="-72.88290143">
-<ele>576.000</ele>
-</trkpt>
-<trkpt lat="43.66837357" lon="-72.88303822">
-<ele>576.000</ele>
-</trkpt>
-<trkpt lat="43.66831711" lon="-72.88309455">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66820028" lon="-72.88319647">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66811656" lon="-72.88327157">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66806010" lon="-72.88333595">
-<ele>575.000</ele>
-</trkpt>
-<trkpt lat="43.66798806" lon="-72.88346737">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66792381" lon="-72.88359344">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66787513" lon="-72.88368463">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66783035" lon="-72.88375973">
-<ele>572.000</ele>
-</trkpt>
-<trkpt lat="43.66775247" lon="-72.88389921">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66770963" lon="-72.88397968">
-<ele>568.000</ele>
-</trkpt>
-<trkpt lat="43.66766096" lon="-72.88408160">
-<ele>568.000</ele>
-</trkpt>
-<trkpt lat="43.66763565" lon="-72.88419157">
-<ele>571.000</ele>
-</trkpt>
-<trkpt lat="43.66764149" lon="-72.88437664">
-<ele>571.000</ele>
-</trkpt>
-<trkpt lat="43.66769211" lon="-72.88448393">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66774079" lon="-72.88457244">
-<ele>573.000</ele>
-</trkpt>
-<trkpt lat="43.66783619" lon="-72.88466632">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66789460" lon="-72.88472533">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66795301" lon="-72.88481921">
-<ele>578.000</ele>
-</trkpt>
-<trkpt lat="43.66804647" lon="-72.88498550">
-<ele>577.000</ele>
-</trkpt>
-<trkpt lat="43.66818665" lon="-72.88507938">
-<ele>581.000</ele>
-</trkpt>
-<trkpt lat="43.66829569" lon="-72.88509548">
-<ele>581.000</ele>
-</trkpt>
-<trkpt lat="43.66842224" lon="-72.88512498">
-<ele>583.000</ele>
-</trkpt>
-<trkpt lat="43.66850402" lon="-72.88517058">
-<ele>583.000</ele>
-</trkpt>
-<trkpt lat="43.66856827" lon="-72.88520813">
-<ele>583.000</ele>
-</trkpt>
-<trkpt lat="43.66867535" lon="-72.88526982">
-<ele>589.000</ele>
-</trkpt>
-<trkpt lat="43.66883890" lon="-72.88536101">
-<ele>589.000</ele>
-</trkpt>
-<trkpt lat="43.66891094" lon="-72.88539856">
-<ele>592.000</ele>
-</trkpt>
-<trkpt lat="43.66901997" lon="-72.88546026">
-<ele>592.000</ele>
-</trkpt>
-<trkpt lat="43.66908617" lon="-72.88548976">
-<ele>592.000</ele>
-</trkpt>
-<trkpt lat="43.66919910" lon="-72.88554609">
-<ele>592.000</ele>
-</trkpt>
-<trkpt lat="43.66926919" lon="-72.88556754">
-<ele>593.000</ele>
-</trkpt>
-<trkpt lat="43.66936070" lon="-72.88560241">
-<ele>593.000</ele>
-</trkpt>
-<trkpt lat="43.66943079" lon="-72.88562655">
-<ele>593.000</ele>
-</trkpt>
-<trkpt lat="43.66957681" lon="-72.88566679">
-<ele>595.000</ele>
-</trkpt>
-<trkpt lat="43.66964690" lon="-72.88566679">
-<ele>595.000</ele>
-</trkpt>
-<trkpt lat="43.66975788" lon="-72.88565874">
-<ele>600.000</ele>
-</trkpt>
-<trkpt lat="43.66990390" lon="-72.88564533">
-<ele>600.000</ele>
-</trkpt>
-<trkpt lat="43.66998762" lon="-72.88564533">
-<ele>600.000</ele>
-</trkpt>
-<trkpt lat="43.67011417" lon="-72.88566142">
-<ele>604.000</ele>
-</trkpt>
-<trkpt lat="43.67025046" lon="-72.88576066">
-<ele>606.000</ele>
-</trkpt>
-<trkpt lat="43.67035365" lon="-72.88588136">
-<ele>606.000</ele>
-</trkpt>
-<trkpt lat="43.67043932" lon="-72.88599133">
-<ele>606.000</ele>
-</trkpt>
-<trkpt lat="43.67054640" lon="-72.88615227">
-<ele>608.000</ele>
-</trkpt>
-<trkpt lat="43.67063596" lon="-72.88627565">
-<ele>611.000</ele>
-</trkpt>
-<trkpt lat="43.67069631" lon="-72.88634538">
-<ele>611.000</ele>
-</trkpt>
-<trkpt lat="43.67075861" lon="-72.88640708">
-<ele>614.000</ele>
-</trkpt>
-<trkpt lat="43.67083844" lon="-72.88647413">
-<ele>614.000</ele>
-</trkpt>
-<trkpt lat="43.67096304" lon="-72.88656264">
-<ele>617.000</ele>
-</trkpt>
-<trkpt lat="43.67103703" lon="-72.88661092">
-<ele>617.000</ele>
-</trkpt>
-<trkpt lat="43.67110127" lon="-72.88664579">
-<ele>617.000</ele>
-</trkpt>
-<trkpt lat="43.67124340" lon="-72.88672894">
-<ele>621.000</ele>
-</trkpt>
-<trkpt lat="43.67131154" lon="-72.88676917">
-<ele>621.000</ele>
-</trkpt>
-<trkpt lat="43.67148676" lon="-72.88686842">
-<ele>623.000</ele>
-</trkpt>
-<trkpt lat="43.67163084" lon="-72.88694888">
-<ele>623.000</ele>
-</trkpt>
-<trkpt lat="43.67175154" lon="-72.88704008">
-<ele>627.000</ele>
-</trkpt>
-<trkpt lat="43.67182163" lon="-72.88708031">
-<ele>627.000</ele>
-</trkpt>
-<trkpt lat="43.67194818" lon="-72.88713395">
-<ele>627.000</ele>
-</trkpt>
-<trkpt lat="43.67202022" lon="-72.88715541">
-<ele>628.000</ele>
-</trkpt>
-<trkpt lat="43.67210004" lon="-72.88715273">
-<ele>628.000</ele>
-</trkpt>
-<trkpt lat="43.67221880" lon="-72.88715809">
-<ele>628.000</ele>
-</trkpt>
-<trkpt lat="43.67229278" lon="-72.88716078">
-<ele>631.000</ele>
-</trkpt>
-<trkpt lat="43.67242517" lon="-72.88716346">
-<ele>631.000</ele>
-</trkpt>
-<trkpt lat="43.67254003" lon="-72.88720101">
-<ele>635.000</ele>
-</trkpt>
-<trkpt lat="43.67265295" lon="-72.88726270">
-<ele>637.000</ele>
-</trkpt>
-<trkpt lat="43.67274056" lon="-72.88732439">
-<ele>637.000</ele>
-</trkpt>
-<trkpt lat="43.67281065" lon="-72.88737803">
-<ele>642.000</ele>
-</trkpt>
-<trkpt lat="43.67288268" lon="-72.88742363">
-<ele>642.000</ele>
-</trkpt>
-<trkpt lat="43.67296640" lon="-72.88752019">
-<ele>642.000</ele>
-</trkpt>
-<trkpt lat="43.67301897" lon="-72.88758188">
-<ele>642.000</ele>
-</trkpt>
-<trkpt lat="43.67314162" lon="-72.88769454">
-<ele>648.000</ele>
-</trkpt>
-<trkpt lat="43.67327206" lon="-72.88779378">
-<ele>650.000</ele>
-</trkpt>
-<trkpt lat="43.67332462" lon="-72.88786351">
-<ele>650.000</ele>
-</trkpt>
-<trkpt lat="43.67340444" lon="-72.88798153">
-<ele>655.000</ele>
-</trkpt>
-<trkpt lat="43.67353099" lon="-72.88806736">
-<ele>659.000</ele>
-</trkpt>
-<trkpt lat="43.67364585" lon="-72.88815856">
-<ele>659.000</ele>
-</trkpt>
-<trkpt lat="43.67377240" lon="-72.88829803">
-<ele>661.000</ele>
-</trkpt>
-<trkpt lat="43.67383859" lon="-72.88836241">
-<ele>667.000</ele>
-</trkpt>
-<trkpt lat="43.67394372" lon="-72.88844287">
-<ele>672.000</ele>
-</trkpt>
-<trkpt lat="43.67401770" lon="-72.88849115">
-<ele>672.000</ele>
-</trkpt>
-<trkpt lat="43.67410725" lon="-72.88853675">
-<ele>672.000</ele>
-</trkpt>
-<trkpt lat="43.67417539" lon="-72.88856357">
-<ele>678.000</ele>
-</trkpt>
-<trkpt lat="43.67424353" lon="-72.88858771">
-<ele>678.000</ele>
-</trkpt>
-<trkpt lat="43.67431167" lon="-72.88860917">
-<ele>678.000</ele>
-</trkpt>
-<trkpt lat="43.67438759" lon="-72.88861453">
-<ele>678.000</ele>
-</trkpt>
-<trkpt lat="43.67447520" lon="-72.88862258">
-<ele>682.000</ele>
-</trkpt>
-<trkpt lat="43.67454334" lon="-72.88863599">
-<ele>682.000</ele>
-</trkpt>
-<trkpt lat="43.67461926" lon="-72.88866013">
-<ele>688.000</ele>
-</trkpt>
-<trkpt lat="43.67469714" lon="-72.88867891">
-<ele>688.000</ele>
-</trkpt>
-<trkpt lat="43.67478280" lon="-72.88872182">
-<ele>690.000</ele>
-</trkpt>
-<trkpt lat="43.67486262" lon="-72.88876742">
-<ele>690.000</ele>
-</trkpt>
-<trkpt lat="43.67490934" lon="-72.88884520">
-<ele>690.000</ele>
-</trkpt>
-<trkpt lat="43.67496969" lon="-72.88897395">
-<ele>698.000</ele>
-</trkpt>
-<trkpt lat="43.67504561" lon="-72.88912684">
-<ele>698.000</ele>
-</trkpt>
-<trkpt lat="43.67515464" lon="-72.88923412">
-<ele>709.000</ele>
-</trkpt>
-<trkpt lat="43.67522861" lon="-72.88929850">
-<ele>709.000</ele>
-</trkpt>
-<trkpt lat="43.67530259" lon="-72.88936287">
-<ele>708.000</ele>
-</trkpt>
-<trkpt lat="43.67543108" lon="-72.88946748">
-<ele>716.000</ele>
-</trkpt>
-<trkpt lat="43.67551674" lon="-72.88953185">
-<ele>716.000</ele>
-</trkpt>
-<trkpt lat="43.67561992" lon="-72.88961768">
-<ele>719.000</ele>
-</trkpt>
-<trkpt lat="43.67568805" lon="-72.88967132">
-<ele>719.000</ele>
-</trkpt>
-<trkpt lat="43.67576009" lon="-72.88973838">
-<ele>719.000</ele>
-</trkpt>
-<trkpt lat="43.67586716" lon="-72.88984567">
-<ele>736.000</ele>
-</trkpt>
-<trkpt lat="43.67595866" lon="-72.88994491">
-<ele>736.000</ele>
-</trkpt>
-<trkpt lat="43.67606573" lon="-72.89005220">
-<ele>748.000</ele>
-</trkpt>
-<trkpt lat="43.67613776" lon="-72.89011121">
-<ele>748.000</ele>
-</trkpt>
-<trkpt lat="43.67620784" lon="-72.89016753">
-<ele>751.000</ele>
-</trkpt>
-<trkpt lat="43.67628571" lon="-72.89021849">
-<ele>751.000</ele>
-</trkpt>
-<trkpt lat="43.67636747" lon="-72.89027214">
-<ele>755.000</ele>
-</trkpt>
-<trkpt lat="43.67647260" lon="-72.89033651">
-<ele>755.000</ele>
-</trkpt>
-<trkpt lat="43.67656020" lon="-72.89037943">
-<ele>755.000</ele>
-</trkpt>
-<trkpt lat="43.67667312" lon="-72.89043844">
-<ele>757.000</ele>
-</trkpt>
-<trkpt lat="43.67674125" lon="-72.89047330">
-<ele>757.000</ele>
-</trkpt>
-<trkpt lat="43.67680939" lon="-72.89050013">
-<ele>757.000</ele>
-</trkpt>
-<trkpt lat="43.67691256" lon="-72.89053768">
-<ele>757.000</ele>
-</trkpt>
-<trkpt lat="43.67701963" lon="-72.89056450">
-<ele>773.000</ele>
-</trkpt>
-<trkpt lat="43.67709361" lon="-72.89058864">
-<ele>773.000</ele>
-</trkpt>
-<trkpt lat="43.67720652" lon="-72.89068520">
-<ele>773.000</ele>
-</trkpt>
-<trkpt lat="43.67726882" lon="-72.89078176">
-<ele>775.000</ele>
-</trkpt>
-<trkpt lat="43.67733111" lon="-72.89087564">
-<ele>783.000</ele>
-</trkpt>
-<trkpt lat="43.67740898" lon="-72.89102047">
-<ele>783.000</ele>
-</trkpt>
-<trkpt lat="43.67747906" lon="-72.89115190">
-<ele>792.000</ele>
-</trkpt>
-<trkpt lat="43.67752384" lon="-72.89123773">
-<ele>792.000</ele>
-</trkpt>
-<trkpt lat="43.67759197" lon="-72.89140940">
-<ele>799.000</ele>
-</trkpt>
-<trkpt lat="43.67765427" lon="-72.89157033">
-<ele>799.000</ele>
-</trkpt>
-<trkpt lat="43.67773992" lon="-72.89170980">
-<ele>805.000</ele>
-</trkpt>
-<trkpt lat="43.67778859" lon="-72.89178490">
-<ele>807.000</ele>
-</trkpt>
-<trkpt lat="43.67784699" lon="-72.89186001">
-<ele>807.000</ele>
-</trkpt>
-<trkpt lat="43.67791513" lon="-72.89193511">
-<ele>807.000</ele>
-</trkpt>
-<trkpt lat="43.67802998" lon="-72.89202899">
-<ele>815.000</ele>
-</trkpt>
-<trkpt lat="43.67814094" lon="-72.89208263">
-<ele>815.000</ele>
-</trkpt>
-<trkpt lat="43.67821492" lon="-72.89213896">
-<ele>815.000</ele>
-</trkpt>
-<trkpt lat="43.67829668" lon="-72.89223820">
-<ele>815.000</ele>
-</trkpt>
-<trkpt lat="43.67838428" lon="-72.89237499">
-<ele>822.000</ele>
-</trkpt>
-<trkpt lat="43.67849913" lon="-72.89251447">
-<ele>828.000</ele>
-</trkpt>
-<trkpt lat="43.67862372" lon="-72.89266735">
-<ele>828.000</ele>
-</trkpt>
-<trkpt lat="43.67868212" lon="-72.89276391">
-<ele>834.000</ele>
-</trkpt>
-<trkpt lat="43.67870159" lon="-72.89287120">
-<ele>834.000</ele>
-</trkpt>
-<trkpt lat="43.67869575" lon="-72.89298117">
-<ele>834.000</ele>
-</trkpt>
-<trkpt lat="43.67871132" lon="-72.89321989">
-<ele>839.000</ele>
-</trkpt>
-<trkpt lat="43.67877167" lon="-72.89343178">
-<ele>846.000</ele>
-</trkpt>
-<trkpt lat="43.67883591" lon="-72.89354980">
-<ele>846.000</ele>
-</trkpt>
-<trkpt lat="43.67892935" lon="-72.89365440">
-<ele>850.000</ele>
-</trkpt>
-<trkpt lat="43.67901695" lon="-72.89377242">
-<ele>850.000</ele>
-</trkpt>
-<trkpt lat="43.67911428" lon="-72.89390921">
-<ele>854.000</ele>
-</trkpt>
-<trkpt lat="43.67923498" lon="-72.89409697">
-<ele>854.000</ele>
-</trkpt>
-<trkpt lat="43.67935372" lon="-72.89425790">
-<ele>857.000</ele>
-</trkpt>
-<trkpt lat="43.67943353" lon="-72.89438396">
-<ele>857.000</ele>
-</trkpt>
-<trkpt lat="43.67948220" lon="-72.89448857">
-<ele>862.000</ele>
-</trkpt>
-<trkpt lat="43.67951335" lon="-72.89464414">
-<ele>862.000</ele>
-</trkpt>
-<trkpt lat="43.67956785" lon="-72.89483189">
-<ele>868.000</ele>
-</trkpt>
-<trkpt lat="43.67960873" lon="-72.89496064">
-<ele>868.000</ele>
-</trkpt>
-<trkpt lat="43.67962820" lon="-72.89505452">
-<ele>874.000</ele>
-</trkpt>
-<trkpt lat="43.67963793" lon="-72.89515644">
-<ele>874.000</ele>
-</trkpt>
-<trkpt lat="43.67963404" lon="-72.89534956">
-<ele>877.000</ele>
-</trkpt>
-<trkpt lat="43.67963599" lon="-72.89545685">
-<ele>877.000</ele>
-</trkpt>
-<trkpt lat="43.67967297" lon="-72.89561778">
-<ele>881.000</ele>
-</trkpt>
-<trkpt lat="43.67972748" lon="-72.89575189">
-<ele>881.000</ele>
-</trkpt>
-<trkpt lat="43.67976446" lon="-72.89588868">
-<ele>883.000</ele>
-</trkpt>
-<trkpt lat="43.67976641" lon="-72.89606303">
-<ele>883.000</ele>
-</trkpt>
-<trkpt lat="43.67974500" lon="-72.89617032">
-<ele>888.000</ele>
-</trkpt>
-<trkpt lat="43.67972359" lon="-72.89627760">
-<ele>888.000</ele>
-</trkpt>
-<trkpt lat="43.67970217" lon="-72.89638221">
-<ele>895.000</ele>
-</trkpt>
-<trkpt lat="43.67969828" lon="-72.89648682">
-<ele>895.000</ele>
-</trkpt>
-<trkpt lat="43.67971385" lon="-72.89659411">
-<ele>895.000</ele>
-</trkpt>
-<trkpt lat="43.67973916" lon="-72.89669335">
-<ele>902.000</ele>
-</trkpt>
-<trkpt lat="43.67977031" lon="-72.89679527">
-<ele>901.000</ele>
-</trkpt>
-<trkpt lat="43.67980145" lon="-72.89692133">
-<ele>901.000</ele>
-</trkpt>
-<trkpt lat="43.67984233" lon="-72.89704472">
-<ele>906.000</ele>
-</trkpt>
-<trkpt lat="43.67986764" lon="-72.89715469">
-<ele>906.000</ele>
-</trkpt>
-<trkpt lat="43.67990268" lon="-72.89732367">
-<ele>909.000</ele>
-</trkpt>
-<trkpt lat="43.67993772" lon="-72.89747655">
-<ele>909.000</ele>
-</trkpt>
-<trkpt lat="43.67997276" lon="-72.89767504">
-<ele>911.000</ele>
-</trkpt>
-<trkpt lat="43.67998444" lon="-72.89778232">
-<ele>917.000</ele>
-</trkpt>
-<trkpt lat="43.67999806" lon="-72.89788425">
-<ele>917.000</ele>
-</trkpt>
-<trkpt lat="43.68001169" lon="-72.89803445">
-<ele>917.000</ele>
-</trkpt>
-<trkpt lat="43.68002142" lon="-72.89812833">
-<ele>921.000</ele>
-</trkpt>
-<trkpt lat="43.68003894" lon="-72.89831608">
-<ele>921.000</ele>
-</trkpt>
-<trkpt lat="43.68004868" lon="-72.89848774">
-<ele>925.000</ele>
-</trkpt>
-<trkpt lat="43.68003894" lon="-72.89861649">
-<ele>925.000</ele>
-</trkpt>
-<trkpt lat="43.67999612" lon="-72.89881229">
-<ele>928.000</ele>
-</trkpt>
-<trkpt lat="43.67996302" lon="-72.89890885">
-<ele>932.000</ele>
-</trkpt>
-<trkpt lat="43.67991436" lon="-72.89904833">
-<ele>934.000</ele>
-</trkpt>
-<trkpt lat="43.67988127" lon="-72.89927900">
-<ele>938.000</ele>
-</trkpt>
-<trkpt lat="43.67988516" lon="-72.89939165">
-<ele>938.000</ele>
-</trkpt>
-<trkpt lat="43.67988711" lon="-72.89950430">
-<ele>940.000</ele>
-</trkpt>
-<trkpt lat="43.67984817" lon="-72.89966255">
-<ele>940.000</ele>
-</trkpt>
-<trkpt lat="43.67978393" lon="-72.89970547">
-<ele>940.000</ele>
-</trkpt>
-<trkpt lat="43.67971969" lon="-72.89974302">
-<ele>945.000</ele>
-</trkpt>
-<trkpt lat="43.67963599" lon="-72.89979666">
-<ele>949.000</ele>
-</trkpt>
-<trkpt lat="43.67956396" lon="-72.89985299">
-<ele>949.000</ele>
-</trkpt>
-<trkpt lat="43.67949972" lon="-72.89992273">
-<ele>949.000</ele>
-</trkpt>
-<trkpt lat="43.67944522" lon="-72.90000319">
-<ele>959.000</ele>
-</trkpt>
-<trkpt lat="43.67935956" lon="-72.90012926">
-<ele>959.000</ele>
-</trkpt>
-<trkpt lat="43.67929532" lon="-72.90019631">
-<ele>959.000</ele>
-</trkpt>
-<trkpt lat="43.67921941" lon="-72.90023923">
-<ele>959.000</ele>
-</trkpt>
-<trkpt lat="43.67915322" lon="-72.90026873">
-<ele>962.000</ele>
-</trkpt>
-<trkpt lat="43.67902863" lon="-72.90032506">
-<ele>965.000</ele>
-</trkpt>
-<trkpt lat="43.67889431" lon="-72.90039748">
-<ele>965.000</ele>
-</trkpt>
-<trkpt lat="43.67876973" lon="-72.90046185">
-<ele>969.000</ele>
-</trkpt>
-<trkpt lat="43.67869770" lon="-72.90049940">
-<ele>969.000</ele>
-</trkpt>
-<trkpt lat="43.67862567" lon="-72.90054232">
-<ele>973.000</ele>
-</trkpt>
-<trkpt lat="43.67853418" lon="-72.90058255">
-<ele>975.000</ele>
-</trkpt>
-<trkpt lat="43.67845826" lon="-72.90059864">
-<ele>975.000</ele>
-</trkpt>
-<trkpt lat="43.67834730" lon="-72.90063083">
-<ele>975.000</ele>
-</trkpt>
-<trkpt lat="43.67826943" lon="-72.90067106">
-<ele>975.000</ele>
-</trkpt>
-<trkpt lat="43.67820519" lon="-72.90071398">
-<ele>975.000</ele>
-</trkpt>
-<trkpt lat="43.67810201" lon="-72.90078640">
-<ele>975.000</ele>
-</trkpt>
-<trkpt lat="43.67801831" lon="-72.90086150">
-<ele>973.000</ele>
-</trkpt>
-<trkpt lat="43.67792876" lon="-72.90097415">
-<ele>973.000</ele>
-</trkpt>
-<trkpt lat="43.67790345" lon="-72.90113508">
-<ele>973.000</ele>
-</trkpt>
-<trkpt lat="43.67800273" lon="-72.90126115">
-<ele>976.000</ele>
-</trkpt>
-<trkpt lat="43.67805335" lon="-72.90134162">
-<ele>977.000</ele>
-</trkpt>
-<trkpt lat="43.67807671" lon="-72.90147304">
-<ele>981.000</ele>
-</trkpt>
-<trkpt lat="43.67807671" lon="-72.90158301">
-<ele>981.000</ele>
-</trkpt>
-<trkpt lat="43.67805529" lon="-72.90169567">
-<ele>984.000</ele>
-</trkpt>
-<trkpt lat="43.67793849" lon="-72.90179223">
-<ele>979.000</ele>
-</trkpt>
-<trkpt lat="43.67786257" lon="-72.90180832">
-<ele>979.000</ele>
-</trkpt>
-<trkpt lat="43.67779054" lon="-72.90184587">
-<ele>979.000</ele>
-</trkpt>
-<trkpt lat="43.67773798" lon="-72.90191024">
-<ele>978.000</ele>
-</trkpt>
-<trkpt lat="43.67768542" lon="-72.90198535">
-<ele>974.000</ele>
 </trkpt>
 </trkseg>
 </trk>
