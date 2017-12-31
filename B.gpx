@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T19:52:51.138Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T21:20:25.476Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
 </active_point>
 </extensions>
@@ -2383,7 +2383,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:27:31.312Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T21:20:25.476Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Skyline Pond Trail</label_text>
@@ -3458,7 +3458,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <trkpt lat="43.98865892" lon="-72.93774639">
 <ele>1041.000</ele>
 </trkpt>
-<trkpt lat="43.98865505" lon="-72.93761764">
+<trkpt lat="43.98867829" lon="-72.93762032">
 <ele>1041.000</ele>
 </trkpt>
 <trkpt lat="43.98866667" lon="-72.93746476">
@@ -5823,14 +5823,14 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </trkseg>
 </trk>
 <trk>
-<name>LT3132</name>
+<name>LT13575</name>
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:07:47.777Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T21:20:05.784Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT3132 View Spur</label_text>
+<label_text>LT13575 View Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
 <color>cb0017</color>
