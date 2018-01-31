@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:57:15.831Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T19:37:33.248Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.99215627" lon="-72.49199206">
 </active_point>
 </extensions>
@@ -310,7 +310,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:54:25.870Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:54:25.869Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DollPeak</label_text>
 </label>
@@ -1513,7 +1513,7 @@
 </extensions>
 </wpt>
 <wpt lat="44.68682832" lon="-72.69109565">
-<time>2018-01-29T23:51:54.620Z</time>
+<time>2018-01-29T23:51:54.619Z</time>
 <name>DavisNeighborhoodTH</name>
 <desc>Codding Hollow Road.</desc>
 <sym>Car</sym>
@@ -1599,7 +1599,7 @@
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:00:10.268Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:00:10.267Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HaystackSpur</label_text>
 </label>
@@ -1711,7 +1711,7 @@
 </extensions>
 </wpt>
 <wpt lat="44.92415273" lon="-72.53006819">
-<time>2018-01-30T15:45:00.212Z</time>
+<time>2018-01-30T15:45:00.211Z</time>
 <name>BigJaySpur</name>
 <desc>W 0.9 miles to Big Jay.</desc>
 <sym>Trail Head</sym>
@@ -34007,7 +34007,7 @@ starts 168.46</desc>
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:34:41.359Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T19:37:09.352Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Whiteface Trail</label_text>
@@ -34020,69 +34020,189 @@ starts 168.46</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="44.57119040" lon="-72.74110018"/>
-<trkpt lat="44.57130160" lon="-72.74108408"/>
-<trkpt lat="44.57135912" lon="-72.74084805"/>
-<trkpt lat="44.57150483" lon="-72.74061201"/>
-<trkpt lat="44.57160836" lon="-72.74046181"/>
-<trkpt lat="44.57166205" lon="-72.74031161"/>
-<trkpt lat="44.57170806" lon="-72.74017213"/>
-<trkpt lat="44.57173107" lon="-72.74000047"/>
-<trkpt lat="44.57177325" lon="-72.73983417"/>
-<trkpt lat="44.57179242" lon="-72.73958205"/>
-<trkpt lat="44.57182693" lon="-72.73941038"/>
-<trkpt lat="44.57193430" lon="-72.73919581"/>
-<trkpt lat="44.57216053" lon="-72.73908852"/>
-<trkpt lat="44.57233309" lon="-72.73908315"/>
-<trkpt lat="44.57244045" lon="-72.73894904"/>
-<trkpt lat="44.57259767" lon="-72.73882030"/>
-<trkpt lat="44.57281240" lon="-72.73886321"/>
-<trkpt lat="44.57298111" lon="-72.73893295"/>
-<trkpt lat="44.57311532" lon="-72.73899732"/>
-<trkpt lat="44.57324185" lon="-72.73899196"/>
-<trkpt lat="44.57338373" lon="-72.73908315"/>
-<trkpt lat="44.57348726" lon="-72.73922263"/>
-<trkpt lat="44.57362146" lon="-72.73938356"/>
-<trkpt lat="44.57372883" lon="-72.73951231"/>
-<trkpt lat="44.57393588" lon="-72.73966251"/>
-<trkpt lat="44.57405475" lon="-72.73965715"/>
-<trkpt lat="44.57419279" lon="-72.73960350"/>
-<trkpt lat="44.57438067" lon="-72.73958205"/>
-<trkpt lat="44.57453404" lon="-72.73958205"/>
-<trkpt lat="44.57464524" lon="-72.73959277"/>
-<trkpt lat="44.57477177" lon="-72.73964642"/>
-<trkpt lat="44.57491748" lon="-72.73966788"/>
-<trkpt lat="44.57502867" lon="-72.73966251"/>
-<trkpt lat="44.57515904" lon="-72.73957132"/>
-<trkpt lat="44.57529324" lon="-72.73948012"/>
-<trkpt lat="44.57540443" lon="-72.73943184"/>
-<trkpt lat="44.57554630" lon="-72.73945330"/>
-<trkpt lat="44.57566133" lon="-72.73946939"/>
-<trkpt lat="44.57579553" lon="-72.73952304"/>
-<trkpt lat="44.57594507" lon="-72.73957668"/>
-<trkpt lat="44.57608310" lon="-72.73958741"/>
-<trkpt lat="44.57622880" lon="-72.73954449"/>
-<trkpt lat="44.57634000" lon="-72.73946939"/>
-<trkpt lat="44.57649720" lon="-72.73939966"/>
-<trkpt lat="44.57664290" lon="-72.73941038"/>
-<trkpt lat="44.57679627" lon="-72.73943184"/>
-<trkpt lat="44.57696881" lon="-72.73941575"/>
-<trkpt lat="44.57714901" lon="-72.73951231"/>
-<trkpt lat="44.57726787" lon="-72.73958205"/>
-<trkpt lat="44.57744424" lon="-72.73964642"/>
-<trkpt lat="44.57765129" lon="-72.73973761"/>
-<trkpt lat="44.57775864" lon="-72.73980735"/>
-<trkpt lat="44.57787750" lon="-72.73986100"/>
-<trkpt lat="44.57804620" lon="-72.73996292"/>
-<trkpt lat="44.57821490" lon="-72.74004875"/>
-<trkpt lat="44.57832993" lon="-72.74014531"/>
-<trkpt lat="44.57842961" lon="-72.74028478"/>
-<trkpt lat="44.57850629" lon="-72.74044572"/>
-<trkpt lat="44.57864815" lon="-72.74068712"/>
+<trkpt lat="44.57119040" lon="-72.74110018">
+<ele>682.000</ele>
+</trkpt>
+<trkpt lat="44.57130160" lon="-72.74108408">
+<ele>682.000</ele>
+</trkpt>
+<trkpt lat="44.57135912" lon="-72.74084805">
+<ele>690.000</ele>
+</trkpt>
+<trkpt lat="44.57150483" lon="-72.74061201">
+<ele>690.000</ele>
+</trkpt>
+<trkpt lat="44.57160836" lon="-72.74046181">
+<ele>693.000</ele>
+</trkpt>
+<trkpt lat="44.57166205" lon="-72.74031161">
+<ele>700.000</ele>
+</trkpt>
+<trkpt lat="44.57170806" lon="-72.74017213">
+<ele>703.000</ele>
+</trkpt>
+<trkpt lat="44.57173107" lon="-72.74000047">
+<ele>706.000</ele>
+</trkpt>
+<trkpt lat="44.57177325" lon="-72.73983417">
+<ele>706.000</ele>
+</trkpt>
+<trkpt lat="44.57179242" lon="-72.73958205">
+<ele>708.000</ele>
+</trkpt>
+<trkpt lat="44.57182693" lon="-72.73941038">
+<ele>710.000</ele>
+</trkpt>
+<trkpt lat="44.57193430" lon="-72.73919581">
+<ele>710.000</ele>
+</trkpt>
+<trkpt lat="44.57216053" lon="-72.73908852">
+<ele>720.000</ele>
+</trkpt>
+<trkpt lat="44.57233309" lon="-72.73908315">
+<ele>726.000</ele>
+</trkpt>
+<trkpt lat="44.57244045" lon="-72.73894904">
+<ele>726.000</ele>
+</trkpt>
+<trkpt lat="44.57259767" lon="-72.73882030">
+<ele>735.000</ele>
+</trkpt>
+<trkpt lat="44.57281240" lon="-72.73886321">
+<ele>740.000</ele>
+</trkpt>
+<trkpt lat="44.57298111" lon="-72.73893295">
+<ele>740.000</ele>
+</trkpt>
+<trkpt lat="44.57311532" lon="-72.73899732">
+<ele>748.000</ele>
+</trkpt>
+<trkpt lat="44.57324185" lon="-72.73899196">
+<ele>748.000</ele>
+</trkpt>
+<trkpt lat="44.57338373" lon="-72.73908315">
+<ele>758.000</ele>
+</trkpt>
+<trkpt lat="44.57348726" lon="-72.73922263">
+<ele>756.000</ele>
+</trkpt>
+<trkpt lat="44.57362146" lon="-72.73938356">
+<ele>756.000</ele>
+</trkpt>
+<trkpt lat="44.57372883" lon="-72.73951231">
+<ele>762.000</ele>
+</trkpt>
+<trkpt lat="44.57393588" lon="-72.73966251">
+<ele>769.000</ele>
+</trkpt>
+<trkpt lat="44.57405475" lon="-72.73965715">
+<ele>769.000</ele>
+</trkpt>
+<trkpt lat="44.57419279" lon="-72.73960350">
+<ele>776.000</ele>
+</trkpt>
+<trkpt lat="44.57438067" lon="-72.73958205">
+<ele>776.000</ele>
+</trkpt>
+<trkpt lat="44.57453404" lon="-72.73958205">
+<ele>784.000</ele>
+</trkpt>
+<trkpt lat="44.57464524" lon="-72.73959277">
+<ele>784.000</ele>
+</trkpt>
+<trkpt lat="44.57477177" lon="-72.73964642">
+<ele>792.000</ele>
+</trkpt>
+<trkpt lat="44.57491748" lon="-72.73966788">
+<ele>792.000</ele>
+</trkpt>
+<trkpt lat="44.57502867" lon="-72.73966251">
+<ele>803.000</ele>
+</trkpt>
+<trkpt lat="44.57515904" lon="-72.73957132">
+<ele>803.000</ele>
+</trkpt>
+<trkpt lat="44.57529324" lon="-72.73948012">
+<ele>817.000</ele>
+</trkpt>
+<trkpt lat="44.57540443" lon="-72.73943184">
+<ele>822.000</ele>
+</trkpt>
+<trkpt lat="44.57554630" lon="-72.73945330">
+<ele>817.000</ele>
+</trkpt>
+<trkpt lat="44.57566133" lon="-72.73946939">
+<ele>826.000</ele>
+</trkpt>
+<trkpt lat="44.57579553" lon="-72.73952304">
+<ele>826.000</ele>
+</trkpt>
+<trkpt lat="44.57594507" lon="-72.73957668">
+<ele>834.000</ele>
+</trkpt>
+<trkpt lat="44.57608310" lon="-72.73958741">
+<ele>834.000</ele>
+</trkpt>
+<trkpt lat="44.57622880" lon="-72.73954449">
+<ele>843.000</ele>
+</trkpt>
+<trkpt lat="44.57634000" lon="-72.73946939">
+<ele>843.000</ele>
+</trkpt>
+<trkpt lat="44.57649720" lon="-72.73939966">
+<ele>861.000</ele>
+</trkpt>
+<trkpt lat="44.57664290" lon="-72.73941038">
+<ele>861.000</ele>
+</trkpt>
+<trkpt lat="44.57679627" lon="-72.73943184">
+<ele>870.000</ele>
+</trkpt>
+<trkpt lat="44.57696881" lon="-72.73941575">
+<ele>881.000</ele>
+</trkpt>
+<trkpt lat="44.57714901" lon="-72.73951231">
+<ele>877.000</ele>
+</trkpt>
+<trkpt lat="44.57726787" lon="-72.73958205">
+<ele>886.000</ele>
+</trkpt>
+<trkpt lat="44.57744424" lon="-72.73964642">
+<ele>886.000</ele>
+</trkpt>
+<trkpt lat="44.57765129" lon="-72.73973761">
+<ele>894.000</ele>
+</trkpt>
+<trkpt lat="44.57775864" lon="-72.73980735">
+<ele>904.000</ele>
+</trkpt>
+<trkpt lat="44.57787750" lon="-72.73986100">
+<ele>904.000</ele>
+</trkpt>
+<trkpt lat="44.57804620" lon="-72.73996292">
+<ele>904.000</ele>
+</trkpt>
+<trkpt lat="44.57821490" lon="-72.74004875">
+<ele>918.000</ele>
+</trkpt>
+<trkpt lat="44.57832993" lon="-72.74014531">
+<ele>912.000</ele>
+</trkpt>
+<trkpt lat="44.57842961" lon="-72.74028478">
+<ele>915.000</ele>
+</trkpt>
+<trkpt lat="44.57850629" lon="-72.74044572">
+<ele>915.000</ele>
+</trkpt>
+<trkpt lat="44.57864815" lon="-72.74068712">
+<ele>907.000</ele>
+</trkpt>
 <trkpt lat="44.57875934" lon="-72.74084268">
 <ele>923.000</ele>
 </trkpt>
-<trkpt lat="44.57891654" lon="-72.74099825"/>
+<trkpt lat="44.57891654" lon="-72.74099825">
+<ele>935.000</ele>
+</trkpt>
 </trkseg>
 </trk>
 <trk>
@@ -35563,11 +35683,11 @@ starts 168.46</desc>
 </trkseg>
 </trk>
 <trk>
-<name>SLS</name>
+<name>SPRUCE</name>
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T14:36:05.935Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T19:37:33.248Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Spruce Ledge Spur</label_text>
@@ -35580,18 +35700,42 @@ starts 168.46</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="44.74554867" lon="-72.61131603"/>
-<trkpt lat="44.74544163" lon="-72.61117119"/>
-<trkpt lat="44.74532694" lon="-72.61093515"/>
-<trkpt lat="44.74530782" lon="-72.61069912"/>
-<trkpt lat="44.74527341" lon="-72.61035580"/>
-<trkpt lat="44.74515490" lon="-72.61012513"/>
-<trkpt lat="44.74504403" lon="-72.60999638"/>
-<trkpt lat="44.74498287" lon="-72.60975498"/>
-<trkpt lat="44.74491787" lon="-72.60957796"/>
-<trkpt lat="44.74473819" lon="-72.60946530"/>
-<trkpt lat="44.74463182" lon="-72.60937941"/>
-<trkpt lat="44.74458145" lon="-72.60925609"/>
+<trkpt lat="44.74554867" lon="-72.61131603">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="44.74544163" lon="-72.61117119">
+<ele>448.000</ele>
+</trkpt>
+<trkpt lat="44.74532694" lon="-72.61093515">
+<ele>450.000</ele>
+</trkpt>
+<trkpt lat="44.74530782" lon="-72.61069912">
+<ele>452.000</ele>
+</trkpt>
+<trkpt lat="44.74527341" lon="-72.61035580">
+<ele>454.000</ele>
+</trkpt>
+<trkpt lat="44.74515490" lon="-72.61012513">
+<ele>461.000</ele>
+</trkpt>
+<trkpt lat="44.74504403" lon="-72.60999638">
+<ele>465.000</ele>
+</trkpt>
+<trkpt lat="44.74498287" lon="-72.60975498">
+<ele>466.000</ele>
+</trkpt>
+<trkpt lat="44.74491787" lon="-72.60957796">
+<ele>468.000</ele>
+</trkpt>
+<trkpt lat="44.74473819" lon="-72.60946530">
+<ele>467.000</ele>
+</trkpt>
+<trkpt lat="44.74463182" lon="-72.60937941">
+<ele>468.000</ele>
+</trkpt>
+<trkpt lat="44.74458145" lon="-72.60925609">
+<ele>468.000</ele>
+</trkpt>
 </trkseg>
 </trk>
 <trk>

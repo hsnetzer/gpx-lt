@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="42.74383300" minlon="-73.18774976" maxlat="43.68004868" maxlon="-72.77985014"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:56:50.641Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:49:44.721Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.57562778" lon="-72.80590852">
 </active_point>
 </extensions>
@@ -40162,24 +40162,54 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 <trkpt lat="43.52597971" lon="-72.91754368">
 <ele>438.000</ele>
 </trkpt>
-<trkpt lat="43.52599594" lon="-72.91741850"/>
-<trkpt lat="43.52603888" lon="-72.91729512"/>
-<trkpt lat="43.52609353" lon="-72.91716637"/>
-<trkpt lat="43.52612866" lon="-72.91701617"/>
-<trkpt lat="43.52607791" lon="-72.91680696"/>
-<trkpt lat="43.52603498" lon="-72.91667284"/>
-<trkpt lat="43.52597252" lon="-72.91652801"/>
-<trkpt lat="43.52587884" lon="-72.91638853"/>
-<trkpt lat="43.52579687" lon="-72.91627588"/>
-<trkpt lat="43.52573052" lon="-72.91609885"/>
-<trkpt lat="43.52571881" lon="-72.91591110"/>
-<trkpt lat="43.52573052" lon="-72.91573944"/>
-<trkpt lat="43.52574613" lon="-72.91556241"/>
-<trkpt lat="43.52574223" lon="-72.91542830"/>
+<trkpt lat="43.52599594" lon="-72.91741850">
+<ele>436.000</ele>
+</trkpt>
+<trkpt lat="43.52603888" lon="-72.91729512">
+<ele>436.000</ele>
+</trkpt>
+<trkpt lat="43.52609353" lon="-72.91716637">
+<ele>434.000</ele>
+</trkpt>
+<trkpt lat="43.52612866" lon="-72.91701617">
+<ele>434.000</ele>
+</trkpt>
+<trkpt lat="43.52607791" lon="-72.91680696">
+<ele>432.000</ele>
+</trkpt>
+<trkpt lat="43.52603498" lon="-72.91667284">
+<ele>432.000</ele>
+</trkpt>
+<trkpt lat="43.52597252" lon="-72.91652801">
+<ele>430.000</ele>
+</trkpt>
+<trkpt lat="43.52587884" lon="-72.91638853">
+<ele>430.000</ele>
+</trkpt>
+<trkpt lat="43.52579687" lon="-72.91627588">
+<ele>421.000</ele>
+</trkpt>
+<trkpt lat="43.52573052" lon="-72.91609885">
+<ele>418.000</ele>
+</trkpt>
+<trkpt lat="43.52571881" lon="-72.91591110">
+<ele>418.000</ele>
+</trkpt>
+<trkpt lat="43.52573052" lon="-72.91573944">
+<ele>415.000</ele>
+</trkpt>
+<trkpt lat="43.52574613" lon="-72.91556241">
+<ele>415.000</ele>
+</trkpt>
+<trkpt lat="43.52574223" lon="-72.91542830">
+<ele>412.000</ele>
+</trkpt>
 <trkpt lat="43.52573268" lon="-72.91526602">
 <ele>412.000</ele>
 </trkpt>
-<trkpt lat="43.52573442" lon="-72.91516544"/>
+<trkpt lat="43.52573442" lon="-72.91516544">
+<ele>411.000</ele>
+</trkpt>
 <trkpt lat="43.52573242" lon="-72.91498789">
 <ele>415.000</ele>
 </trkpt>
