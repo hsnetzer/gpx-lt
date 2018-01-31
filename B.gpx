@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T21:20:25.476Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:56:25.680Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
 </active_point>
 </extensions>
@@ -48720,11 +48720,11 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </trkseg>
 </trk>
 <trk>
-<name>BT</name>
+<name>BEANE</name>
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:35:59.198Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:56:25.680Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Beane Trail</label_text>

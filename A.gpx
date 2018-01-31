@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="42.74383300" minlon="-73.18774976" maxlat="43.68004868" maxlon="-72.77985014"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-21T01:59:24.552Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:56:50.641Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.57562778" lon="-72.80590852">
 </active_point>
 </extensions>
@@ -2864,7 +2864,7 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </extensions>
 </wpt>
 <wpt lat="43.60691746" lon="-72.82416788">
-<time>2018-01-21T01:55:44.041Z</time>
+<time>2018-01-21T01:55:44.040Z</time>
 <name>LTBucklin</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
@@ -59209,11 +59209,11 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </trkseg>
 </trk>
 <trk>
-<name>BPT</name>
+<name>BAKER</name>
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-31T17:36:13.219Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:56:50.641Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Baker Peak Trail</label_text>
