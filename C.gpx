@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T19:37:33.248Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:57.925Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.99215627" lon="-72.49199206">
 </active_point>
 </extensions>
@@ -1030,9 +1030,11 @@
 </wpt>
 <wpt lat="44.43478510" lon="-72.86501236">
 <time>2018-01-27T20:25:45.811Z</time>
+<name>BoltonView</name>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:57.925Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BoltonView</label_text>
 </label>
@@ -1078,9 +1080,11 @@
 </wpt>
 <wpt lat="44.50557279" lon="-72.84711009">
 <time>2018-01-27T22:41:31.308Z</time>
+<name>Butler~Nebraska</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:51.580Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Butler~Nebraska</label_text>
 </label>

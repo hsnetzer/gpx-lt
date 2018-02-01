@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:59:32.662Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:32.058Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
 </active_point>
 </extensions>
@@ -1786,13 +1786,13 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <wpt lat="44.00205554" lon="-72.94130308">
 <ele>1168.908</ele>
 <time>2017-12-02T13:28:08.734Z</time>
-<name>BreadloafMtn</name>
+<name>BreadloafMtnB</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:28:25.455Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:15.206Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BreadloafMtn</label_text>
+<label_text>BreadloafMtnB</label_text>
 </label>
 </extensions>
 </wpt>
@@ -2046,12 +2046,13 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <wpt lat="43.82974151" lon="-72.97098052">
 <ele>1003.402</ele>
 <time>2017-12-09T02:58:26.517Z</time>
-<name>GoshenMtn</name>
+<name>GoshenMtnVT</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:32.058Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GoshenMtn</label_text>
+<label_text>GoshenMtnVT</label_text>
 </label>
 </extensions>
 </wpt>
