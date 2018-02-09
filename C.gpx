@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:57.925Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.99215627" lon="-72.49199206">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:54.121Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.48490799" lon="-72.82673957">
 </active_point>
 </extensions>
 </metadata>
@@ -146,7 +146,7 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.55691708" lon="-72.77286458">
+<wpt lat="44.55688927" lon="-72.77285653">
 <ele>925.000</ele>
 <time>2016-08-19T02:38:40.582Z</time>
 <name>SterlingPondShelter</name>
@@ -154,7 +154,7 @@
 <sym>Campground</sym>
 <type>Shelter</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-08-17T21:20:27.180Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:32:30.545Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SterlingPondShelter</label_text>
 </label>
@@ -558,13 +558,13 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.48656361" lon="-72.83342431">
+<wpt lat="44.48666921" lon="-72.83327679">
 <time>2017-08-17T20:18:13.316Z</time>
 <name>ClaraBowTr</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-27T23:41:08.714Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:37:17.447Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ClaraBowTr</label_text>
 </label>
@@ -595,13 +595,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.50485679" lon="-72.82580667">
+<wpt lat="44.50488174" lon="-72.82590591">
 <time>2017-08-17T20:21:35.725Z</time>
 <name>LT19989</name>
 <desc>Cross a brook.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:38:44.711Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT19989</label_text>
 </label>
@@ -652,12 +653,13 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.51512751" lon="-72.81756085">
+<wpt lat="44.51509297" lon="-72.81756621">
 <time>2017-08-17T21:04:13.090Z</time>
 <name>ForeheadBypass</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:41:21.974Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ForeheadBypass</label_text>
 </label>
@@ -1529,11 +1531,13 @@
 </extensions>
 </wpt>
 <wpt lat="44.72393713" lon="-72.63508040">
+<ele>682.000</ele>
 <time>2018-01-30T14:33:36.628Z</time>
 <name>BowenMtn</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:26.425Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BowenMtn</label_text>
 </label>
@@ -1586,11 +1590,13 @@
 </extensions>
 </wpt>
 <wpt lat="44.82333775" lon="-72.53816991">
+<ele>966.000</ele>
 <time>2018-01-30T14:58:58.274Z</time>
 <name>HaystackMtn</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:33.403Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HaystackMtn</label_text>
 </label>
@@ -1646,11 +1652,13 @@
 </extensions>
 </wpt>
 <wpt lat="44.84666850" lon="-72.51019362">
+<ele>738.000</ele>
 <time>2018-01-30T15:34:41.325Z</time>
 <name>StrawberryHill</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:47.664Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>StrawberryHill</label_text>
 </label>
@@ -1679,11 +1687,13 @@
 </extensions>
 </wpt>
 <wpt lat="44.90849663" lon="-72.49469258">
+<ele>904.000</ele>
 <time>2018-01-30T15:37:54.622Z</time>
 <name>GilpinMtn</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:54.121Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GilpinMtn</label_text>
 </label>
@@ -1828,6 +1838,41 @@
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>JourneysEnd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.47326738" lon="-72.80994693">
+<time>2018-02-09T19:34:21.854Z</time>
+<name>LakeMansfieldTH</name>
+<desc>Nebraska Valley Road.</desc>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:34:35.654Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LakeMansfieldTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48503257" lon="-72.82660001">
+<time>2018-02-09T19:37:59.448Z</time>
+<name>CBOW~LMAN</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CBOW~LMAN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48481560" lon="-72.82575780">
+<time>2018-02-09T19:38:11.409Z</time>
+<name>ClaraBowE</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ClaraBowE</label_text>
 </label>
 </extensions>
 </wpt>
@@ -4658,7 +4703,7 @@
 starts 168.46</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:56:38.418Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:41:36.927Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Trail</label_text>
@@ -9945,7 +9990,7 @@ starts 168.46</desc>
 <trkpt lat="44.50473093" lon="-72.82602361">
 <ele>722.694</ele>
 </trkpt>
-<trkpt lat="44.50485761" lon="-72.82592169">
+<trkpt lat="44.50488064" lon="-72.82590023">
 <ele>722.131</ele>
 </trkpt>
 <trkpt lat="44.50497662" lon="-72.82586268">
@@ -10242,8 +10287,11 @@ starts 168.46</desc>
 <trkpt lat="44.51510292" lon="-72.81782678">
 <ele>973.364</ele>
 </trkpt>
-<trkpt lat="44.51507221" lon="-72.81760684">
+<trkpt lat="44.51508756" lon="-72.81770340">
 <ele>966.202</ele>
+</trkpt>
+<trkpt lat="44.51509623" lon="-72.81758298">
+<ele>970.079</ele>
 </trkpt>
 <trkpt lat="44.51517201" lon="-72.81766585">
 <ele>975.571</ele>
@@ -12693,7 +12741,7 @@ starts 168.46</desc>
 <trkpt lat="44.55694150" lon="-72.77296147">
 <ele>921.655</ele>
 </trkpt>
-<trkpt lat="44.55686479" lon="-72.77276299">
+<trkpt lat="44.55688780" lon="-72.77285687">
 <ele>920.963</ele>
 </trkpt>
 <trkpt lat="44.55684561" lon="-72.77250550">
@@ -12927,7 +12975,7 @@ starts 168.46</desc>
 <trkpt lat="44.55940001" lon="-72.76017270">
 <ele>1050.353</ele>
 </trkpt>
-<trkpt lat="44.55936168" lon="-72.75974355">
+<trkpt lat="44.55942688" lon="-72.75988302">
 <ele>1060.083</ele>
 </trkpt>
 <trkpt lat="44.55956493" lon="-72.75988302">
@@ -29410,11 +29458,11 @@ starts 168.46</desc>
 </trkseg>
 </trk>
 <trk>
-<name>LMT</name>
+<name>LMAN</name>
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:38:19.996Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:37:49.300Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Lake Mansfield Trail</label_text>
@@ -38599,6 +38647,72 @@ starts 168.46</desc>
 <trkpt lat="44.91545712" lon="-72.50871781">
 <ele>750.000</ele>
 </trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>CBOW</name>
+<desc>good,e</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:37:58.482Z</time>
+<override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Clara Bow Trail</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="44.48667834" lon="-72.83325734"/>
+<trkpt lat="44.48673595" lon="-72.83302131"/>
+<trkpt lat="44.48675515" lon="-72.83280137"/>
+<trkpt lat="44.48678587" lon="-72.83260825"/>
+<trkpt lat="44.48685883" lon="-72.83240440"/>
+<trkpt lat="44.48692027" lon="-72.83227565"/>
+<trkpt lat="44.48700476" lon="-72.83208253"/>
+<trkpt lat="44.48703164" lon="-72.83194306"/>
+<trkpt lat="44.48704316" lon="-72.83174458"/>
+<trkpt lat="44.48700476" lon="-72.83150318"/>
+<trkpt lat="44.48697404" lon="-72.83127787"/>
+<trkpt lat="44.48696635" lon="-72.83103111"/>
+<trkpt lat="44.48697788" lon="-72.83073607"/>
+<trkpt lat="44.48701244" lon="-72.83047857"/>
+<trkpt lat="44.48705852" lon="-72.83029618"/>
+<trkpt lat="44.48709308" lon="-72.83010306"/>
+<trkpt lat="44.48714684" lon="-72.82987776"/>
+<trkpt lat="44.48717756" lon="-72.82972219"/>
+<trkpt lat="44.48722748" lon="-72.82948616"/>
+<trkpt lat="44.48721980" lon="-72.82925012"/>
+<trkpt lat="44.48717372" lon="-72.82907310"/>
+<trkpt lat="44.48709692" lon="-72.82889607"/>
+<trkpt lat="44.48698940" lon="-72.82874050"/>
+<trkpt lat="44.48682811" lon="-72.82863858"/>
+<trkpt lat="44.48668218" lon="-72.82852056"/>
+<trkpt lat="44.48658234" lon="-72.82840254"/>
+<trkpt lat="44.48644793" lon="-72.82826307"/>
+<trkpt lat="44.48632121" lon="-72.82813969"/>
+<trkpt lat="44.48619064" lon="-72.82800558"/>
+<trkpt lat="44.48607159" lon="-72.82787147"/>
+<trkpt lat="44.48595255" lon="-72.82773199"/>
+<trkpt lat="44.48582966" lon="-72.82760325"/>
+<trkpt lat="44.48567989" lon="-72.82745841"/>
+<trkpt lat="44.48556084" lon="-72.82731893"/>
+<trkpt lat="44.48543411" lon="-72.82719019"/>
+<trkpt lat="44.48532275" lon="-72.82710436"/>
+<trkpt lat="44.48521522" lon="-72.82699707"/>
+<trkpt lat="44.48510385" lon="-72.82681468"/>
+<trkpt lat="44.48503184" lon="-72.82659876"/>
+<trkpt lat="44.48500400" lon="-72.82640698"/>
+<trkpt lat="44.48498096" lon="-72.82617631"/>
+<trkpt lat="44.48495024" lon="-72.82597783"/>
+<trkpt lat="44.48489647" lon="-72.82583835">
+<ele>572.000</ele>
+</trkpt>
+<trkpt lat="44.48481967" lon="-72.82575789"/>
 </trkseg>
 </trk>
 <extensions>

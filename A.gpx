@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="42.74383300" minlon="-73.18774976" maxlat="43.68004868" maxlon="-72.77985014"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:49:44.721Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.57562778" lon="-72.80590852">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:17:22.697Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.40267448" lon="-72.95507531">
 </active_point>
 </extensions>
 </metadata>
@@ -1061,14 +1061,14 @@ E 2.5 miles to Shrewsbury Co-op at Pierces’ Store, sandwiches, M thru Sa 7a - 
 </label>
 </extensions>
 </wpt>
-<wpt lat="43.48331186" lon="-72.92576320">
+<wpt lat="43.48332065" lon="-72.92588792">
 <ele>588.264</ele>
 <time>2016-10-22T19:26:11.690Z</time>
 <name>AT165942</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T18:05:25.585Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:30:27.497Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AT165942</label_text>
 </label>
@@ -2138,12 +2138,14 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </extensions>
 </wpt>
 <wpt lat="43.15561453" lon="-73.05102516">
+<ele>209.000</ele>
 <time>2017-12-30T17:33:49.917Z</time>
 <name>GreenMtnHouse</name>
 <desc>&lt;https://www.facebook.com/greenmountainhouse.hikerhostel/&gt;, (802) 768-8088, &lt;http://www.greenmountainhouse.net/&gt;.</desc>
 <sym>Building</sym>
 <type>Hostel</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:16:50.887Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GreenMtnHouse</label_text>
 </label>
@@ -2672,23 +2674,26 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </extensions>
 </wpt>
 <wpt lat="43.58145614" lon="-72.92604026">
+<ele>620.000</ele>
 <time>2018-01-20T20:12:13.389Z</time>
 <name>BaldMtnSW</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-20T20:13:58.979Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:16:59.444Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BaldMtnSW</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="43.58403574" lon="-72.91908261">
+<ele>634.000</ele>
 <time>2018-01-20T20:14:15.627Z</time>
 <name>BaldMtnNE</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:17:05.506Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BaldMtnNE</label_text>
 </label>
@@ -2768,22 +2773,26 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </extensions>
 </wpt>
 <wpt lat="43.63636233" lon="-72.82004208">
+<ele>951.000</ele>
 <time>2018-01-20T20:27:59.936Z</time>
 <name>LittlePico</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:17:12.928Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LittlePico</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="43.62529633" lon="-72.82308907">
+<ele>1092.000</ele>
 <time>2018-01-20T20:28:13.259Z</time>
 <name>RamsHead</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:17:22.697Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RamsHead</label_text>
 </label>
@@ -3729,7 +3738,7 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-21T00:19:58.767Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:29:47.637Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Trail</label_text>
@@ -36112,7 +36121,7 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 <trkpt lat="43.44283197" lon="-72.94260543">
 <ele>696.000</ele>
 </trkpt>
-<trkpt lat="43.44300966" lon="-72.94237926">
+<trkpt lat="43.44295298" lon="-72.94249996">
 <ele>701.000</ele>
 </trkpt>
 <trkpt lat="43.44309184" lon="-72.94225994">
@@ -38896,7 +38905,7 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 <trkpt lat="43.49464116" lon="-72.92551659">
 <ele>503.000</ele>
 </trkpt>
-<trkpt lat="43.49472078" lon="-72.92551956">
+<trkpt lat="43.49480084" lon="-72.92553968">
 <ele>503.000</ele>
 </trkpt>
 <trkpt lat="43.49492317" lon="-72.92559840">
