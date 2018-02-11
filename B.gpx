@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:32.058Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:24:28.051Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
 </active_point>
 </extensions>
@@ -264,10 +264,11 @@
 <ele>1012.850</ele>
 <time>2016-08-18T17:39:55.910Z</time>
 <name>BoyceMtn</name>
+<cmt>ORP</cmt>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:01:02.334Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:24:16.305Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BoyceMtn</label_text>
 </label>
@@ -388,10 +389,11 @@ Junction with Emily Proctor Trail. W to </desc>
 <ele>1020.470</ele>
 <time>2016-08-18T18:04:31.046Z</time>
 <name>LittleHansPeak</name>
+<cmt>ORP</cmt>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T01:45:47.553Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:24:28.051Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LittleHansPeak</label_text>
 </label>

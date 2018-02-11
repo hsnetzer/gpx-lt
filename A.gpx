@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="42.74383300" minlon="-73.18774976" maxlat="43.68004868" maxlon="-72.77985014"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:17:22.697Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:23:27.783Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.40267448" lon="-72.95507531">
 </active_point>
 </extensions>
@@ -914,11 +914,12 @@ E 2.5 miles to Shrewsbury Co-op at Pierces’ Store, sandwiches, M thru Sa 7a - 
 <ele>1290.828</ele>
 <time>2016-04-14T21:47:37.443Z</time>
 <name>Killington</name>
+<cmt>ORP</cmt>
 <desc>4,235, highest point near the AT in Vermont, 10th most prominent peak in Appalachia.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T15:30:44.145Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:23:27.783Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Killington</label_text>
 </label>
@@ -2939,6 +2940,28 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </label>
 </extensions>
 </wpt>
+<wpt lat="43.60465067" lon="-72.82058046">
+<time>2018-02-11T20:22:56.235Z</time>
+<name>KSS12</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>KSS12</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="43.60484948" lon="-72.82005743">
+<time>2018-02-11T20:23:17.037Z</time>
+<name>KSS15</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>KSS15</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>MNS</name>
 <desc>good,e</desc>
@@ -3041,7 +3064,7 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T15:31:09.346Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:22:39.369Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Killington Summit Spur</label_text>
