@@ -53451,11 +53451,21 @@
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="44.43005594" lon="-72.61528659"/>
-<trkpt lat="44.42997521" lon="-72.61521551"/>
-<trkpt lat="44.42989834" lon="-72.61514845"/>
-<trkpt lat="44.42982722" lon="-72.61509079"/>
-<trkpt lat="44.42974842" lon="-72.61503714"/>
+    <trkpt lat="44.43005594" lon="-72.61528659">
+        <ele>1026.073</ele>
+    </trkpt>
+    <trkpt lat="44.42997521" lon="-72.61521551">
+        <ele>1025.739</ele>
+    </trkpt>
+    <trkpt lat="44.42989834" lon="-72.61514845">
+        <ele>1025.23</ele>
+    </trkpt>
+    <trkpt lat="44.42982722" lon="-72.61509079">
+        <ele>1022.949</ele>
+    </trkpt>
+    <trkpt lat="44.42974842" lon="-72.61503714">
+        <ele>1018.933</ele>
+    </trkpt>
 </trkseg>
 </trk>
 <extensions>
