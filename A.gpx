@@ -3781,13 +3781,13 @@ E 0.5 miles to Inn at the Long Trail.</desc>
 </trkseg>
 </trk>
 <trk>
-<name>AT</name>
+<name>LT</name>
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T14:42:04.967Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Appalachian Trail</label_text>
+<label_text>Long Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
 <color>cb0017</color>
