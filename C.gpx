@@ -1,458 +1,936 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.11 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-13T13:52:57.259Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:49:58.593Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.43005728" lon="-72.61528527">
 </active_point>
 </extensions>
 </metadata>
-<wpt lat="44.58228131" lon="-72.73996930">
-<ele>1132.027</ele>
-<time>2016-08-19T02:44:14.355Z</time>
-<name>WhitefaceMtn</name>
-<desc>Aka Sterling Mtn.</desc>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T22:46:52.920Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WhitefaceMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.62094430" lon="-72.72294330">
-<ele>348.000</ele>
-<time>2016-08-19T02:46:15.736Z</time>
-<name>WestSettlementRdS</name>
-<desc>Long Trail joins West Settlement Road</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-19T22:39:19.299Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WestSettlementRdS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.64511356" lon="-72.72816959">
-<ele>149.000</ele>
-<time>2016-08-19T02:47:41.071Z</time>
-<name>LT~Rt15</name>
-<desc>Vermont Route 15, parking lot.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T02:53:16.513Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Rt15</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.84144493" lon="-72.52517266">
-<ele>553.000</ele>
-<time>2016-08-19T19:59:05.173Z</time>
-<name>VtRoute58</name>
-<desc>Vermont Route 58, Hazen's Notch</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-19T22:38:50.375Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>VtRoute58</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.91265197" lon="-72.50401942">
-<ele>672.000</ele>
-<time>2016-08-19T20:20:38.055Z</time>
-<name>Vt242</name>
-<desc>Vermont Route 242, Jay Pass</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:38:22.207Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Vt242</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.76399028" lon="-72.58764935">
-<ele>400.000</ele>
-<time>2016-08-19T19:55:51.410Z</time>
-<name>Vt118</name>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T14:38:29.865Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Vt118</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53929307" lon="-72.79121625">
-<ele>504.000</ele>
-<time>2016-08-19T02:20:53.713Z</time>
-<name>Vt108</name>
-<desc>Closed in winter.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-08-17T21:19:12.790Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Vt108</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.98673880" lon="-72.50418437">
-<ele>640.000</ele>
-<time>2016-08-19T20:26:47.275Z</time>
-<name>Vt105</name>
-<desc>Vermont Route 105, North Jay Pass</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:56:10.388Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Vt105</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.79935921" lon="-72.55114180">
-<ele>788.000</ele>
-<time>2016-08-19T19:57:18.759Z</time>
-<name>TillotsonCamp</name>
-<desc>Water source is Lockwood Brook.</desc>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:33:08.140Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TillotsonCamp</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54267597" lon="-72.80943181">
-<ele>1107.000</ele>
-<time>2016-08-19T02:17:21.042Z</time>
-<name>TaftLodge</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:39:03.882Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TaftLodge</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55688927" lon="-72.77285653">
-<ele>925.000</ele>
-<time>2016-08-19T02:38:40.582Z</time>
-<name>SterlingPondShelter</name>
-<desc>Sleeps 10, privy. On Sterling Pond. Fee charged in peak season. </desc>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:32:30.545Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SterlingPondShelter</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.65497564" lon="-72.72302547">
-<ele>295.000</ele>
-<time>2016-08-19T02:55:52.506Z</time>
-<name>ProspectRockVT-II</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-11T21:56:12.673Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ProspectRockVT-II</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.68140311" lon="-72.71940314">
-<ele>387.000</ele>
-<time>2016-08-19T02:56:59.391Z</time>
-<name>PlotRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:45:04.203Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PlotRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52058619" lon="-72.81883898">
-<ele>1176.000</ele>
-<time>2016-08-19T02:12:59.003Z</time>
-<name>MapleRidgeTr</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T02:43:44.276Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MapleRidgeTr</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="44.54380291" lon="-72.81435567">
-<ele>1338.986</ele>
+<ele>1336.300</ele>
 <time>2016-08-19T02:17:42.818Z</time>
 <name>MansfieldChin</name>
 <desc>Highest point in Vermont.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T22:43:44.613Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MansfieldChin</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.56148093" lon="-72.75845995">
-<ele>1118.006</ele>
-<time>2016-08-19T02:40:38.163Z</time>
-<name>MadonnaPeak</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T22:39:37.121Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MadonnaPeak</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="45.00857437" lon="-72.48818764">
-<ele>635.000</ele>
-<time>2016-08-18T15:18:35.851Z</time>
-<name>LongTrailN</name>
-<desc>Northern Terminus of the Long Trail at the Vermont-Canada Border</desc>
+<wpt lat="44.54204638" lon="-72.81562162">
+<ele>1299.300</ele>
+<time>2017-08-17T21:15:50.213Z</time>
+<name>LT~Profanity~S</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T03:07:26.642Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LongTrailN</label_text>
+<label_text>LT~Profanity~S</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.72604113" lon="-72.71197611">
-<ele>850.392</ele>
-<time>2016-08-19T19:41:09.750Z</time>
-<name>LarawayMtn</name>
+<wpt lat="44.54193472" lon="-72.81574046">
+<ele>1295.200</ele>
+<time>2018-03-13T01:22:05.730Z</time>
+<name>LT~SunsetRidge</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~SunsetRidge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54204455" lon="-72.81642664">
+<ele>1277.100</ele>
+<time>2018-03-13T01:25:33.924Z</time>
+<name>LauraCowlesNE</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LauraCowlesNE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54004865" lon="-72.81682710">
+<ele>1251.700</ele>
+<time>2018-03-13T01:10:36.023Z</time>
+<name>SubwayN</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SubwayN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54673035" lon="-72.81049756">
+<ele>1251.400</ele>
+<time>2018-01-27T23:34:11.744Z</time>
+<name>AdamsApple</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LarawayMtn</label_text>
+<label_text>AdamsApple</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.65154666" lon="-72.72873321">
-<ele>145.000</ele>
-<time>2016-08-19T02:54:44.332Z</time>
-<name>LamoilleRiver</name>
-<sym>Bridge</sym>
-<type>Bridge</type>
+<wpt lat="44.53949985" lon="-72.81700631">
+<ele>1239.100</ele>
+<time>2017-08-17T21:13:52.786Z</time>
+<name>CliffTrail</name>
+<desc>E 0.4 miles to Cliff House Restaurant, open for lunch.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-19T22:39:13.634Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LamoilleRiver</label_text>
+<label_text>CliffTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54568000" lon="-72.81169000">
+<ele>1231.200</ele>
+<time>2017-10-21T17:32:20.034Z</time>
+<name>LTAdamsApple</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTAdamsApple</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52643458" lon="-72.81506471">
+<ele>1226.600</ele>
+<time>2018-03-12T19:57:03.071Z</time>
+<name>TheNose</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TheNose</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52565169" lon="-72.81443644">
+<ele>1219.800</ele>
+<time>2018-03-12T20:34:03.853Z</time>
+<name>TollRd~Top</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TollRd~Top</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53962905" lon="-72.81752936">
+<ele>1216.700</ele>
+<time>2018-03-13T01:12:36.234Z</time>
+<name>CanyonN~N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CanyonN~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53543564" lon="-72.81765195">
+<ele>1206.800</ele>
+<time>2017-10-21T17:30:59.511Z</time>
+<name>LTCanyonNTrail</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTCanyonNTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53357380" lon="-72.81713438">
+<ele>1202.900</ele>
+<time>2017-08-17T21:12:50.016Z</time>
+<name>AmherstTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AmherstTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55230128" lon="-72.80865502">
+<ele>1199.800</ele>
+<time>2018-03-12T20:59:58.994Z</time>
+<name>BearHead</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BearHead</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54800156" lon="-72.81060357">
+<ele>1192.300</ele>
+<time>2018-01-27T23:59:04.654Z</time>
+<name>AdamsApple~HellBk</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AdamsApple~HellBk</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52542184" lon="-72.81672145">
+<ele>1188.200</ele>
+<time>2018-03-12T23:28:18.862Z</time>
+<name>LakeviewS</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LakeviewS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52124638" lon="-72.81800610">
+<ele>1187.200</ele>
+<time>2017-08-17T21:07:46.767Z</time>
+<name>MansfieldForehead</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MansfieldForehead</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52514104" lon="-72.81641116">
+<ele>1187.200</ele>
+<time>2018-01-27T23:39:18.488Z</time>
+<name>LT~TollRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~TollRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52477521" lon="-72.81640348">
+<ele>1185.500</ele>
+<time>2017-08-17T21:09:15.405Z</time>
+<name>ForeheadBypassN</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ForeheadBypassN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52967809" lon="-72.81720412">
+<ele>1181.800</ele>
+<time>2017-08-17T21:11:51.890Z</time>
+<name>HalfwayHouseTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HalfwayHouseTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52400191" lon="-72.81652552">
+<ele>1180.900</ele>
+<time>2017-08-17T21:05:15.953Z</time>
+<name>TeardropTrail</name>
+<desc>Top of the Teardrop Trail, a difficult ski trail down the west side of Mt. Mansfield.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TeardropTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52713657" lon="-72.81633606">
+<ele>1180.000</ele>
+<time>2018-01-27T23:39:47.877Z</time>
+<name>LT~TollRd~2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~TollRd~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52792451" lon="-72.81583186">
+<ele>1175.900</ele>
+<time>2018-03-13T01:47:50.677Z</time>
+<name>SummitStation</name>
+<sym>Building</sym>
+<type>Building</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SummitStation</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52858184" lon="-72.81621000">
+<ele>1175.800</ele>
+<time>2018-01-27T23:40:02.932Z</time>
+<name>LT~TollRd~3</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~TollRd~3</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52058619" lon="-72.81883898">
+<ele>1174.000</ele>
+<time>2016-08-19T02:12:59.003Z</time>
+<name>MapleRidgeTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MapleRidgeTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52808363" lon="-72.81638215">
+<ele>1172.200</ele>
+<time>2018-03-12T23:28:50.029Z</time>
+<name>LakeviewN</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LakeviewN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52874479" lon="-72.81521617">
+<ele>1169.400</ele>
+<time>2018-03-12T20:52:21.542Z</time>
+<name>AmherstTH</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AmherstTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52805226" lon="-72.81655337">
+<ele>1169.100</ele>
+<time>2018-03-13T01:02:35.223Z</time>
+<name>Lakeview~Canyon</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Lakeview~Canyon</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.92412207" lon="-72.52554414">
-<ele>1175.918</ele>
+<ele>1168.200</ele>
 <time>2016-08-19T20:22:23.335Z</time>
 <name>JayPeak</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T02:24:59.321Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>JayPeak</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.65216125" lon="-72.72876271">
-<ele>153.000</ele>
-<time>2016-08-19T02:55:14.756Z</time>
-<name>HogbackRd</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="44.52933164" lon="-72.81518083">
+<ele>1168.000</ele>
+<time>2018-03-12T20:56:10.384Z</time>
+<name>CliffTrail~S</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-19T22:39:10.421Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HogbackRd</label_text>
+<label_text>CliffTrail~S</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.89147378" lon="-72.49967558">
-<ele>877.824</ele>
-<time>2016-08-19T20:18:18.565Z</time>
-<name>DomeysDome</name>
+<wpt lat="44.53724103" lon="-72.81551325">
+<ele>1168.000</ele>
+<time>2018-03-13T01:07:35.322Z</time>
+<name>CliffHouseJct</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CliffHouseJct</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.92415919" lon="-72.52609002">
+<ele>1165.400</ele>
+<time>2018-01-26T02:29:15.317Z</time>
+<name>LTJayAccessS</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTJayAccessS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53530280" lon="-72.81858418">
+<ele>1155.300</ele>
+<time>2018-03-13T01:11:45.724Z</time>
+<name>CanyonN~S</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CanyonN~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.91518888" lon="-72.54072599">
+<ele>1151.100</ele>
+<time>2018-01-30T15:39:44.623Z</time>
+<name>BigJay</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DomeysDome</label_text>
+<label_text>BigJay</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53069007" lon="-72.81871088">
+<ele>1132.700</ele>
+<time>2018-03-13T01:00:08.908Z</time>
+<name>HalfwayHouse~Canyon</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HalfwayHouse~Canyon</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.92244045" lon="-72.52436464">
+<ele>1126.500</ele>
+<time>2018-01-30T17:46:55.788Z</time>
+<name>LT~Vermonter</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~Vermonter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.58228131" lon="-72.73996930">
+<ele>1125.800</ele>
+<time>2016-08-19T02:44:14.355Z</time>
+<name>WhitefaceMtn</name>
+<desc>Aka Sterling Mtn.</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WhitefaceMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.44932074" lon="-72.83951529">
+<ele>1122.200</ele>
+<time>2016-08-19T01:36:37Z</time>
+<name>BoltonMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BoltonMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54313115" lon="-72.80990046">
+<ele>1119.100</ele>
+<time>2017-08-17T21:16:21.885Z</time>
+<name>LT~Profanity~N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~Profanity~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.56148093" lon="-72.75845995">
+<ele>1109.200</ele>
+<time>2016-08-19T02:40:38.163Z</time>
+<name>MadonnaPeak</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MadonnaPeak</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54297110" lon="-72.80940913">
+<ele>1105.100</ele>
+<time>2017-10-21T17:33:56.116Z</time>
+<name>LTHellBkCutoff</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTHellBkCutoff</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52422510" lon="-72.80754250">
+<ele>1103.900</ele>
+<time>2018-03-13T01:47:31.874Z</time>
+<name>Octagon</name>
+<sym>Building</sym>
+<type>Building</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Octagon</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52113982" lon="-72.81476466">
+<ele>1101.900</ele>
+<time>2018-03-12T20:38:54.903Z</time>
+<name>SLINK~W</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SLINK~W</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.92419836" lon="-72.52950659">
+<ele>1098.200</ele>
+<time>2017-04-18T13:18:15.621Z</time>
+<name>LTJayPeakRd</name>
+<desc>Unpaved road leads to the base of Jay Peak Ski Area.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTJayPeakRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54267597" lon="-72.80943181">
+<ele>1096.500</ele>
+<time>2016-08-19T02:17:21.042Z</time>
+<name>TaftLodge</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TaftLodge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53759887" lon="-72.81432299">
+<ele>1095.600</ele>
+<time>2018-03-12T20:42:59.713Z</time>
+<name>CliffHouse</name>
+<sym>Restaurant</sym>
+<type>Restaurant</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CliffHouse</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52396539" lon="-72.80896438">
+<ele>1092.100</ele>
+<time>2018-03-12T20:39:12.767Z</time>
+<name>SLINK~E</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SLINK~E</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52030800" lon="-72.82191944">
+<ele>1090.700</ele>
+<time>2017-08-17T21:00:20.056Z</time>
+<name>Wampahoofus</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Wampahoofus</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.92415273" lon="-72.53006819">
+<ele>1089.600</ele>
+<time>2018-01-30T15:45:00.211Z</time>
+<name>BigJaySpur</name>
+<desc>W 0.9 miles to Big Jay.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BigJaySpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52419610" lon="-72.80909681">
+<ele>1089.400</ele>
+<time>2018-01-27T23:48:45.272Z</time>
+<name>Haselton~TollRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Haselton~TollRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.42051497" lon="-72.63731214">
+<ele>1080.500</ele>
+<time>2018-03-16T23:43:41.038Z</time>
+<name>Ridge~Skyline</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Ridge~Skyline</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.39573636" lon="-72.64526440">
+<ele>1075.500</ele>
+<time>2018-03-16T23:16:12.438Z</time>
+<name>Middle~Water~Sky</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Middle~Water~Sky</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55943128" lon="-72.75987900">
+<ele>1062.400</ele>
+<time>2018-01-28T22:42:17.498Z</time>
+<name>LT~Drifter~B</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~Drifter~B</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.95764396" lon="-72.53600006">
+<ele>1040.100</ele>
+<time>2018-01-30T17:54:43.284Z</time>
+<name>NorthJayPeak</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>NorthJayPeak</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.57654053" lon="-72.75177051">
+<ele>1030.100</ele>
+<time>2018-01-28T22:45:32.148Z</time>
+<name>MorseMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MorseMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43005728" lon="-72.61528527">
+<ele>1026.100</ele>
+<time>2018-03-17T01:24:49.030Z</time>
+<name>Skyline171</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Skyline171</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.94711819" lon="-72.54050684">
-<ele>1039.063</ele>
+<ele>1024.800</ele>
 <time>2016-08-19T20:24:10.683Z</time>
 <name>DollPeak</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:54:25.869Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DollPeak</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.70767306" lon="-72.71099442">
-<ele>388.000</ele>
-<time>2016-08-19T02:57:39.595Z</time>
-<name>CoddingHollowRd</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="44.49364676" lon="-72.82154035">
+<ele>1019.900</ele>
+<time>2018-03-12T22:53:59.012Z</time>
+<name>DeweyMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:45:28.926Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CoddingHollowRd</label_text>
+<label_text>DeweyMtn</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.56870866" lon="-72.75325964">
-<ele>899.000</ele>
-<time>2016-08-19T02:42:13.229Z</time>
-<name>ChilcootPass</name>
-<desc>E 0.6 miles to Beaver Meadow Lodge.</desc>
+<wpt lat="44.39566461" lon="-72.64696504">
+<ele>1019.300</ele>
+<time>2018-03-16T23:41:56.384Z</time>
+<name>Waterbury~WhiteRock</name>
 <sym>Trail Head</sym>
-<type>Shelter Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:38:51.525Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ChilcootPass</label_text>
+<label_text>Waterbury~WhiteRock</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.99213131" lon="-72.49193619">
-<ele>813.816</ele>
-<time>2016-08-19T20:27:29.115Z</time>
-<name>CarletonMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
+<wpt lat="44.42974650" lon="-72.61503982">
+<ele>1018.800</ele>
+<time>2018-03-17T14:26:03.553Z</time>
+<name>SkylineView</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:56:51.929Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CarletonMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.70554893" lon="-72.66671651">
-<ele>827.532</ele>
-<time>2016-08-19T19:45:46.565Z</time>
-<name>ButternutMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:46:47.563Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ButternutMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51549687" lon="-72.82020556">
-<ele>909.000</ele>
-<time>2016-08-19T01:57:59.713Z</time>
-<name>ButlerLodge</name>
-<desc>Fully enclosed "lodge" sleeps 12, no tenting, privy, small spring, fee charged in peak season. </desc>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-08-17T21:00:48.467Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ButlerLodge</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.87887246" lon="-72.50967015">
-<ele>896.112</ele>
-<time>2016-08-19T20:17:53.450Z</time>
-<name>BuchananMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:39:56.674Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BuchananMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.77409956" lon="-72.55326698">
-<ele>973.000</ele>
-<time>2016-08-19T19:52:23.203Z</time>
-<name>BelvidereMtnTr</name>
-<desc>Junction of the Long Trail with the spur to the summit of Belvidere Mountain, 0.2 miles east. </desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:22:58.667Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BelvidereMtnTr</label_text>
+<label_text>SkylineView</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.77323291" lon="-72.55088525">
-<ele>1024.128</ele>
+<ele>1018.400</ele>
 <time>2016-08-19T19:50:28.220Z</time>
 <name>BelvidereMtn</name>
-<desc>Belvidere Mountain, 0.2 miles east of the Long Trail. Firetower. Views of an abandoned asbestos mine to the east. </desc>
+<desc>Belvidere Mountain, 0.2 miles east of the Long Trail. Firetower. Views of an abandoned asbestos mine to the east.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T02:50:20.372Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BelvidereMtn</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.48490207" lon="-72.82670478">
-<ele>589.000</ele>
-<time>2016-08-19T01:52:30.986Z</time>
-<name>TaylorLodge</name>
-<desc>Large enclosed "lodge" sleeps 20. Tenting nearby, privy. Water source is a spring 0.2 miles down the Lake Mansfield Trail.</desc>
-<sym>Campground</sym>
-<type>Shelter</type>
+<wpt lat="44.55090695" lon="-72.78343808">
+<ele>1007.500</ele>
+<time>2018-01-27T22:57:05.679Z</time>
+<name>SprucePeak</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:36:21.642Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TaylorLodge</label_text>
+<label_text>SprucePeak</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.45679923" lon="-72.83792423">
-<ele>895.000</ele>
-<time>2016-08-19T01:43:26.302Z</time>
-<name>PufferShelter</name>
-<sym>Campground</sym>
-<type>Shelter</type>
+<wpt lat="44.44316463" lon="-72.59173912">
+<ele>1000.100</ele>
+<time>2018-03-13T02:59:50.149Z</time>
+<name>MtWorcester</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T18:59:52.809Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PufferShelter</label_text>
+<label_text>MtWorcester</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54892510" lon="-72.80590300">
+<ele>996.500</ele>
+<time>2018-01-27T23:59:44.298Z</time>
+<name>HellBk~HellBkCut</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HellBk~HellBkCut</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55849545" lon="-72.76186383">
+<ele>995.700</ele>
+<time>2018-01-28T22:40:15.672Z</time>
+<name>LT~Drifter~A</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~Drifter~A</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.42408987" lon="-72.64429235">
+<ele>984.500</ele>
+<time>2018-03-16T22:04:34.918Z</time>
+<name>HogbackMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HogbackMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.82333775" lon="-72.53816991">
+<ele>972.300</ele>
+<time>2018-01-30T14:58:58.274Z</time>
+<name>HaystackMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HaystackMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.77409956" lon="-72.55326698">
+<ele>972.000</ele>
+<time>2016-08-19T19:52:23.203Z</time>
+<name>BelvidereMtnTr</name>
+<desc>Junction of the Long Trail with the spur to the summit of Belvidere Mountain, 0.2 miles east.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BelvidereMtnTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51509297" lon="-72.81756621">
+<ele>966.700</ele>
+<time>2017-08-17T21:04:13.090Z</time>
+<name>ForeheadBypass</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ForeheadBypass</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.90659674" lon="-72.54157625">
+<ele>965.600</ele>
+<time>2018-01-30T15:39:22.631Z</time>
+<name>LittleJay</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LittleJay</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.38912434" lon="-72.65304308">
+<ele>964.700</ele>
+<time>2018-03-16T22:19:37.514Z</time>
+<name>WhiteRockMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WhiteRockMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.44284194" lon="-72.84330391">
+<ele>962.400</ele>
+<time>2018-01-27T18:59:29.726Z</time>
+<name>LT17925</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT17925</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.82391614" lon="-72.53885655">
+<ele>962.000</ele>
+<time>2018-01-30T14:59:30.668Z</time>
+<name>HaystackSpur</name>
+<desc>W 0.1 miles to a view.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HaystackSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55233365" lon="-72.78114923">
+<ele>959.100</ele>
+<time>2018-01-28T22:34:12.998Z</time>
+<name>ElephantHeadTrailS</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ElephantHeadTrailS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.44274586" lon="-72.84361236">
+<ele>957.200</ele>
+<time>2018-01-27T18:59:19.115Z</time>
+<name>LT17923</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT17923</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.38917751" lon="-72.65247807">
+<ele>953.700</ele>
+<time>2018-03-16T23:25:17.634Z</time>
+<name>WhiteRock~Kemp</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WhiteRock~Kemp</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.46218956" lon="-72.83833193">
-<ele>957.986</ele>
+<ele>952.100</ele>
 <time>2016-08-19T01:44:33.825Z</time>
 <name>MtMayo</name>
 <sym>Summit</sym>
@@ -463,114 +941,793 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.39178047" lon="-72.91821516">
-<ele>242.000</ele>
-<time>2016-08-19T01:06:02.959Z</time>
-<name>DuckBkShelter</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:40:33.707Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DuckBkShelter</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.44932074" lon="-72.83951529">
-<ele>1124.712</ele>
-<time>2016-08-19T01:36:37Z</time>
-<name>BoltonMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:40:58.028Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BoltonMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="45.00242515" lon="-72.46587032">
-<ele>417.000</ele>
-<time>2017-03-02T01:57:53.552Z</time>
-<name>TrailsEnd</name>
-<desc>Parking Lot, Trails End Trailhead. </desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T14:11:07.575Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TrailsEnd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.92419836" lon="-72.52950659">
-<ele>1093.000</ele>
-<time>2017-04-18T13:18:15.621Z</time>
-<name>LTJayPeakRoad</name>
-<desc>Unpaved road leads to the base of Jay Peak Ski Area.</desc>
+<wpt lat="44.51904858" lon="-72.82848786">
+<ele>947.800</ele>
+<time>2018-03-12T19:48:53.043Z</time>
+<name>RockGardenW</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T02:24:35.091Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTJayPeakRd</label_text>
+<label_text>RockGardenW</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.92919445" lon="-72.50422677">
-<ele>614.000</ele>
-<time>2017-04-18T13:18:58.381Z</time>
-<name>JayPeakSki</name>
-<desc>Base of Jay Peak Ski Area's access road.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
+<wpt lat="44.57891002" lon="-72.74099876">
+<ele>937.200</ele>
+<time>2018-01-28T22:46:00.707Z</time>
+<name>LT~Whiteface</name>
+<desc>Whiteface Shelter nearby.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-18T13:19:33.591Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>JayPeakSki</label_text>
+<label_text>LT~Whiteface</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51635231" lon="-72.82040905">
+<ele>936.300</ele>
+<time>2018-03-12T19:49:16.400Z</time>
+<name>RockGardenE</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RockGardenE</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.51383295" lon="-72.81952060">
-<ele>928.000</ele>
+<ele>927.600</ele>
 <time>2017-04-20T14:07:27.963Z</time>
 <name>LTWallaceCutoff</name>
 <desc>W 0.1 miles to Butler Lodge.</desc>
 <sym>Trail Head</sym>
-<type>Shelter Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T02:51:41.306Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LTWallaceCutoff</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.48499919" lon="-72.82753803">
-<time>2017-08-17T20:15:30.316Z</time>
-<name>LakeMansfieldTr</name>
-<desc>E 200' to Taylor Lodge.</desc>
+<wpt lat="44.92053721" lon="-72.51635825">
+<ele>927.000</ele>
+<time>2018-01-30T17:46:24.635Z</time>
+<name>LT23810</name>
 <sym>Trail Head</sym>
-<type>Shelter Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:36:14.067Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LakeMansfieldTr</label_text>
+<label_text>LT23810</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.48666921" lon="-72.83327679">
-<time>2017-08-17T20:18:13.316Z</time>
-<name>ClaraBowTr</name>
+<wpt lat="44.55563015" lon="-72.77798947">
+<ele>923.500</ele>
+<time>2017-08-17T21:19:55.923Z</time>
+<name>SterlingPondTrail</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:37:17.447Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ClaraBowTr</label_text>
+<label_text>SterlingPondTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55688927" lon="-72.77285653">
+<ele>921.200</ele>
+<time>2016-08-19T02:38:40.582Z</time>
+<name>SterlingPondShelter</name>
+<desc>Sleeps 10, privy. On Sterling Pond. Fee charged in peak season.</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SterlingPondShelter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51549687" lon="-72.82020556">
+<ele>917.800</ele>
+<time>2016-08-19T01:57:59.713Z</time>
+<name>ButlerLodge</name>
+<desc>Fully enclosed "lodge" sleeps 12, no tenting, privy, small spring, fee charged in peak season.</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ButlerLodge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55481825" lon="-72.77467572">
+<ele>917.100</ele>
+<time>2018-01-28T22:33:48.108Z</time>
+<name>SterlingPondS</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SterlingPondS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55626878" lon="-72.77660545">
+<ele>914.600</ele>
+<time>2017-08-17T21:22:50.260Z</time>
+<name>SterlingPondW</name>
+<desc>Cross Sterling Pond's west outlet.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SterlingPondW</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51525296" lon="-72.82027827">
+<ele>909.100</ele>
+<time>2017-08-17T20:52:24.614Z</time>
+<name>ButlerWallace</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ButlerWallace</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.90849663" lon="-72.49469258">
+<ele>908.400</ele>
+<time>2018-01-30T15:37:54.622Z</time>
+<name>GilpinMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GilpinMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.47879402" lon="-72.84139591">
+<ele>903.600</ele>
+<time>2018-01-27T20:31:08.186Z</time>
+<name>MtClark</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtClark</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54146023" lon="-72.83115339">
+<ele>901.100</ele>
+<time>2018-03-12T20:57:53.055Z</time>
+<name>CantileverRock</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CantileverRock</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.56870866" lon="-72.75325964">
+<ele>891.100</ele>
+<time>2016-08-19T02:42:13.229Z</time>
+<name>ChilcootPass</name>
+<desc>E 0.6 miles to Beaver Meadow Lodge.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ChilcootPass</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.45679923" lon="-72.83792423">
+<ele>889.700</ele>
+<time>2016-08-19T01:43:26.302Z</time>
+<name>PufferShelter</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PufferShelter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54068689" lon="-72.83022661">
+<ele>888.400</ele>
+<time>2018-03-13T01:24:49.392Z</time>
+<name>CantiRockSpur</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CantiRockSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.89147378" lon="-72.49967558">
+<ele>886.000</ele>
+<time>2016-08-19T20:18:18.565Z</time>
+<name>DomeysDome</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DomeysDome</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.87887246" lon="-72.50967015">
+<ele>884.900</ele>
+<time>2016-08-19T20:17:53.450Z</time>
+<name>BuchananMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BuchananMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51948435" lon="-72.79846255">
+<ele>884.400</ele>
+<time>2018-03-12T20:24:52.688Z</time>
+<name>Sunrise</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Sunrise</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51858034" lon="-72.83210348">
+<ele>875.800</ele>
+<time>2018-03-12T19:49:39.336Z</time>
+<name>FrostTrN</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>FrostTrN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55326362" lon="-72.79263228">
+<ele>853.600</ele>
+<time>2018-01-28T22:09:19.593Z</time>
+<name>ElephantsHeadSpur</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ElephantsHeadSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.72604113" lon="-72.71197611">
+<ele>849.000</ele>
+<time>2016-08-19T19:41:09.750Z</time>
+<name>LarawayMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LarawayMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53932323" lon="-72.83849191">
+<ele>835.000</ele>
+<time>2018-03-12T20:58:23.426Z</time>
+<name>SunsetKnob</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SunsetKnob</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52960123" lon="-72.80564883">
+<ele>833.600</ele>
+<time>2018-01-27T23:47:27.122Z</time>
+<name>Haselton~LowerCliff</name>
+<desc>Lower Cliff Trail (blue) crosses Haselton Trail.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Haselton~LowerCliff</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.70554893" lon="-72.66671651">
+<ele>815.300</ele>
+<time>2016-08-19T19:45:46.565Z</time>
+<name>ButternutMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ButternutMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50656212" lon="-72.82239329">
+<ele>811.300</ele>
+<time>2018-03-12T22:55:54.052Z</time>
+<name>NeedlesEye</name>
+<desc>Aka Devil's Dishpan.</desc>
+<sym>Dropoff</sym>
+<type>Dropoff</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>NeedlesEye</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.99213131" lon="-72.49193619">
+<ele>810.300</ele>
+<time>2016-08-19T20:27:29.115Z</time>
+<name>CarletonMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CarletonMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.93595699" lon="-72.53531242">
+<ele>808.700</ele>
+<time>2018-01-30T17:26:24Z</time>
+<name>LauraWoodwardCabin</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LauraWoodwardCabin</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.42984691" lon="-72.65033734">
+<ele>801.900</ele>
+<time>2018-03-13T02:58:12.236Z</time>
+<name>StowePinnacle</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>StowePinnacle</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43478510" lon="-72.86501236">
+<ele>790.900</ele>
+<time>2018-01-27T20:25:45.811Z</time>
+<name>BoltonView</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BoltonView</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43487660" lon="-72.86537446">
+<ele>790.700</ele>
+<time>2018-01-27T18:58:02.546Z</time>
+<name>BoltonViewSpur</name>
+<desc>E 100' to a view.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BoltonViewSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.55296635" lon="-72.79404178">
+<ele>786.200</ele>
+<time>2018-01-28T22:08:20.570Z</time>
+<name>ElephantsHead</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ElephantsHead</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43600085" lon="-72.86031716">
+<ele>785.700</ele>
+<time>2018-01-27T18:58:45.974Z</time>
+<name>LT17785</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT17785</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.79935921" lon="-72.55114180">
+<ele>782.900</ele>
+<time>2016-08-19T19:57:18.759Z</time>
+<name>TillotsonCamp</name>
+<desc>Water source is Lockwood Brook.</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TillotsonCamp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.42878500" lon="-72.64736216">
+<ele>771.200</ele>
+<time>2018-03-16T22:20:40.805Z</time>
+<name>PMOT-S</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PMOT-S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.84416499" lon="-72.52105120">
+<ele>764.400</ele>
+<time>2018-01-30T15:34:19.391Z</time>
+<name>SugarloafHazens</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SugarloafHazens</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43388494" lon="-72.87004955">
+<ele>763.200</ele>
+<time>2018-01-27T18:58:26.930Z</time>
+<name>LT17722</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT17722</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.42932557" lon="-72.64781405">
+<ele>762.600</ele>
+<time>2018-03-13T03:02:47.756Z</time>
+<name>Stowe~Ridge</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Stowe~Ridge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.91545842" lon="-72.50869786">
+<ele>751.300</ele>
+<time>2018-01-30T17:45:22.760Z</time>
+<name>JayLoopN</name>
+<desc>W to Jay Camp.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JayLoopN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53130403" lon="-72.83000331">
+<ele>741.300</ele>
+<time>2018-03-12T19:48:10.277Z</time>
+<name>CCC~HalfwayHouse</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CCC~HalfwayHouse</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.84666850" lon="-72.51019362">
+<ele>739.800</ele>
+<time>2018-01-30T15:34:41.325Z</time>
+<name>StrawberryHill</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>StrawberryHill</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.38830599" lon="-72.64440475">
+<ele>732.200</ele>
+<time>2018-03-16T23:15:08.093Z</time>
+<name>Middlesex~Kemp</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Middlesex~Kemp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53974000" lon="-72.80009000">
+<ele>728.800</ele>
+<time>2017-10-21T17:35:22.346Z</time>
+<name>LT19788</name>
+<desc>Stream.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT19788</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43084067" lon="-72.87618444">
+<ele>724.200</ele>
+<time>2018-01-27T18:53:51.392Z</time>
+<name>BuchananSpur</name>
+<desc>E 0.3 miles to Buchanan Shelter.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BuchananSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50488174" lon="-72.82590591">
+<ele>722.900</ele>
+<time>2017-08-17T20:21:35.725Z</time>
+<name>LT19989</name>
+<desc>Cross a brook.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT19989</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50441978" lon="-72.82638499">
+<ele>720.500</ele>
+<time>2018-01-27T20:40:42.078Z</time>
+<name>LT18521</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT18521</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48582032" lon="-72.76760405">
+<ele>720.200</ele>
+<time>2018-03-13T01:59:54.945Z</time>
+<name>RoundTop</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RoundTop</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53527512" lon="-72.83123512">
+<ele>717.100</ele>
+<time>2018-03-13T01:25:12.881Z</time>
+<name>LauraCowlesSW</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LauraCowlesSW</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43101737" lon="-72.65120906">
+<ele>714.400</ele>
+<time>2018-03-13T02:56:16.093Z</time>
+<name>Stowe110</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Stowe110</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51648973" lon="-72.79055473">
+<ele>711.700</ele>
+<time>2018-03-13T01:46:55.433Z</time>
+<name>MtnChapel</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtnChapel</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53410225" lon="-72.83122774">
+<ele>704.700</ele>
+<time>2018-03-12T19:47:35.527Z</time>
+<name>CCC~SunsetRidgeTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CCC~SunsetRidgeTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50253800" lon="-72.82844865">
+<ele>696.200</ele>
+<time>2017-08-17T20:19:58.255Z</time>
+<name>TwinBrooksCamp</name>
+<desc>Tent platforms, privy. Water sources are north and south on the LT.</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TwinBrooksCamp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.72393713" lon="-72.63508040">
+<ele>686.000</ele>
+<time>2018-01-30T14:33:36.628Z</time>
+<name>BowenMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BowenMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51116302" lon="-72.80686261">
+<ele>684.500</ele>
+<time>2018-01-27T23:08:33.988Z</time>
+<name>Overland~Bruce</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Overland~Bruce</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.57118656" lon="-72.74111090">
+<ele>683.900</ele>
+<time>2018-01-29T23:19:59.784Z</time>
+<name>BPL~Whiteface</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BPL~Whiteface</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.91293695" lon="-72.50551676">
+<ele>682.800</ele>
+<time>2018-01-30T17:40:50.862Z</time>
+<name>JayLoopS</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JayLoopS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01762524" lon="-72.48951604">
+<ele>673.600</ele>
+<time>2018-01-30T17:53:43.389Z</time>
+<name>MontBurnt</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MontBurnt</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.96965004" lon="-72.51177435">
+<ele>673.500</ele>
+<time>2018-01-30T17:55:48.306Z</time>
+<name>ShootingStar</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ShootingStar</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.57101098" lon="-72.74196523">
+<ele>673.300</ele>
+<time>2018-01-29T23:25:32.687Z</time>
+<name>BPL~Inlet</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BPL~Inlet</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.56818593" lon="-72.74290530">
+<ele>672.300</ele>
+<time>2018-01-29T23:20:57.914Z</time>
+<name>BPL~Chilkoot</name>
+<desc>Beaver Meadow Lodge nearby.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BPL~Chilkoot</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.91265197" lon="-72.50401942">
+<ele>672.200</ele>
+<time>2016-08-19T20:20:38.055Z</time>
+<name>Vt242</name>
+<desc>Vermont Route 242, Jay Pass</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Vt242</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53226524" lon="-72.83459659">
+<ele>672.200</ele>
+<time>2018-03-12T19:46:50.051Z</time>
+<name>CCCRoad</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CCCRoad</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.56714862" lon="-72.73689984">
+<ele>666.200</ele>
+<time>2018-01-29T23:20:30.471Z</time>
+<name>BPL~Meadow</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BPL~Meadow</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.49952613" lon="-72.82984071">
+<ele>662.600</ele>
 <time>2017-08-17T20:19:07.727Z</time>
 <name>LT19934</name>
 <desc>Cross a brook.</desc>
@@ -582,1896 +1739,180 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.50253800" lon="-72.82844865">
-<time>2017-08-17T20:19:58.255Z</time>
-<name>TwinBrooksCamp</name>
-<desc>Tent platforms, privy. Water sources are north and south on the LT.</desc>
-<sym>Campground</sym>
-<type>Campsite</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:39:29.404Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TwinBrooksCamp</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50488174" lon="-72.82590591">
-<time>2017-08-17T20:21:35.725Z</time>
-<name>LT19989</name>
-<desc>Cross a brook.</desc>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:38:44.711Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT19989</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51525296" lon="-72.82027827">
-<time>2017-08-17T20:52:24.614Z</time>
-<name>ButlerWallace</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-26T02:52:00.323Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ButlerWallace</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50569797" lon="-72.84748358">
-<time>2017-08-17T20:59:04.369Z</time>
-<name>ButlerLodgeTr</name>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ButlerLodgeTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50611642" lon="-72.84366679">
-<time>2017-08-17T20:59:23.038Z</time>
-<name>FrostTrail</name>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FrostTrail</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52030800" lon="-72.82191944">
-<time>2017-08-17T21:00:20.056Z</time>
-<name>Wampahoofus</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T19:34:25.489Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Wampahoofus</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51509297" lon="-72.81756621">
-<time>2017-08-17T21:04:13.090Z</time>
-<name>ForeheadBypass</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:41:21.974Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ForeheadBypass</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52400191" lon="-72.81652552">
-<time>2017-08-17T21:05:15.953Z</time>
-<name>TeardropTrail</name>
-<desc>Top of the Teardrop Trail, a difficult ski trail down the west side of Mt. Mansfield. </desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TeardropTrail</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52124638" lon="-72.81800610">
-<time>2017-08-17T21:07:46.767Z</time>
-<name>MansfieldForehead</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T22:43:10.306Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MansfieldForehead</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52477521" lon="-72.81640348">
-<time>2017-08-17T21:09:15.405Z</time>
-<name>ForeheadBypassN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ForeheadBypassN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52967809" lon="-72.81720412">
-<time>2017-08-17T21:11:51.890Z</time>
-<name>HalfwayHouseTr</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T01:52:16.403Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HalfwayHouseTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53357380" lon="-72.81713438">
-<time>2017-08-17T21:12:50.016Z</time>
-<name>AmherstTr</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AmherstTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53949985" lon="-72.81700631">
-<time>2017-08-17T21:13:52.786Z</time>
-<name>CliffTrail</name>
-<desc>E 0.4 miles to Cliff House Restaurant, open for lunch. </desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-08-17T21:14:37.592Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CliffTrail</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54204638" lon="-72.81562162">
-<time>2017-08-17T21:15:50.213Z</time>
-<name>LT~Profanity~S</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T01:21:49.915Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Profanity~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54313115" lon="-72.80990046">
-<time>2017-08-17T21:16:21.885Z</time>
-<name>LT~Profanity~N</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T23:54:36.836Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Profanity~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53928626" lon="-72.79058512">
-<time>2017-08-17T21:18:31.741Z</time>
-<name>WBranchLittleRiver</name>
+<wpt lat="44.56660105" lon="-72.73736256">
+<ele>661.600</ele>
+<time>2018-01-29T23:25:10.443Z</time>
+<name>BeaverMeadowBk</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WBranchLittleRiver</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55563015" lon="-72.77798947">
-<time>2017-08-17T21:19:55.923Z</time>
-<name>SterlingPondTrail</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SterlingPondTrail</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55626878" lon="-72.77660545">
-<time>2017-08-17T21:22:50.260Z</time>
-<name>SterlingPondW</name>
-<desc>Cross Sterling Pond's west outlet. </desc>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T22:16:27.265Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SterlingPondW</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53543564" lon="-72.81765195">
-<ele>1207.008</ele>
-<time>2017-10-21T17:30:59.511Z</time>
-<name>LTCanyonNTrail</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T00:59:03.402Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTCanyonNTrail</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54568000" lon="-72.81169000">
-<time>2017-10-21T17:32:20.034Z</time>
-<name>LTAdamsApple</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTAdamsApple</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54297110" lon="-72.80940913">
-<time>2017-10-21T17:33:56.116Z</time>
-<name>LTHellBkCutoff</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T00:00:24.846Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTHellBkCutoff</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53974000" lon="-72.80009000">
-<time>2017-10-21T17:35:22.346Z</time>
-<name>LT19788</name>
-<desc>Stream.</desc>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-10-21T17:39:07.629Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT19788</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.92415919" lon="-72.52609002">
-<time>2018-01-26T02:29:15.317Z</time>
-<name>LTJayAccessS</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTJayAccessS</label_text>
+<label_text>BeaverMeadowBk</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.42740414" lon="-72.87640706">
+<ele>655.700</ele>
 <time>2018-01-27T18:51:57.307Z</time>
 <name>BuchananShelter</name>
 <sym>Campground</sym>
-<type>Shelter</type>
+<type>Campground</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BuchananShelter</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.43084067" lon="-72.87618444">
-<time>2018-01-27T18:53:51.392Z</time>
-<name>BuchananSpur</name>
-<desc>E 0.3 miles to Buchanan Shelter.</desc>
-<sym>Trail Head</sym>
-<type>Shelter Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BuchananSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.37187166" lon="-72.89573305">
-<time>2018-01-27T18:55:09.105Z</time>
-<name>DuxburyParking</name>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DuxburyParking</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.37851928" lon="-72.91692920">
-<time>2018-01-27T18:55:34.910Z</time>
-<name>WinooskiBridge</name>
-<sym>Bridge</sym>
-<type>Bridge</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WinooskiBridge</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.38046023" lon="-72.91686617">
-<time>2018-01-27T18:56:01.164Z</time>
-<name>NotchRoad</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:22:51.991Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>NotchRoad</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.38359274" lon="-72.91464262">
-<time>2018-01-27T18:56:30.448Z</time>
-<name>BoltonNotchRdN</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BoltonNotchRdN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.39141990" lon="-72.88985498">
-<ele>600.000</ele>
-<time>2018-01-27T18:57:02.422Z</time>
-<name>StimsonMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T18:57:12.825Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>StimsonMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.43487660" lon="-72.86537446">
-<time>2018-01-27T18:58:02.546Z</time>
-<name>BoltonViewSpur</name>
-<desc>E 100' to a view.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:26:46.471Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BoltonViewSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.43388494" lon="-72.87004955">
-<time>2018-01-27T18:58:26.930Z</time>
-<name>LT17722</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:24:52.126Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT17722</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.43600085" lon="-72.86031716">
-<time>2018-01-27T18:58:45.974Z</time>
-<name>LT17785</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:27:31.410Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT17785</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.44274586" lon="-72.84361236">
-<time>2018-01-27T18:59:19.115Z</time>
-<name>LT17923</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:28:04.458Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT17923</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.44284194" lon="-72.84330391">
-<time>2018-01-27T18:59:29.726Z</time>
-<name>LT17925</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:28:29.982Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT17925</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.42097574" lon="-72.88412243">
-<time>2018-01-27T19:00:21.971Z</time>
-<name>LT17560</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:24:18.072Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT17560</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.39575593" lon="-72.89059192">
-<time>2018-01-27T19:00:57.638Z</time>
-<name>LT17357</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:23:44.385Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT17357</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.37930824" lon="-72.91198120">
-<time>2018-01-27T20:23:14.323Z</time>
-<name>LT~US2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~US2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.43478510" lon="-72.86501236">
-<time>2018-01-27T20:25:45.811Z</time>
-<name>BoltonView</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:57.925Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BoltonView</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.47879402" lon="-72.84139591">
-<ele>898.000</ele>
-<time>2018-01-27T20:31:08.186Z</time>
-<name>MtClark</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T20:31:17.736Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtClark</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.48867390" lon="-72.83674234">
-<time>2018-01-27T20:39:46.582Z</time>
-<name>LT~Nebraska</name>
-<desc>Nebraska Notch Trail joins the LT.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T22:42:04.521Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Nebraska</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50441978" lon="-72.82638499">
-<time>2018-01-27T20:40:42.078Z</time>
-<name>LT18521</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T22:45:24.595Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT18521</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50557279" lon="-72.84711009">
-<time>2018-01-27T22:41:31.308Z</time>
-<name>Butler~Nebraska</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:51.580Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Butler~Nebraska</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50473670" lon="-72.84633319">
-<time>2018-01-27T22:54:47.332Z</time>
-<name>NNT7</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>NNT7</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55090695" lon="-72.78343808">
-<ele>1001.000</ele>
-<time>2018-01-27T22:57:05.679Z</time>
-<name>SprucePeak</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T22:18:27.096Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SprucePeak</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54837710" lon="-72.79356073">
-<ele>554.000</ele>
-<time>2018-01-27T23:02:22.843Z</time>
-<name>BigSpring</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T23:02:33.827Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BigSpring</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51116302" lon="-72.80686261">
-<time>2018-01-27T23:08:33.988Z</time>
-<name>Overland~Bruce</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Overland~Bruce</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50087095" lon="-72.83804597">
-<time>2018-01-27T23:09:08.954Z</time>
-<name>OXC51</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OXC51</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50185379" lon="-72.83286394">
-<time>2018-01-27T23:09:22.753Z</time>
-<name>OXC86</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OXC86</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54673035" lon="-72.81049756">
-<time>2018-01-27T23:34:11.744Z</time>
-<name>AdamsApple</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-27T23:34:49.741Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AdamsApple</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52514104" lon="-72.81641116">
-<time>2018-01-27T23:39:18.488Z</time>
-<name>LT~TollRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T20:23:31.089Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~TollRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52713657" lon="-72.81633606">
-<time>2018-01-27T23:39:47.877Z</time>
-<name>LT~TollRd~2</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T20:23:38.813Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~TollRd~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52858184" lon="-72.81621000">
-<time>2018-01-27T23:40:02.932Z</time>
-<name>LT~TollRd~3</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~TollRd~3</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53088672" lon="-72.79117026">
-<time>2018-01-27T23:46:43.555Z</time>
-<name>HaseltonTH</name>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HaseltonTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52960123" lon="-72.80564883">
-<time>2018-01-27T23:47:27.122Z</time>
-<name>Haselton~LowerCliff</name>
-<desc>Lower Cliff Trail (blue) crosses Haselton Trail.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Haselton~LowerCliff</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52419610" lon="-72.80909681">
-<time>2018-01-27T23:48:45.272Z</time>
-<name>Haselton~TollRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Haselton~TollRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54876528" lon="-72.79446235">
-<time>2018-01-27T23:55:17.499Z</time>
-<name>HellBrookTH</name>
-<desc>VT 108.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HellBrookTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54800156" lon="-72.81060357">
-<time>2018-01-27T23:59:04.654Z</time>
-<name>AdamsApple~HellBk</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AdamsApple~HellBk</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54892510" lon="-72.80590300">
-<time>2018-01-27T23:59:44.298Z</time>
-<name>HellBk~HellBkCut</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HellBk~HellBkCut</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55296635" lon="-72.79404178">
-<time>2018-01-28T22:08:20.570Z</time>
-<name>ElephantsHead</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ElephantsHead</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55326362" lon="-72.79263228">
-<time>2018-01-28T22:09:19.593Z</time>
-<name>ElephantsHeadSpur</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ElephantsHeadSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55481825" lon="-72.77467572">
-<time>2018-01-28T22:33:48.108Z</time>
-<name>SterlingPondS</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SterlingPondS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55233365" lon="-72.78114923">
-<time>2018-01-28T22:34:12.998Z</time>
-<name>ElephantHeadTrailS</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ElephantHeadTrailS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55660311" lon="-72.79424078">
-<time>2018-01-28T22:38:02.325Z</time>
-<name>SterlingPondTH</name>
-<desc>Vt 108.</desc>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SterlingPondTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55849545" lon="-72.76186383">
-<time>2018-01-28T22:40:15.672Z</time>
-<name>LT~Drifter~A</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T22:42:37.771Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Drifter~A</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55943128" lon="-72.75987900">
-<time>2018-01-28T22:42:17.498Z</time>
-<name>LT~Drifter~B</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Drifter~B</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.57654053" lon="-72.75177051">
-<ele>1033.000</ele>
-<time>2018-01-28T22:45:32.148Z</time>
-<name>MorseMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-28T22:45:43.690Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MorseMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.57891002" lon="-72.74099876">
-<time>2018-01-28T22:46:00.707Z</time>
-<name>LT~Whiteface</name>
-<desc>Whiteface Shelter nearby.</desc>
-<sym>Trail Head</sym>
-<type>Shelter Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:38:16.410Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Whiteface</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.57118656" lon="-72.74111090">
-<time>2018-01-29T23:19:59.784Z</time>
-<name>BPL~Whiteface</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:20:09.252Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BPL~Whiteface</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.56714862" lon="-72.73689984">
-<time>2018-01-29T23:20:30.471Z</time>
-<name>BPL~Meadow</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BPL~Meadow</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.56818593" lon="-72.74290530">
-<time>2018-01-29T23:20:57.914Z</time>
-<name>BPL~Chilkoot</name>
-<desc>Beaver Meadow Lodge nearby.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:38:33.442Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BPL~Chilkoot</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.56660105" lon="-72.73736256">
-<time>2018-01-29T23:25:10.443Z</time>
-<name>BeaverMeadowBk</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:35:57.111Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BeaverMeadowBk</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.57101098" lon="-72.74196523">
-<time>2018-01-29T23:25:32.687Z</time>
-<name>BPL~Inlet</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BPL~Inlet</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.56921217" lon="-72.69865796">
-<time>2018-01-29T23:34:09.435Z</time>
-<name>BeaverMeadowTH</name>
-<desc>Beaver Meadow Road.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BeaverMeadowTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.60724913" lon="-72.71988719">
-<time>2018-01-29T23:40:23.805Z</time>
-<name>BearHollowShelter</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BearHollowShelter</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.64170063" lon="-72.72166818">
-<time>2018-01-29T23:41:44.691Z</time>
-<name>WSettlementRdN</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WSettlementRdN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.64277682" lon="-72.72912740">
-<time>2018-01-29T23:42:10.026Z</time>
-<name>LTLamoilleRailTrailN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-29T23:42:40.221Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTLamoilleRailTrailN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.65817732" lon="-72.72322923">
-<time>2018-01-29T23:43:23.930Z</time>
-<name>LTProspectRockRdN</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LTProspectRockRdN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.67052002" lon="-72.72731155">
-<time>2018-01-29T23:44:26.172Z</time>
-<name>RoundtopShelter</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RoundtopShelter</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.70632193" lon="-72.68448807">
-<time>2018-01-29T23:46:26.514Z</time>
-<name>CorlissCamp</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CorlissCamp</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.68682832" lon="-72.69109565">
-<time>2018-01-29T23:51:54.619Z</time>
-<name>DavisNeighborhoodTH</name>
-<desc>Codding Hollow Road.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DavisNeighborhoodTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.72393713" lon="-72.63508040">
-<ele>682.000</ele>
-<time>2018-01-30T14:33:36.628Z</time>
-<name>BowenMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:26.425Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BowenMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.74554867" lon="-72.61133212">
-<time>2018-01-30T14:34:31.447Z</time>
-<name>SpruceLedgeJct</name>
-<sym>Trail Head</sym>
-<type>Shelter Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SpruceLedgeJct</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.74457907" lon="-72.60925609">
-<time>2018-01-30T14:36:24.708Z</time>
-<name>SpruceLedgeShelter</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SpruceLedgeShelter</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.74885191" lon="-72.60286881">
-<time>2018-01-30T14:56:06.116Z</time>
-<name>BabcockS</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BabcockS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.76352752" lon="-72.59463577">
-<time>2018-01-30T14:56:36.691Z</time>
-<name>Babcock~118</name>
-<desc>VT 188/Belvidere Road.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T14:57:32.216Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Babcock~118</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.82333775" lon="-72.53816991">
-<ele>966.000</ele>
-<time>2018-01-30T14:58:58.274Z</time>
-<name>HaystackMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:33.403Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HaystackMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.82391614" lon="-72.53885655">
-<time>2018-01-30T14:59:30.668Z</time>
-<name>HaystackSpur</name>
-<desc>W 0.1 miles to a view.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:00:10.267Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HaystackSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.79090694" lon="-72.51971085">
-<time>2018-01-30T15:22:27.718Z</time>
-<name>FrankPostTH</name>
-<desc>Tillotson Road.</desc>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FrankPostTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.79359437" lon="-72.52926413">
-<time>2018-01-30T15:32:20.535Z</time>
-<name>Foresters~FrankPost</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Foresters~FrankPost</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.84416499" lon="-72.52105120">
-<ele>762.000</ele>
-<time>2018-01-30T15:34:19.391Z</time>
-<name>SugarloafHazens</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:34:36.188Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SugarloafHazens</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.84666850" lon="-72.51019362">
-<ele>738.000</ele>
-<time>2018-01-30T15:34:41.325Z</time>
-<name>StrawberryHill</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:47.664Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>StrawberryHill</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.84986682" lon="-72.51645199">
-<time>2018-01-30T15:36:04.954Z</time>
-<name>HazensNotchCamp</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HazensNotchCamp</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.84971554" lon="-72.51517661">
-<time>2018-01-30T15:36:55.362Z</time>
-<name>HazensNotchCampSpur</name>
-<sym>Trail Head</sym>
-<type>Shelter Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HazensNotchCampSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.90849663" lon="-72.49469258">
-<ele>904.000</ele>
-<time>2018-01-30T15:37:54.622Z</time>
-<name>GilpinMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:18:54.121Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GilpinMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.90659674" lon="-72.54157625">
-<ele>969.874</ele>
-<time>2018-01-30T15:39:22.631Z</time>
-<name>LittleJay</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LittleJay</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.91518888" lon="-72.54072599">
-<ele>1153.973</ele>
-<time>2018-01-30T15:39:44.623Z</time>
-<name>BigJay</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T15:43:23.447Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BigJay</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.92415273" lon="-72.53006819">
-<time>2018-01-30T15:45:00.211Z</time>
-<name>BigJaySpur</name>
-<desc>W 0.9 miles to Big Jay.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BigJaySpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.93595699" lon="-72.53531242">
-<time>2018-01-30T17:26:24Z</time>
-<name>LauraWoodwardCabin</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:47:36.171Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LauraWoodwardCabin</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.91293695" lon="-72.50551676">
-<time>2018-01-30T17:40:50.862Z</time>
-<name>JayLoopS</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>JayLoopS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.91545842" lon="-72.50869786">
-<time>2018-01-30T17:45:22.760Z</time>
-<name>JayLoopN</name>
-<desc>W to Jay Camp.</desc>
-<sym>Trail Head</sym>
-<type>Shelter Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>JayLoopN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.92053721" lon="-72.51635825">
-<time>2018-01-30T17:46:24.635Z</time>
-<name>LT23810</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT23810</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.92244045" lon="-72.52436464">
-<time>2018-01-30T17:46:55.788Z</time>
-<name>LT~Vermonter</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~Vermonter</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="45.01762524" lon="-72.48951604">
-<ele>670.000</ele>
-<time>2018-01-30T17:53:43.389Z</time>
-<name>MontBurnt</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:53:55.459Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MontBurnt</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.95764396" lon="-72.53600006">
-<ele>1030.000</ele>
-<time>2018-01-30T17:54:43.284Z</time>
-<name>NorthJayPeak</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-30T17:54:52.974Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>NorthJayPeak</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.96965004" lon="-72.51177435">
-<time>2018-01-30T17:55:48.306Z</time>
-<name>ShootingStar</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ShootingStar</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="45.00672673" lon="-72.47937092">
-<time>2018-01-30T17:57:15.831Z</time>
-<name>JourneysEnd</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>JourneysEnd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.47326738" lon="-72.80994693">
-<time>2018-02-09T19:34:21.854Z</time>
-<name>LakeMansfieldTH</name>
-<desc>Nebraska Valley Road.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T19:34:35.654Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LakeMansfieldTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.48503257" lon="-72.82660001">
-<time>2018-02-09T19:37:59.448Z</time>
-<name>CBOW~LMAN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CBOW~LMAN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.48481560" lon="-72.82575780">
-<time>2018-02-09T19:38:11.409Z</time>
-<name>ClaraBowE</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ClaraBowE</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53226524" lon="-72.83459659">
-<time>2018-03-12T19:46:50.051Z</time>
-<name>CCCRoad</name>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CCCRoad</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53410225" lon="-72.83122774">
-<time>2018-03-12T19:47:35.527Z</time>
-<name>CCC~SunsetRidgeTr</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CCC~SunsetRidgeTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53130403" lon="-72.83000331">
-<time>2018-03-12T19:48:10.277Z</time>
-<name>CCC~HalfwayHouse</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CCC~HalfwayHouse</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51904858" lon="-72.82848786">
-<time>2018-03-12T19:48:53.043Z</time>
-<name>RockGardenW</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RockGardenW</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51635231" lon="-72.82040905">
-<time>2018-03-12T19:49:16.400Z</time>
-<name>RockGardenE</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RockGardenE</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51858034" lon="-72.83210348">
-<time>2018-03-12T19:49:39.336Z</time>
-<name>FrostTrN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FrostTrN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52643458" lon="-72.81506471">
-<ele>1237.488</ele>
-<time>2018-03-12T19:57:03.071Z</time>
-<name>TheNose</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TheNose</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51948435" lon="-72.79846255">
-<time>2018-03-12T20:24:52.688Z</time>
-<name>Sunrise</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Sunrise</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52565169" lon="-72.81443644">
-<time>2018-03-12T20:34:03.853Z</time>
-<name>TollRd~Top</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TollRd~Top</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52887648" lon="-72.84295736">
-<ele>559.000</ele>
-<time>2018-03-12T20:38:02.477Z</time>
-<name>UnderhillCG</name>
-<sym>Campground</sym>
-<type>Campground</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T20:38:15.198Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>UnderhillCG</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52113982" lon="-72.81476466">
-<time>2018-03-12T20:38:54.903Z</time>
-<name>SLINK~W</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SLINK~W</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52396539" lon="-72.80896438">
-<time>2018-03-12T20:39:12.767Z</time>
-<name>SLINK~E</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SLINK~E</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53759887" lon="-72.81432299">
-<ele>1118.000</ele>
-<time>2018-03-12T20:42:59.713Z</time>
-<name>CliffHouse</name>
-<sym>Restaurant</sym>
-<type>Restaurant</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T20:43:09.878Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CliffHouse</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52874479" lon="-72.81521617">
-<time>2018-03-12T20:52:21.542Z</time>
-<name>AmherstTH</name>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AmherstTH</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52933164" lon="-72.81518083">
-<time>2018-03-12T20:56:10.384Z</time>
-<name>CliffTrail~S</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T20:56:25.223Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CliffTrail~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54146023" lon="-72.83115339">
-<time>2018-03-12T20:57:53.055Z</time>
-<name>CantileverRock</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CantileverRock</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53932323" lon="-72.83849191">
-<ele>822.960</ele>
-<time>2018-03-12T20:58:23.426Z</time>
-<name>SunsetKnob</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SunsetKnob</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51062539" lon="-72.76622784">
-<time>2018-03-12T20:59:27.454Z</time>
-<name>MansfieldTollRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MansfieldTollRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.55230128" lon="-72.80865502">
-<ele>1187.000</ele>
-<time>2018-03-12T20:59:58.994Z</time>
-<name>BearHead</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-12T21:00:08.734Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BearHead</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.49364676" lon="-72.82154035">
-<ele>1027.481</ele>
-<time>2018-03-12T22:53:59.012Z</time>
-<name>DeweyMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DeweyMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50656212" lon="-72.82239329">
-<time>2018-03-12T22:55:54.052Z</time>
-<name>NeedlesEye</name>
-<desc>Aka Devil's Dishpan.</desc>
-<sym>Dropoff</sym>
-<type>Gap</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>NeedlesEye</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50748109" lon="-72.84188461">
-<time>2018-03-12T23:07:16.049Z</time>
-<name>StevensvilleBk</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>StevensvilleBk</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52542184" lon="-72.81672145">
-<time>2018-03-12T23:28:18.862Z</time>
-<name>LakeviewS</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LakeviewS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52808363" lon="-72.81638215">
-<time>2018-03-12T23:28:50.029Z</time>
-<name>LakeviewN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LakeviewN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53069007" lon="-72.81871088">
-<time>2018-03-13T01:00:08.908Z</time>
-<name>HalfwayHouse~Canyon</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HalfwayHouse~Canyon</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52805226" lon="-72.81655337">
-<time>2018-03-13T01:02:35.223Z</time>
-<name>Lakeview~Canyon</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Lakeview~Canyon</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53724103" lon="-72.81551325">
-<time>2018-03-13T01:07:35.322Z</time>
-<name>CliffHouseJct</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CliffHouseJct</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54004865" lon="-72.81682710">
-<time>2018-03-13T01:10:36.023Z</time>
-<name>SubwayN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SubwayN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53530280" lon="-72.81858418">
-<time>2018-03-13T01:11:45.724Z</time>
-<name>CanyonN~S</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CanyonN~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53962905" lon="-72.81752936">
-<time>2018-03-13T01:12:36.234Z</time>
-<name>CanyonN~N</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CanyonN~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54193472" lon="-72.81574046">
-<time>2018-03-13T01:22:05.730Z</time>
-<name>LT~SunsetRidge</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LT~SunsetRidge</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54068689" lon="-72.83022661">
-<time>2018-03-13T01:24:49.392Z</time>
-<name>CantiRockSpur</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CantiRockSpur</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.53527512" lon="-72.83123512">
-<time>2018-03-13T01:25:12.881Z</time>
-<name>LauraCowlesSW</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LauraCowlesSW</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.54204455" lon="-72.81642664">
-<time>2018-03-13T01:25:33.924Z</time>
-<name>LauraCowlesNE</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LauraCowlesNE</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.51648973" lon="-72.79055473">
-<ele>715.000</ele>
-<time>2018-03-13T01:46:55.433Z</time>
-<name>MtnChapel</name>
-<sym>Scenic Area</sym>
-<type>Scenic Area</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T01:47:08.901Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtnChapel</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52422510" lon="-72.80754250">
-<ele>1094.000</ele>
-<time>2018-03-13T01:47:31.874Z</time>
-<name>Octagon</name>
-<sym>Building</sym>
-<type>Building</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T01:47:43.328Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Octagon</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.52792451" lon="-72.81583186">
-<time>2018-03-13T01:47:50.677Z</time>
-<name>SummitStation</name>
-<sym>Building</sym>
-<type>Building</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SummitStation</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.48582032" lon="-72.76760405">
-<ele>717.000</ele>
-<time>2018-03-13T01:59:54.945Z</time>
-<name>RoundTop</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T02:00:03.353Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RoundTop</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.48467016" lon="-72.76991611">
-<ele>641.000</ele>
-<time>2018-03-13T02:00:22.286Z</time>
-<name>SlaytonCabin</name>
-<sym>Campground</sym>
-<type>Shelter</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T02:00:33.990Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SlaytonCabin</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50286081" lon="-72.78640469">
-<time>2018-03-13T02:07:12.509Z</time>
-<name>Burt~Bruce</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Burt~Bruce</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.50576989" lon="-72.79608967">
-<time>2018-03-13T02:09:01.101Z</time>
-<name>BearRun~Bruce</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BearRun~Bruce</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.43101737" lon="-72.65120906">
-<time>2018-03-13T02:56:16.093Z</time>
-<name>Stowe110</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T02:57:19.280Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Stowe110</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.42984691" lon="-72.65033734">
-<ele>808.025</ele>
-<time>2018-03-13T02:58:12.236Z</time>
-<name>StowePinnacle</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>StowePinnacle</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.44316463" lon="-72.59173912">
-<ele>1003.706</ele>
-<time>2018-03-13T02:59:50.149Z</time>
-<name>MtWorcester</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T03:34:22.509Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtWorcester</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="44.43879827" lon="-72.66769861">
-<time>2018-03-13T03:00:21.295Z</time>
-<name>StowePinnacleTH</name>
-<desc>Upper Hollow Road.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T03:01:17.127Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>StowePinnacleTH</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="44.43194903" lon="-72.65281637">
+<ele>648.100</ele>
 <time>2018-03-13T03:01:45.800Z</time>
 <name>Stowe~PinnacleMeadow</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Stowe~PinnacleMeadow</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.42932557" lon="-72.64781405">
-<time>2018-03-13T03:02:47.756Z</time>
-<name>Stowe~Ridge</name>
+<wpt lat="44.42097574" lon="-72.88412243">
+<ele>647.200</ele>
+<time>2018-01-27T19:00:21.971Z</time>
+<name>LT17560</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Stowe~Ridge</label_text>
+<label_text>LT17560</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.37200671" lon="-72.64002223">
-<time>2018-03-13T03:03:38.698Z</time>
-<name>MiddlesexTH</name>
-<desc>N Bear Swamp Rd.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
+<wpt lat="44.55660311" lon="-72.79424078">
+<ele>642.400</ele>
+<time>2018-01-28T22:38:02.325Z</time>
+<name>SterlingPondTH</name>
+<desc>Vt 108.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MiddlesexTH</label_text>
+<label_text>SterlingPondTH</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.40251343" lon="-72.67535765">
-<time>2018-03-13T03:04:20.346Z</time>
-<name>WaterburyTH</name>
-<desc>Sweet Farm Rd.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
+<wpt lat="44.98673880" lon="-72.50418437">
+<ele>638.300</ele>
+<time>2016-08-19T20:26:47.275Z</time>
+<name>Vt105</name>
+<desc>Vermont Route 105, North Jay Pass</desc>
+<sym>Car</sym>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WaterburyTH</label_text>
+<label_text>Vt105</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.42181012" lon="-72.57394601">
-<time>2018-03-13T03:05:14.401Z</time>
-<name>WorcesterTH</name>
-<desc>Mtn Rd.</desc>
-<sym>Parking Area</sym>
-<type>Parking</type>
+<wpt lat="44.84971554" lon="-72.51517661">
+<ele>635.900</ele>
+<time>2018-01-30T15:36:55.362Z</time>
+<name>HazensNotchCampSpur</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WorcesterTH</label_text>
+<label_text>HazensNotchCampSpur</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.43809014" lon="-72.64676531">
-<time>2018-03-13T03:06:37.193Z</time>
-<name>PinnacleParking</name>
-<sym>Parking Area</sym>
-<type>Parking</type>
+<wpt lat="45.00857437" lon="-72.48818764">
+<ele>634.000</ele>
+<time>2016-08-18T15:18:35.851Z</time>
+<name>LongTrailN</name>
+<desc>Northern Terminus of the Long Trail at the Vermont-Canada Border</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T03:08:23.252Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PinnacleParking</label_text>
+<label_text>LongTrailN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48467016" lon="-72.76991611">
+<ele>630.000</ele>
+<time>2018-03-13T02:00:22.286Z</time>
+<name>SlaytonCabin</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SlaytonCabin</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.84986682" lon="-72.51645199">
+<ele>628.200</ele>
+<time>2018-01-30T15:36:04.954Z</time>
+<name>HazensNotchCamp</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HazensNotchCamp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.92919445" lon="-72.50422677">
+<ele>614.100</ele>
+<time>2017-04-18T13:18:58.381Z</time>
+<name>JayPeakSki</name>
+<desc>Base of Jay Peak Ski Area's access road.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JayPeakSki</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50185379" lon="-72.83286394">
+<ele>609.500</ele>
+<time>2018-01-27T23:09:22.753Z</time>
+<name>OXC86</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>OXC86</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.39141990" lon="-72.88985498">
+<ele>605.600</ele>
+<time>2018-01-27T18:57:02.422Z</time>
+<name>StimsonMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>StimsonMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43404529" lon="-72.64432053">
+<ele>600.200</ele>
+<time>2018-03-16T22:20:18.103Z</time>
+<name>PMOT-N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PMOT-N</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.43420050" lon="-72.64419575">
+<ele>597.200</ele>
 <time>2018-03-13T03:07:25.111Z</time>
 <name>PinnacleMeadows</name>
 <sym>Scenic Area</sym>
@@ -2482,163 +1923,766 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.43774601" lon="-72.64691611">
-<time>2018-03-13T03:12:42.990Z</time>
-<name>PinnacleMeadowsTH</name>
-<desc>Upper Pinnacle Road.</desc>
+<wpt lat="44.48499919" lon="-72.82753803">
+<ele>575.600</ele>
+<time>2017-08-17T20:15:30.316Z</time>
+<name>LakeMansfieldTr</name>
+<desc>E 200' to Taylor Lodge.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PinnacleMeadowsTH</label_text>
+<label_text>LakeMansfieldTr</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.42408987" lon="-72.64429235">
-<ele>973.000</ele>
-<time>2018-03-16T22:04:34.918Z</time>
-<name>HogbackMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
+<wpt lat="44.48481560" lon="-72.82575780">
+<ele>572.800</ele>
+<time>2018-02-09T19:38:11.409Z</time>
+<name>ClaraBowE</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-16T22:11:14.832Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HogbackMtn</label_text>
+<label_text>ClaraBowE</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.43784406" lon="-72.64486550">
-<time>2018-03-16T22:17:35.665Z</time>
-<name>PinnacleShortcutN</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
+<wpt lat="44.48490207" lon="-72.82670478">
+<ele>571.000</ele>
+<time>2016-08-19T01:52:30.986Z</time>
+<name>TaylorLodge</name>
+<desc>Large enclosed "lodge" sleeps 20. Tenting nearby, privy. Water source is a spring 0.2 miles down the Lake Mansfield Trail.</desc>
+<sym>Campground</sym>
+<type>Campground</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PinnacleShortcutN</label_text>
+<label_text>TaylorLodge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48503257" lon="-72.82660001">
+<ele>569.700</ele>
+<time>2018-02-09T19:37:59.448Z</time>
+<name>CBOW~LMAN</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CBOW~LMAN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48867390" lon="-72.83674234">
+<ele>566.000</ele>
+<time>2018-01-27T20:39:46.582Z</time>
+<name>LT~Nebraska</name>
+<desc>Nebraska Notch Trail joins the LT.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~Nebraska</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.48666921" lon="-72.83327679">
+<ele>556.900</ele>
+<time>2017-08-17T20:18:13.316Z</time>
+<name>ClaraBowTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ClaraBowTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.52887648" lon="-72.84295736">
+<ele>556.000</ele>
+<time>2018-03-12T20:38:02.477Z</time>
+<name>UnderhillCG</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>UnderhillCG</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="44.43666027" lon="-72.64438807">
+<ele>551.100</ele>
 <time>2018-03-16T22:17:56.715Z</time>
 <name>PinnacleShortcutS</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PinnacleShortcutS</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.38912434" lon="-72.65304308">
-<time>2018-03-16T22:19:37.514Z</time>
-<name>WhiteRockMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
+<wpt lat="44.70632193" lon="-72.68448807">
+<ele>546.800</ele>
+<time>2018-01-29T23:46:26.514Z</time>
+<name>CorlissCamp</name>
+<sym>Campground</sym>
+<type>Campground</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-16T22:19:48.361Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WhiteRockMtn</label_text>
+<label_text>CorlissCamp</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.43404529" lon="-72.64432053">
-<time>2018-03-16T22:20:18.103Z</time>
-<name>PMOT-N</name>
+<wpt lat="44.84144493" lon="-72.52517266">
+<ele>544.900</ele>
+<time>2016-08-19T19:59:05.173Z</time>
+<name>VtRoute58</name>
+<desc>Vermont Route 58, Hazen's Notch</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>VtRoute58</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54876528" lon="-72.79446235">
+<ele>541.500</ele>
+<time>2018-01-27T23:55:17.499Z</time>
+<name>HellBrookTH</name>
+<desc>VT 108.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HellBrookTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.54837710" lon="-72.79356073">
+<ele>540.400</ele>
+<time>2018-01-27T23:02:22.843Z</time>
+<name>BigSpring</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BigSpring</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50087095" lon="-72.83804597">
+<ele>531.900</ele>
+<time>2018-01-27T23:09:08.954Z</time>
+<name>OXC51</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PMOT-N</label_text>
+<label_text>OXC51</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.42878500" lon="-72.64736216">
-<time>2018-03-16T22:20:40.805Z</time>
-<name>PMOT-S</name>
+<wpt lat="44.43784406" lon="-72.64486550">
+<ele>529.700</ele>
+<time>2018-03-16T22:17:35.665Z</time>
+<name>PinnacleShortcutN</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PMOT-S</label_text>
+<label_text>PinnacleShortcutN</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.38830599" lon="-72.64440475">
-<time>2018-03-16T23:15:08.093Z</time>
-<name>Middlesex~Kemp</name>
+<wpt lat="44.39575593" lon="-72.89059192">
+<ele>527.300</ele>
+<time>2018-01-27T19:00:57.638Z</time>
+<name>LT17357</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-16T23:15:22.869Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Middlesex~Kemp</label_text>
+<label_text>LT17357</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.39573636" lon="-72.64526440">
-<time>2018-03-16T23:16:12.438Z</time>
-<name>Middle~Water~Sky</name>
+<wpt lat="44.53088672" lon="-72.79117026">
+<ele>512.000</ele>
+<time>2018-01-27T23:46:43.555Z</time>
+<name>HaseltonTH</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Middle~Water~Sky</label_text>
+<label_text>HaseltonTH</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.38917751" lon="-72.65247807">
-<time>2018-03-16T23:25:17.634Z</time>
-<name>WhiteRock~Kemp</name>
+<wpt lat="44.67052002" lon="-72.72731155">
+<ele>511.300</ele>
+<time>2018-01-29T23:44:26.172Z</time>
+<name>RoundtopShelter</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RoundtopShelter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.00672673" lon="-72.47937092">
+<ele>511.300</ele>
+<time>2018-01-30T17:57:15.831Z</time>
+<name>JourneysEnd</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JourneysEnd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43774601" lon="-72.64691611">
+<ele>507.300</ele>
+<time>2018-03-13T03:12:42.990Z</time>
+<name>PinnacleMeadowsTH</name>
+<desc>Upper Pinnacle Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WhiteRock~Kemp</label_text>
+<label_text>PinnacleMeadowsTH</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.39566461" lon="-72.64696504">
-<time>2018-03-16T23:41:56.384Z</time>
-<name>Waterbury~WhiteRock</name>
+<wpt lat="44.43809014" lon="-72.64676531">
+<ele>506.900</ele>
+<time>2018-03-13T03:06:37.193Z</time>
+<name>PinnacleParking</name>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PinnacleParking</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.79359437" lon="-72.52926413">
+<ele>503.300</ele>
+<time>2018-01-30T15:32:20.535Z</time>
+<name>Foresters~FrankPost</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Waterbury~WhiteRock</label_text>
+<label_text>Foresters~FrankPost</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.42051497" lon="-72.63731214">
-<time>2018-03-16T23:43:41.038Z</time>
-<name>Ridge~Skyline</name>
+<wpt lat="44.53929307" lon="-72.79121625">
+<ele>491.500</ele>
+<time>2016-08-19T02:20:53.713Z</time>
+<name>Vt108</name>
+<desc>Closed in winter.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Vt108</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.53928626" lon="-72.79058512">
+<ele>487.700</ele>
+<time>2017-08-17T21:18:31.741Z</time>
+<name>WBranchLittleRiver</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WBranchLittleRiver</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.37200671" lon="-72.64002223">
+<ele>482.100</ele>
+<time>2018-03-13T03:03:38.698Z</time>
+<name>MiddlesexTH</name>
+<desc>N Bear Swamp Rd.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MiddlesexTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50576989" lon="-72.79608967">
+<ele>473.900</ele>
+<time>2018-03-13T02:09:01.101Z</time>
+<name>BearRun~Bruce</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Ridge~Skyline</label_text>
+<label_text>BearRun~Bruce</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.43005728" lon="-72.61528527">
-<time>2018-03-17T01:24:49.030Z</time>
-<name>Skyline171</name>
+<wpt lat="44.74457907" lon="-72.60925609">
+<ele>461.800</ele>
+<time>2018-01-30T14:36:24.708Z</time>
+<name>SpruceLedgeShelter</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SpruceLedgeShelter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50748109" lon="-72.84188461">
+<ele>455.700</ele>
+<time>2018-03-12T23:07:16.049Z</time>
+<name>StevensvilleBk</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>StevensvilleBk</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.56921217" lon="-72.69865796">
+<ele>446.500</ele>
+<time>2018-01-29T23:34:09.435Z</time>
+<name>BeaverMeadowTH</name>
+<desc>Beaver Meadow Road.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BeaverMeadowTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.60724913" lon="-72.71988719">
+<ele>443.700</ele>
+<time>2018-01-29T23:40:23.805Z</time>
+<name>BearHollowShelter</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BearHollowShelter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50473670" lon="-72.84633319">
+<ele>441.900</ele>
+<time>2018-01-27T22:54:47.332Z</time>
+<name>NNT7</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-17T14:26:18.751Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Skyline171</label_text>
+<label_text>NNT7</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.42974650" lon="-72.61503982">
-<time>2018-03-17T14:26:03.553Z</time>
-<name>SkylineView</name>
+<wpt lat="44.50611642" lon="-72.84366679">
+<ele>438.300</ele>
+<time>2017-08-17T20:59:23.038Z</time>
+<name>FrostTrail</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>FrostTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.74554867" lon="-72.61133212">
+<ele>431.800</ele>
+<time>2018-01-30T14:34:31.447Z</time>
+<name>SpruceLedgeJct</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SpruceLedgeJct</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.79090694" lon="-72.51971085">
+<ele>431.100</ele>
+<time>2018-01-30T15:22:27.718Z</time>
+<name>FrankPostTH</name>
+<desc>Tillotson Road.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>FrankPostTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50557279" lon="-72.84711009">
+<ele>422.200</ele>
+<time>2018-01-27T22:41:31.308Z</time>
+<name>Butler~Nebraska</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Butler~Nebraska</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50569797" lon="-72.84748358">
+<ele>421.300</ele>
+<time>2017-08-17T20:59:04.369Z</time>
+<name>ButlerLodgeTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ButlerLodgeTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.42181012" lon="-72.57394601">
+<ele>418.500</ele>
+<time>2018-03-13T03:05:14.401Z</time>
+<name>WorcesterTH</name>
+<desc>Mtn Rd.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WorcesterTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.00242515" lon="-72.46587032">
+<ele>414.500</ele>
+<time>2017-03-02T01:57:53.552Z</time>
+<name>TrailsEnd</name>
+<desc>Parking Lot, Trails End Trailhead.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TrailsEnd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.50286081" lon="-72.78640469">
+<ele>409.500</ele>
+<time>2018-03-13T02:07:12.509Z</time>
+<name>Burt~Bruce</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Burt~Bruce</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.51062539" lon="-72.76622784">
+<ele>388.700</ele>
+<time>2018-03-12T20:59:27.454Z</time>
+<name>MansfieldTollRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MansfieldTollRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.76399028" lon="-72.58764935">
+<ele>386.000</ele>
+<time>2016-08-19T19:55:51.410Z</time>
+<name>Vt118</name>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Vt118</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.40251343" lon="-72.67535765">
+<ele>384.500</ele>
+<time>2018-03-13T03:04:20.346Z</time>
+<name>WaterburyTH</name>
+<desc>Sweet Farm Rd.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WaterburyTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.68140311" lon="-72.71940314">
+<ele>381.500</ele>
+<time>2016-08-19T02:56:59.391Z</time>
+<name>PlotRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PlotRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.70767306" lon="-72.71099442">
+<ele>376.800</ele>
+<time>2016-08-19T02:57:39.595Z</time>
+<name>CoddingHollowRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CoddingHollowRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.76352752" lon="-72.59463577">
+<ele>363.600</ele>
+<time>2018-01-30T14:56:36.691Z</time>
+<name>Babcock~118</name>
+<desc>VT 188/Belvidere Road.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Babcock~118</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.68682832" lon="-72.69109565">
+<ele>362.900</ele>
+<time>2018-01-29T23:51:54.619Z</time>
+<name>DavisNeighborhoodTH</name>
+<desc>Codding Hollow Road.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DavisNeighborhoodTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.47326738" lon="-72.80994693">
+<ele>353.500</ele>
+<time>2018-02-09T19:34:21.854Z</time>
+<name>LakeMansfieldTH</name>
+<desc>Nebraska Valley Road.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LakeMansfieldTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.74885191" lon="-72.60286881">
+<ele>349.400</ele>
+<time>2018-01-30T14:56:06.116Z</time>
+<name>BabcockS</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BabcockS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.43879827" lon="-72.66769861">
+<ele>341.700</ele>
+<time>2018-03-13T03:00:21.295Z</time>
+<name>StowePinnacleTH</name>
+<desc>Upper Hollow Road.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>StowePinnacleTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.62094430" lon="-72.72294330">
+<ele>340.800</ele>
+<time>2016-08-19T02:46:15.736Z</time>
+<name>WestSettlementRdS</name>
+<desc>Long Trail joins West Settlement Road</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WestSettlementRdS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.65497564" lon="-72.72302547">
+<ele>314.600</ele>
+<time>2016-08-19T02:55:52.506Z</time>
+<name>ProspectRockVT-II</name>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SkylineView</label_text>
+<label_text>ProspectRockVT-II</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.65817732" lon="-72.72322923">
+<ele>298.600</ele>
+<time>2018-01-29T23:43:23.930Z</time>
+<name>LTProspectRockRdN</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTProspectRockRdN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.39178047" lon="-72.91821516">
+<ele>239.500</ele>
+<time>2016-08-19T01:06:02.959Z</time>
+<name>DuckBkShelter</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DuckBkShelter</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.64511356" lon="-72.72816959">
+<ele>160.900</ele>
+<time>2016-08-19T02:47:41.071Z</time>
+<name>LT~Rt15</name>
+<desc>Vermont Route 15, parking lot.</desc>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~Rt15</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.65216125" lon="-72.72876271">
+<ele>157.100</ele>
+<time>2016-08-19T02:55:14.756Z</time>
+<name>HogbackRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HogbackRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.64277682" lon="-72.72912740">
+<ele>156.800</ele>
+<time>2018-01-29T23:42:10.026Z</time>
+<name>LTLamoilleRailTrailN</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LTLamoilleRailTrailN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.64170063" lon="-72.72166818">
+<ele>153.100</ele>
+<time>2018-01-29T23:41:44.691Z</time>
+<name>WSettlementRdN</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WSettlementRdN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.65154666" lon="-72.72873321">
+<ele>141.200</ele>
+<time>2016-08-19T02:54:44.332Z</time>
+<name>LamoilleRiver</name>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LamoilleRiver</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.38359274" lon="-72.91464262">
+<ele>125.100</ele>
+<time>2018-01-27T18:56:30.448Z</time>
+<name>BoltonNotchRdN</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BoltonNotchRdN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.37187166" lon="-72.89573305">
+<ele>104.000</ele>
+<time>2018-01-27T18:55:09.105Z</time>
+<name>DuxburyParking</name>
+<sym>Parking Area</sym>
+<type>Parking Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DuxburyParking</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.38046023" lon="-72.91686617">
+<ele>99.000</ele>
+<time>2018-01-27T18:56:01.164Z</time>
+<name>NotchRoad</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>NotchRoad</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.37930824" lon="-72.91198120">
+<ele>98.700</ele>
+<time>2018-01-27T20:23:14.323Z</time>
+<name>LT~US2</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LT~US2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.37851928" lon="-72.91692920">
+<ele>96.800</ele>
+<time>2018-01-27T18:55:34.910Z</time>
+<name>WinooskiBridge</name>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WinooskiBridge</label_text>
 </label>
 </extensions>
 </wpt>
@@ -53451,21 +53495,21 @@
 </line>
 </extensions>
 <trkseg>
-    <trkpt lat="44.43005594" lon="-72.61528659">
-        <ele>1026.073</ele>
-    </trkpt>
-    <trkpt lat="44.42997521" lon="-72.61521551">
-        <ele>1025.739</ele>
-    </trkpt>
-    <trkpt lat="44.42989834" lon="-72.61514845">
-        <ele>1025.23</ele>
-    </trkpt>
-    <trkpt lat="44.42982722" lon="-72.61509079">
-        <ele>1022.949</ele>
-    </trkpt>
-    <trkpt lat="44.42974842" lon="-72.61503714">
-        <ele>1018.933</ele>
-    </trkpt>
+<trkpt lat="44.43005594" lon="-72.61528659">
+<ele>1026.073</ele>
+</trkpt>
+<trkpt lat="44.42997521" lon="-72.61521551">
+<ele>1025.739</ele>
+</trkpt>
+<trkpt lat="44.42989834" lon="-72.61514845">
+<ele>1025.230</ele>
+</trkpt>
+<trkpt lat="44.42982722" lon="-72.61509079">
+<ele>1022.949</ele>
+</trkpt>
+<trkpt lat="44.42974842" lon="-72.61503714">
+<ele>1018.933</ele>
+</trkpt>
 </trkseg>
 </trk>
 <extensions>
