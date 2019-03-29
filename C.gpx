@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:49:58.593Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.43005728" lon="-72.61528527">
 </active_point>
 </extensions>
@@ -123,8 +123,9 @@
 <time>2018-03-12T20:34:03.853Z</time>
 <name>TollRd~Top</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TollRd~Top</label_text>
 </label>
@@ -219,8 +220,9 @@
 <time>2018-01-27T23:39:18.488Z</time>
 <name>LT~TollRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~TollRd</label_text>
 </label>
@@ -268,8 +270,9 @@
 <time>2018-01-27T23:39:47.877Z</time>
 <name>LT~TollRd~2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~TollRd~2</label_text>
 </label>
@@ -292,8 +295,9 @@
 <time>2018-01-27T23:40:02.932Z</time>
 <name>LT~TollRd~3</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~TollRd~3</label_text>
 </label>
@@ -546,8 +550,9 @@
 <time>2016-08-19T02:17:21.042Z</time>
 <name>TaftLodge</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TaftLodge</label_text>
 </label>
@@ -607,8 +612,9 @@
 <time>2018-01-27T23:48:45.272Z</time>
 <name>Haselton~TollRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Haselton~TollRd</label_text>
 </label>
@@ -1021,8 +1027,9 @@
 <name>SterlingPondShelter</name>
 <desc>Sleeps 10, privy. On Sterling Pond. Fee charged in peak season.</desc>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SterlingPondShelter</label_text>
 </label>
@@ -1034,8 +1041,9 @@
 <name>ButlerLodge</name>
 <desc>Fully enclosed "lodge" sleeps 12, no tenting, privy, small spring, fee charged in peak season.</desc>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ButlerLodge</label_text>
 </label>
@@ -1132,8 +1140,9 @@
 <time>2016-08-19T01:43:26.302Z</time>
 <name>PufferShelter</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PufferShelter</label_text>
 </label>
@@ -1266,8 +1275,9 @@
 <name>NeedlesEye</name>
 <desc>Aka Devil's Dishpan.</desc>
 <sym>Dropoff</sym>
-<type>Dropoff</type>
+<type>Gap</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:23:36.058Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NeedlesEye</label_text>
 </label>
@@ -1290,8 +1300,9 @@
 <time>2018-01-30T17:26:24Z</time>
 <name>LauraWoodwardCabin</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LauraWoodwardCabin</label_text>
 </label>
@@ -1364,8 +1375,9 @@
 <name>TillotsonCamp</name>
 <desc>Water source is Lockwood Brook.</desc>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TillotsonCamp</label_text>
 </label>
@@ -1585,8 +1597,9 @@
 <name>TwinBrooksCamp</name>
 <desc>Tent platforms, privy. Water sources are north and south on the LT.</desc>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TwinBrooksCamp</label_text>
 </label>
@@ -1657,8 +1670,9 @@
 <time>2018-01-30T17:55:48.306Z</time>
 <name>ShootingStar</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ShootingStar</label_text>
 </label>
@@ -1695,8 +1709,9 @@
 <name>Vt242</name>
 <desc>Vermont Route 242, Jay Pass</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Vt242</label_text>
 </label>
@@ -1756,8 +1771,9 @@
 <time>2018-01-27T18:51:57.307Z</time>
 <name>BuchananShelter</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BuchananShelter</label_text>
 </label>
@@ -1806,8 +1822,9 @@
 <name>Vt105</name>
 <desc>Vermont Route 105, North Jay Pass</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Vt105</label_text>
 </label>
@@ -1843,8 +1860,9 @@
 <time>2018-03-13T02:00:22.286Z</time>
 <name>SlaytonCabin</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SlaytonCabin</label_text>
 </label>
@@ -1855,8 +1873,9 @@
 <time>2018-01-30T15:36:04.954Z</time>
 <name>HazensNotchCamp</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HazensNotchCamp</label_text>
 </label>
@@ -1954,8 +1973,9 @@
 <name>TaylorLodge</name>
 <desc>Large enclosed "lodge" sleeps 20. Tenting nearby, privy. Water source is a spring 0.2 miles down the Lake Mansfield Trail.</desc>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TaylorLodge</label_text>
 </label>
@@ -2027,8 +2047,9 @@
 <time>2018-01-29T23:46:26.514Z</time>
 <name>CorlissCamp</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:52:47.938Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CorlissCamp</label_text>
 </label>
@@ -2040,8 +2061,9 @@
 <name>VtRoute58</name>
 <desc>Vermont Route 58, Hazen's Notch</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>VtRoute58</label_text>
 </label>
@@ -2053,8 +2075,9 @@
 <name>HellBrookTH</name>
 <desc>VT 108.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HellBrookTH</label_text>
 </label>
@@ -2125,8 +2148,9 @@
 <time>2018-01-29T23:44:26.172Z</time>
 <name>RoundtopShelter</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:52:47.938Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RoundtopShelter</label_text>
 </label>
@@ -2137,8 +2161,9 @@
 <time>2018-01-30T17:57:15.831Z</time>
 <name>JourneysEnd</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:52:47.938Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>JourneysEnd</label_text>
 </label>
@@ -2236,8 +2261,9 @@
 <time>2018-01-30T14:36:24.708Z</time>
 <name>SpruceLedgeShelter</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:52:47.938Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SpruceLedgeShelter</label_text>
 </label>
@@ -2273,8 +2299,9 @@
 <time>2018-01-29T23:40:23.805Z</time>
 <name>BearHollowShelter</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:52:47.938Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BearHollowShelter</label_text>
 </label>
@@ -2396,8 +2423,9 @@
 <time>2018-03-12T20:59:27.454Z</time>
 <name>MansfieldTollRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MansfieldTollRd</label_text>
 </label>
@@ -2433,8 +2461,9 @@
 <time>2016-08-19T02:56:59.391Z</time>
 <name>PlotRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PlotRd</label_text>
 </label>
@@ -2445,8 +2474,9 @@
 <time>2016-08-19T02:57:39.595Z</time>
 <name>CoddingHollowRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CoddingHollowRd</label_text>
 </label>
@@ -2458,8 +2488,9 @@
 <name>Babcock~118</name>
 <desc>VT 188/Belvidere Road.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Babcock~118</label_text>
 </label>
@@ -2471,8 +2502,9 @@
 <name>DavisNeighborhoodTH</name>
 <desc>Codding Hollow Road.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DavisNeighborhoodTH</label_text>
 </label>
@@ -2484,8 +2516,9 @@
 <name>LakeMansfieldTH</name>
 <desc>Nebraska Valley Road.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LakeMansfieldTH</label_text>
 </label>
@@ -2522,8 +2555,9 @@
 <name>WestSettlementRdS</name>
 <desc>Long Trail joins West Settlement Road</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WestSettlementRdS</label_text>
 </label>
@@ -2546,8 +2580,9 @@
 <time>2018-01-29T23:43:23.930Z</time>
 <name>LTProspectRockRdN</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LTProspectRockRdN</label_text>
 </label>
@@ -2558,8 +2593,9 @@
 <time>2016-08-19T01:06:02.959Z</time>
 <name>DuckBkShelter</name>
 <sym>Campground</sym>
-<type>Campground</type>
+<type>Shelter</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:52:47.938Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DuckBkShelter</label_text>
 </label>
@@ -2583,8 +2619,9 @@
 <time>2016-08-19T02:55:14.756Z</time>
 <name>HogbackRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HogbackRd</label_text>
 </label>
@@ -2607,8 +2644,9 @@
 <time>2018-01-29T23:41:44.691Z</time>
 <name>WSettlementRdN</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WSettlementRdN</label_text>
 </label>
@@ -2631,8 +2669,9 @@
 <time>2018-01-27T18:56:30.448Z</time>
 <name>BoltonNotchRdN</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BoltonNotchRdN</label_text>
 </label>
@@ -2655,8 +2694,9 @@
 <time>2018-01-27T18:56:01.164Z</time>
 <name>NotchRoad</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NotchRoad</label_text>
 </label>
@@ -2667,8 +2707,9 @@
 <time>2018-01-27T20:23:14.323Z</time>
 <name>LT~US2</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~US2</label_text>
 </label>
