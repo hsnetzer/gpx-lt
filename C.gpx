@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.43005728" lon="-72.61528527">
 </active_point>
 </extensions>
@@ -125,7 +125,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TollRd~Top</label_text>
 </label>
@@ -222,7 +222,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~TollRd</label_text>
 </label>
@@ -272,7 +272,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~TollRd~2</label_text>
 </label>
@@ -297,7 +297,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~TollRd~3</label_text>
 </label>
@@ -614,7 +614,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Haselton~TollRd</label_text>
 </label>
@@ -1711,7 +1711,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Vt242</label_text>
 </label>
@@ -1824,7 +1824,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Vt105</label_text>
 </label>
@@ -1887,8 +1887,9 @@
 <name>JayPeakSki</name>
 <desc>Base of Jay Peak Ski Area's access road.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>JayPeakSki</label_text>
 </label>
@@ -2063,7 +2064,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>VtRoute58</label_text>
 </label>
@@ -2077,7 +2078,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HellBrookTH</label_text>
 </label>
@@ -2187,8 +2188,9 @@
 <time>2018-03-13T03:06:37.193Z</time>
 <name>PinnacleParking</name>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PinnacleParking</label_text>
 </label>
@@ -2212,8 +2214,9 @@
 <name>Vt108</name>
 <desc>Closed in winter.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Vt108</label_text>
 </label>
@@ -2237,8 +2240,9 @@
 <name>MiddlesexTH</name>
 <desc>N Bear Swamp Rd.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MiddlesexTH</label_text>
 </label>
@@ -2287,8 +2291,9 @@
 <name>BeaverMeadowTH</name>
 <desc>Beaver Meadow Road.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BeaverMeadowTH</label_text>
 </label>
@@ -2386,8 +2391,9 @@
 <name>WorcesterTH</name>
 <desc>Mtn Rd.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WorcesterTH</label_text>
 </label>
@@ -2399,8 +2405,9 @@
 <name>TrailsEnd</name>
 <desc>Parking Lot, Trails End Trailhead.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TrailsEnd</label_text>
 </label>
@@ -2425,7 +2432,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MansfieldTollRd</label_text>
 </label>
@@ -2436,8 +2443,9 @@
 <time>2016-08-19T19:55:51.410Z</time>
 <name>Vt118</name>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Vt118</label_text>
 </label>
@@ -2449,8 +2457,9 @@
 <name>WaterburyTH</name>
 <desc>Sweet Farm Rd.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WaterburyTH</label_text>
 </label>
@@ -2463,7 +2472,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PlotRd</label_text>
 </label>
@@ -2476,7 +2485,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CoddingHollowRd</label_text>
 </label>
@@ -2490,7 +2499,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Babcock~118</label_text>
 </label>
@@ -2504,7 +2513,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DavisNeighborhoodTH</label_text>
 </label>
@@ -2518,7 +2527,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LakeMansfieldTH</label_text>
 </label>
@@ -2542,8 +2551,9 @@
 <name>StowePinnacleTH</name>
 <desc>Upper Hollow Road.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>StowePinnacleTH</label_text>
 </label>
@@ -2557,7 +2567,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WestSettlementRdS</label_text>
 </label>
@@ -2582,7 +2592,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LTProspectRockRdN</label_text>
 </label>
@@ -2607,8 +2617,9 @@
 <name>LT~Rt15</name>
 <desc>Vermont Route 15, parking lot.</desc>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~Rt15</label_text>
 </label>
@@ -2621,7 +2632,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HogbackRd</label_text>
 </label>
@@ -2646,7 +2657,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WSettlementRdN</label_text>
 </label>
@@ -2671,7 +2682,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BoltonNotchRdN</label_text>
 </label>
@@ -2682,8 +2693,9 @@
 <time>2018-01-27T18:55:09.105Z</time>
 <name>DuxburyParking</name>
 <sym>Parking Area</sym>
-<type>Parking Area</type>
+<type>Parking</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DuxburyParking</label_text>
 </label>
@@ -2696,7 +2708,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NotchRoad</label_text>
 </label>
@@ -2709,7 +2721,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:11.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~US2</label_text>
 </label>
