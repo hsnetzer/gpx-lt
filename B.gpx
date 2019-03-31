@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-31T15:21:55.122Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
 </active_point>
 </extensions>
@@ -361,11 +361,11 @@
 <name>EmilyProctorShelter</name>
 <desc>Water source is a stream just south of the shelter.
 
-Junction with Emily Proctor Trail. W to </desc>
+Junction with Emily Proctor Trail.</desc>
 <sym>Campground</sym>
 <type>Shelter</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T13:40:50.577Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-31T15:21:55.122Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>EmilyProctorShelter</label_text>
 </label>
