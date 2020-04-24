@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-31T15:21:55.122Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="43.66590748" lon="-72.87408903">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:33:00.873Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.02830599" lon="-72.90479668">
 </active_point>
 </extensions>
 </metadata>
@@ -197,11 +197,10 @@
 <wpt lat="43.89360168" lon="-72.97172676">
 <ele>743.000</ele>
 <time>2016-08-18T17:21:49.868Z</time>
-<name>SuckerBkShelter</name>
 <sym>Campground</sym>
 <type>Shelter</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T17:25:03.037Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:33:00.873Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SuckerBrookShelter</label_text>
 </label>
@@ -264,11 +263,10 @@
 <ele>1012.850</ele>
 <time>2016-08-18T17:39:55.910Z</time>
 <name>BoyceMtn</name>
-<cmt>ORP</cmt>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:24:16.305Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:32:26.397Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BoyceMtn</label_text>
 </label>
@@ -389,11 +387,10 @@ Junction with Emily Proctor Trail.</desc>
 <ele>1020.470</ele>
 <time>2016-08-18T18:04:31.046Z</time>
 <name>LittleHansPeak</name>
-<cmt>ORP</cmt>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:24:28.051Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:32:45.756Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LittleHansPeak</label_text>
 </label>
