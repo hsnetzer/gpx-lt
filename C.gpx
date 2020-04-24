@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-12T18:30:02.343Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T22:13:53.436Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.43005728" lon="-72.61528527">
 </active_point>
 </extensions>
@@ -278,18 +278,6 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="44.52792451" lon="-72.81583186">
-<ele>1175.900</ele>
-<time>2018-03-13T01:47:50.677Z</time>
-<name>SummitStation</name>
-<sym>Building</sym>
-<type>Building</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SummitStation</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="44.52858184" lon="-72.81621000">
 <ele>1175.800</ele>
 <time>2018-01-27T23:40:02.932Z</time>
@@ -512,9 +500,11 @@
 <ele>1103.900</ele>
 <time>2018-03-13T01:47:31.874Z</time>
 <name>Octagon</name>
-<sym>Building</sym>
-<type>Building</type>
+<desc>Ski lodge at the top of Stowe.</desc>
+<sym>Restaurant</sym>
+<type>Restaurant</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T22:12:04.470Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Octagon</label_text>
 </label>
