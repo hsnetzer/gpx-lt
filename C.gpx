@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="44.36969900" minlon="-72.91821516" maxlat="45.01762524" maxlon="-72.46587032"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:20:19.537Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:32:35.474Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.52396539" lon="-72.80896438">
 </active_point>
 </extensions>
@@ -25,9 +25,11 @@
 <ele>1299.300</ele>
 <time>2017-08-17T21:15:50.213Z</time>
 <name>LT~Profanity~S</name>
+<cmt>{ "notOn": "SUNSET" }</cmt>
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:31:58.221Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LT~Profanity~S</label_text>
 </label>
@@ -1964,11 +1966,12 @@
 <ele>571.000</ele>
 <time>2016-08-19T01:52:30.986Z</time>
 <name>TaylorLodge</name>
+<cmt>{ "notOn": "CBOW" }</cmt>
 <desc>Large enclosed "lodge" sleeps 20. Tenting nearby, privy. Water source is a spring 0.2 miles down the Lake Mansfield Trail.</desc>
 <sym>Campground</sym>
 <type>Shelter</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:53:03.772Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:32:35.474Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TaylorLodge</label_text>
 </label>
@@ -39505,7 +39508,7 @@
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T18:02:21.808Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:32:28.704Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Clara Bow Trail</label_text>
@@ -42792,7 +42795,7 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:19:42.393Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:19:42.392Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Amherst Trail</label_text>
@@ -44255,7 +44258,7 @@
 <desc>good,ne</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T01:25:32.223Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:31:53.572Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Sunset Ridge Trail</label_text>

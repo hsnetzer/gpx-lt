@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:33:00.873Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:44.901Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.02830599" lon="-72.90479668">
 </active_point>
 </extensions>
@@ -263,10 +263,11 @@
 <ele>1012.850</ele>
 <time>2016-08-18T17:39:55.910Z</time>
 <name>BoyceMtn</name>
+<cmt>{ "notOn": "LT" }</cmt>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:32:26.397Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:15.807Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BoyceMtn</label_text>
 </label>
@@ -804,11 +805,12 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <ele>710.184</ele>
 <time>2017-06-24T00:22:28.053Z</time>
 <name>TuckerJohnson</name>
+<cmt>{ "notOn": "LT-TJ" }</cmt>
 <desc>Campsite, privy, stream.</desc>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T01:19:59.364Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:44.901Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TuckerJohnson</label_text>
 </label>
@@ -5796,7 +5798,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T02:20:05.053Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:38.973Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Tucker Johnson Spur</label_text>
