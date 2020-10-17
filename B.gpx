@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:44.901Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:07:24.552Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.02830599" lon="-72.90479668">
 </active_point>
 </extensions>
@@ -48395,10 +48395,10 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </trk>
 <trk>
 <name>FCC</name>
-<desc>good,s</desc>
+<desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:47:43.852Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:07:24.552Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Forest City Connector</label_text>
@@ -48411,47 +48411,47 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="44.30508225" lon="-72.90738768">
-<ele>562.000</ele>
+<trkpt lat="44.30379753" lon="-72.90603853">
+<ele>536.000</ele>
 </trkpt>
-<trkpt lat="44.30495706" lon="-72.90735013">
-<ele>562.000</ele>
+<trkpt lat="44.30387073" lon="-72.90615118">
+<ele>534.000</ele>
 </trkpt>
-<trkpt lat="44.30481645" lon="-72.90729648">
-<ele>557.000</ele>
+<trkpt lat="44.30399593" lon="-72.90623165">
+<ele>534.000</ele>
 </trkpt>
-<trkpt lat="44.30468162" lon="-72.90725089">
-<ele>551.000</ele>
+<trkpt lat="44.30407875" lon="-72.90635771">
+<ele>531.000</ele>
 </trkpt>
-<trkpt lat="44.30457184" lon="-72.90719188">
-<ele>551.000</ele>
-</trkpt>
-<trkpt lat="44.30447360" lon="-72.90706850">
-<ele>551.000</ele>
-</trkpt>
-<trkpt lat="44.30439078" lon="-72.90694511">
-<ele>539.000</ele>
-</trkpt>
-<trkpt lat="44.30432144" lon="-72.90679223">
+<trkpt lat="44.30416350" lon="-72.90651864">
 <ele>539.000</ele>
 </trkpt>
 <trkpt lat="44.30425210" lon="-72.90663666">
 <ele>539.000</ele>
 </trkpt>
-<trkpt lat="44.30416350" lon="-72.90651864">
+<trkpt lat="44.30432144" lon="-72.90679223">
 <ele>539.000</ele>
 </trkpt>
-<trkpt lat="44.30407875" lon="-72.90635771">
-<ele>531.000</ele>
+<trkpt lat="44.30439078" lon="-72.90694511">
+<ele>539.000</ele>
 </trkpt>
-<trkpt lat="44.30399593" lon="-72.90623165">
-<ele>534.000</ele>
+<trkpt lat="44.30447360" lon="-72.90706850">
+<ele>551.000</ele>
 </trkpt>
-<trkpt lat="44.30387073" lon="-72.90615118">
-<ele>534.000</ele>
+<trkpt lat="44.30457184" lon="-72.90719188">
+<ele>551.000</ele>
 </trkpt>
-<trkpt lat="44.30379753" lon="-72.90603853">
-<ele>536.000</ele>
+<trkpt lat="44.30468162" lon="-72.90725089">
+<ele>551.000</ele>
+</trkpt>
+<trkpt lat="44.30481645" lon="-72.90729648">
+<ele>557.000</ele>
+</trkpt>
+<trkpt lat="44.30495706" lon="-72.90735013">
+<ele>562.000</ele>
+</trkpt>
+<trkpt lat="44.30508225" lon="-72.90738768">
+<ele>562.000</ele>
 </trkpt>
 </trkseg>
 </trk>
