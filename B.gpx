@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
-<bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.36970215" maxlon="-72.83931638"/>
+<desc>Maine Junction to the Winooski</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-lt/blob/master/LICENSE</license>
+</copyright>
+<bounds minlat="43.67478379" minlon="-73.00881815" maxlat="44.37851928" maxlon="-72.83931638"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:07:24.552Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T03:58:38.153Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="44.02830599" lon="-72.90479668">
 </active_point>
 </extensions>
@@ -16,7 +21,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T00:26:12.072Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>EagleSquareBrook</label_text>
 </label>
 </extensions>
@@ -30,7 +35,7 @@
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T00:31:08.177Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RolstonRest</label_text>
 </label>
 </extensions>
@@ -43,7 +48,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:20:18.140Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TelephoneGap</label_text>
 </label>
 </extensions>
@@ -57,7 +62,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NewBostonTH</label_text>
 </label>
 </extensions>
@@ -71,7 +76,7 @@
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-18T16:56:54.105Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DavidLoganShelter</label_text>
 </label>
 </extensions>
@@ -84,7 +89,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:20:37.453Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WetmoreGap</label_text>
 </label>
 </extensions>
@@ -97,7 +102,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T01:26:27.226Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BloodrootGap</label_text>
 </label>
 </extensions>
@@ -111,7 +116,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T18:40:24.871Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ChittendenBkTr</label_text>
 </label>
 </extensions>
@@ -124,7 +129,7 @@
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T01:38:31.812Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SunriseShelter</label_text>
 </label>
 </extensions>
@@ -138,7 +143,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T18:38:45.796Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Hwy73</label_text>
 </label>
 </extensions>
@@ -150,7 +155,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtHorrid</label_text>
 </label>
 </extensions>
@@ -163,7 +168,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T17:03:19.045Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CapeLookoffMtn</label_text>
 </label>
 </extensions>
@@ -176,7 +181,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:21:26.530Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GillespiePeak</label_text>
 </label>
 </extensions>
@@ -189,7 +194,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-18T17:21:15.203Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RomanceGap</label_text>
 </label>
 </extensions>
@@ -201,7 +206,7 @@
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:33:00.873Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SuckerBrookShelter</label_text>
 </label>
 </extensions>
@@ -214,7 +219,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:23:46.306Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WorthMtn</label_text>
 </label>
 </extensions>
@@ -228,7 +233,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T16:44:11.265Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MiddleburySnowBowl</label_text>
 </label>
 </extensions>
@@ -242,7 +247,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T01:56:20.812Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MiddleburyGap</label_text>
 </label>
 </extensions>
@@ -254,7 +259,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurntHill</label_text>
 </label>
 </extensions>
@@ -268,7 +273,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:15.807Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BoyceMtn</label_text>
 </label>
 </extensions>
@@ -282,7 +287,7 @@
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-18T17:43:39.506Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylineLodge</label_text>
 </label>
 </extensions>
@@ -295,7 +300,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:19:41.061Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BattellMtn</label_text>
 </label>
 </extensions>
@@ -308,7 +313,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylightPdTH</label_text>
 </label>
 </extensions>
@@ -322,7 +327,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:08:49.505Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylightPdTrLT</label_text>
 </label>
 </extensions>
@@ -335,7 +340,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T17:02:28.846Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BreadLoafView</label_text>
 </label>
 </extensions>
@@ -349,7 +354,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T17:08:23.229Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BreadLoafSummitTr</label_text>
 </label>
 </extensions>
@@ -365,7 +370,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-31T15:21:55.122Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>EmilyProctorShelter</label_text>
 </label>
 </extensions>
@@ -379,7 +384,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T13:35:08.473Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtWilson</label_text>
 </label>
 </extensions>
@@ -392,7 +397,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:32:45.756Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LittleHansPeak</label_text>
 </label>
 </extensions>
@@ -404,7 +409,7 @@ Junction with Emily Proctor Trail.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtCleveland</label_text>
 </label>
 </extensions>
@@ -418,7 +423,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T17:19:10.342Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CooleyGlenShelter</label_text>
 </label>
 </extensions>
@@ -431,7 +436,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-08T23:44:30.227Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtGrant</label_text>
 </label>
 </extensions>
@@ -444,7 +449,7 @@ Junction with Emily Proctor Trail.</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LincolnGap</label_text>
 </label>
 </extensions>
@@ -457,7 +462,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-08-21T17:56:48.016Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BattellShelter</label_text>
 </label>
 </extensions>
@@ -470,7 +475,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:52:02.006Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtAbrahamVT</label_text>
 </label>
 </extensions>
@@ -484,7 +489,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-18T18:27:32.733Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LincolnPeak</label_text>
 </label>
 </extensions>
@@ -496,7 +501,7 @@ Junction with Emily Proctor Trail.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CuttsPeak</label_text>
 </label>
 </extensions>
@@ -509,7 +514,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:06:57.767Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GlenEllenShelter</label_text>
 </label>
 </extensions>
@@ -523,7 +528,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T20:38:00.507Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GlenEllenShelterTr</label_text>
 </label>
 </extensions>
@@ -537,7 +542,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:03:21.840Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StarksNest</label_text>
 </label>
 </extensions>
@@ -551,7 +556,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:03:30.990Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TheronDeanShelter</label_text>
 </label>
 </extensions>
@@ -565,7 +570,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:38:00.362Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AppalachianGap</label_text>
 </label>
 </extensions>
@@ -578,7 +583,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:35:15.631Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BirchGlenCamp</label_text>
 </label>
 </extensions>
@@ -592,7 +597,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T19:46:41.036Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HuntingtonGap</label_text>
 </label>
 </extensions>
@@ -605,7 +610,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:38:13.560Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurntRockMtn</label_text>
 </label>
 </extensions>
@@ -618,7 +623,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T19:53:11.083Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CowlesCoveShelter</label_text>
 </label>
 </extensions>
@@ -630,7 +635,7 @@ Junction with Emily Proctor Trail.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtEthanAllen</label_text>
 </label>
 </extensions>
@@ -643,7 +648,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T20:15:54.053Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MontclairGlen</label_text>
 </label>
 </extensions>
@@ -656,7 +661,7 @@ Junction with Emily Proctor Trail.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T20:21:01.967Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CamelsHump</label_text>
 </label>
 </extensions>
@@ -672,7 +677,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T22:43:35.639Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DuxburyRdS</label_text>
 </label>
 </extensions>
@@ -686,7 +691,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T18:56:56.387Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTNewBoston</label_text>
 </label>
 </extensions>
@@ -700,7 +705,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BattellTH</label_text>
 </label>
 </extensions>
@@ -714,7 +719,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T19:01:38.027Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTBattellTrail</label_text>
 </label>
 </extensions>
@@ -727,7 +732,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Privy</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:07:24.161Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GlenEllenPrivy</label_text>
 </label>
 </extensions>
@@ -741,7 +746,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HedgehogBkTH</label_text>
 </label>
 </extensions>
@@ -755,7 +760,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T19:54:24.559Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTHedgehogBkTr</label_text>
 </label>
 </extensions>
@@ -769,7 +774,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:30:40.174Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTGreatCliff</label_text>
 </label>
 </extensions>
@@ -782,7 +787,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-18T13:15:32.101Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GreatCliff</label_text>
 </label>
 </extensions>
@@ -796,7 +801,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T20:38:12.856Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BattellShelterJct</label_text>
 </label>
 </extensions>
@@ -811,7 +816,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:44.901Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TuckerJohnson</label_text>
 </label>
 </extensions>
@@ -824,7 +829,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Privy</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T00:24:52.778Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TJPrivy</label_text>
 </label>
 </extensions>
@@ -838,7 +843,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:24:01.632Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT10669</label_text>
 </label>
 </extensions>
@@ -851,7 +856,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:32:58.169Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11156</label_text>
 </label>
 </extensions>
@@ -865,7 +870,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:33:21.017Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11206</label_text>
 </label>
 </extensions>
@@ -879,7 +884,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:33:37.007Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11301</label_text>
 </label>
 </extensions>
@@ -892,7 +897,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DavidLoganSpring</label_text>
 </label>
 </extensions>
@@ -906,7 +911,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:19:24.748Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11642</label_text>
 </label>
 </extensions>
@@ -920,7 +925,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:20:05.117Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11643</label_text>
 </label>
 </extensions>
@@ -934,7 +939,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:20:31.220Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11728</label_text>
 </label>
 </extensions>
@@ -948,7 +953,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:21:35.055Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11784</label_text>
 </label>
 </extensions>
@@ -962,7 +967,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:22:02.638Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT12011</label_text>
 </label>
 </extensions>
@@ -976,7 +981,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T01:29:53.696Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NNBCA</label_text>
 </label>
 </extensions>
@@ -990,7 +995,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:22:13.873Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT12118</label_text>
 </label>
 </extensions>
@@ -1004,7 +1009,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:22:39.497Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT12130</label_text>
 </label>
 </extensions>
@@ -1018,7 +1023,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:23:07.653Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT12151</label_text>
 </label>
 </extensions>
@@ -1032,7 +1037,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:23:38.588Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT12160</label_text>
 </label>
 </extensions>
@@ -1046,7 +1051,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Sign</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T23:14:17.535Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BattellWildN</label_text>
 </label>
 </extensions>
@@ -1060,7 +1065,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T16:37:31.195Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTLakePleiad</label_text>
 </label>
 </extensions>
@@ -1074,7 +1079,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Sign</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T23:14:29.550Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BreadloafWildS</label_text>
 </label>
 </extensions>
@@ -1087,7 +1092,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:59:58.624Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SilentCliffSpur</label_text>
 </label>
 </extensions>
@@ -1101,7 +1106,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:52:01.876Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTBurntHillTr</label_text>
 </label>
 </extensions>
@@ -1115,7 +1120,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:24:20.823Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT13348</label_text>
 </label>
 </extensions>
@@ -1128,7 +1133,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:00:42.693Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BoyceShelter</label_text>
 </label>
 </extensions>
@@ -1142,7 +1147,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:24:43.546Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT13405</label_text>
 </label>
 </extensions>
@@ -1156,7 +1161,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:07:40.971Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT13575SA</label_text>
 </label>
 </extensions>
@@ -1170,7 +1175,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:25:15.204Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT13575</label_text>
 </label>
 </extensions>
@@ -1184,7 +1189,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T02:23:11.448Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylightWaterSpur</label_text>
 </label>
 </extensions>
@@ -1197,7 +1202,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkylineWater</label_text>
 </label>
 </extensions>
@@ -1211,7 +1216,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T17:13:16.882Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTClarkBrookTr</label_text>
 </label>
 </extensions>
@@ -1224,7 +1229,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:37:59.663Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>KillingtonView</label_text>
 </label>
 </extensions>
@@ -1237,7 +1242,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:26:03.549Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT13988</label_text>
 </label>
 </extensions>
@@ -1251,7 +1256,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T02:01:39.379Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTCooleyGlenTr</label_text>
 </label>
 </extensions>
@@ -1265,7 +1270,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Sign</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T23:14:43.433Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BreadloafWildN</label_text>
 </label>
 </extensions>
@@ -1279,7 +1284,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:37:00.358Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SunsetLedge</label_text>
 </label>
 </extensions>
@@ -1293,7 +1298,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:26:53.988Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT14831</label_text>
 </label>
 </extensions>
@@ -1305,7 +1310,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LittleAbe</label_text>
 </label>
 </extensions>
@@ -1318,7 +1323,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T17:31:28.971Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NancyHansPeak</label_text>
 </label>
 </extensions>
@@ -1331,7 +1336,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-08T23:31:15.701Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTSugarbush</label_text>
 </label>
 </extensions>
@@ -1345,7 +1350,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T17:38:48.161Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SugarbushShelter</label_text>
 </label>
 </extensions>
@@ -1359,7 +1364,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T19:19:08.619Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HoltHollowWater</label_text>
 </label>
 </extensions>
@@ -1373,7 +1378,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T19:18:53.408Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HoltHollow</label_text>
 </label>
 </extensions>
@@ -1386,7 +1391,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-08T23:26:27.267Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtEllen</label_text>
 </label>
 </extensions>
@@ -1400,7 +1405,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Sign</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T23:14:55.261Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GreenMtnNF-N</label_text>
 </label>
 </extensions>
@@ -1413,7 +1418,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:20:29.961Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTJerusalem</label_text>
 </label>
 </extensions>
@@ -1426,7 +1431,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T19:34:50.034Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CamelsView</label_text>
 </label>
 </extensions>
@@ -1440,7 +1445,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:39:01Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT15845</label_text>
 </label>
 </extensions>
@@ -1454,7 +1459,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-08T22:29:01.723Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTBeaneTr</label_text>
 </label>
 </extensions>
@@ -1467,7 +1472,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:27:38.799Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT15895</label_text>
 </label>
 </extensions>
@@ -1480,7 +1485,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:28:01.845Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT15932</label_text>
 </label>
 </extensions>
@@ -1494,7 +1499,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:28:22.273Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16000</label_text>
 </label>
 </extensions>
@@ -1508,7 +1513,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:28:47.929Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16107</label_text>
 </label>
 </extensions>
@@ -1522,7 +1527,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:29:08.918Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16298</label_text>
 </label>
 </extensions>
@@ -1535,7 +1540,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:29:27.816Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16320</label_text>
 </label>
 </extensions>
@@ -1548,7 +1553,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T20:11:46.629Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTAllisTr</label_text>
 </label>
 </extensions>
@@ -1561,7 +1566,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:29:53.801Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16518</label_text>
 </label>
 </extensions>
@@ -1575,7 +1580,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:30:11.872Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16530</label_text>
 </label>
 </extensions>
@@ -1588,7 +1593,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T02:52:04.954Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTForestCityTr</label_text>
 </label>
 </extensions>
@@ -1602,7 +1607,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:41:03.990Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WindGap</label_text>
 </label>
 </extensions>
@@ -1616,7 +1621,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:30:34.681Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16641</label_text>
 </label>
 </extensions>
@@ -1630,7 +1635,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T20:26:41.855Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTAlpineS</label_text>
 </label>
 </extensions>
@@ -1644,7 +1649,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:14:45.561Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTBurrowsMonroe</label_text>
 </label>
 </extensions>
@@ -1658,7 +1663,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T15:02:40.086Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16718</label_text>
 </label>
 </extensions>
@@ -1671,7 +1676,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T15:12:40.795Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT16725</label_text>
 </label>
 </extensions>
@@ -1684,7 +1689,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:31:02.092Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTAlpineN</label_text>
 </label>
 </extensions>
@@ -1698,7 +1703,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:04:10.590Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BamfordRidgeSpur</label_text>
 </label>
 </extensions>
@@ -1710,7 +1715,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JohnNotteBench</label_text>
 </label>
 </extensions>
@@ -1724,7 +1729,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:31:39.983Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT17076</label_text>
 </label>
 </extensions>
@@ -1738,7 +1743,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:31:56.950Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT17109</label_text>
 </label>
 </extensions>
@@ -1752,7 +1757,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:32:21.024Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT17115</label_text>
 </label>
 </extensions>
@@ -1766,7 +1771,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-26T23:32:48.025Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT17129</label_text>
 </label>
 </extensions>
@@ -1779,7 +1784,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:05:00.878Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BamforthRidgeShelter</label_text>
 </label>
 </extensions>
@@ -1792,7 +1797,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:15.206Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BreadloafMtnB</label_text>
 </label>
 </extensions>
@@ -1804,7 +1809,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:47:59.328Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NewBoston73</label_text>
 </label>
 </extensions>
@@ -1815,7 +1820,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SilentCliff</label_text>
 </label>
 </extensions>
@@ -1826,7 +1831,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Parking Area</sym>
 <type>Parking</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MonroeTH</label_text>
 </label>
 </extensions>
@@ -1837,7 +1842,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MonroeDean</label_text>
 </label>
 </extensions>
@@ -1848,7 +1853,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MonroeAlpine</label_text>
 </label>
 </extensions>
@@ -1859,7 +1864,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Dean25</label_text>
 </label>
 </extensions>
@@ -1870,7 +1875,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HumpBkCamp</label_text>
 </label>
 </extensions>
@@ -1883,7 +1888,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:41:52.111Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtIraAllen</label_text>
 </label>
 </extensions>
@@ -1894,7 +1899,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ClarkBrook</label_text>
 </label>
 </extensions>
@@ -1905,7 +1910,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ClarkBrook2</label_text>
 </label>
 </extensions>
@@ -1918,7 +1923,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ClarkBkTH</label_text>
 </label>
 </extensions>
@@ -1929,7 +1934,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NewHavenRiver</label_text>
 </label>
 </extensions>
@@ -1941,7 +1946,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Cooley57</label_text>
 </label>
 </extensions>
@@ -1953,7 +1958,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Cooley249</label_text>
 </label>
 </extensions>
@@ -1966,7 +1971,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>201</label_text>
 </label>
 </extensions>
@@ -1979,7 +1984,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T02:50:12.329Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurrowsTH</label_text>
 </label>
 </extensions>
@@ -1991,7 +1996,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T02:50:51.409Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ForestCityConnector</label_text>
 </label>
 </extensions>
@@ -2003,7 +2008,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtCarmel</label_text>
 </label>
 </extensions>
@@ -2015,7 +2020,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DavesPeak</label_text>
 </label>
 </extensions>
@@ -2027,7 +2032,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BloodrootMtn</label_text>
 </label>
 </extensions>
@@ -2039,7 +2044,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FarrPeak</label_text>
 </label>
 </extensions>
@@ -2052,7 +2057,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:52:32.058Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GoshenMtnVT</label_text>
 </label>
 </extensions>
@@ -2065,7 +2070,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T03:00:05.221Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RomanceE</label_text>
 </label>
 </extensions>
@@ -2078,7 +2083,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T03:00:42.066Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RomanceW</label_text>
 </label>
 </extensions>
@@ -2091,7 +2096,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ForestCityTH</label_text>
 </label>
 </extensions>
@@ -2102,7 +2107,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurrowsTrConnector</label_text>
 </label>
 </extensions>
@@ -2113,7 +2118,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Bridge</sym>
 <type>Bridge</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HumpBrook</label_text>
 </label>
 </extensions>
@@ -2125,7 +2130,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BabyStarkMtn</label_text>
 </label>
 </extensions>
@@ -2138,7 +2143,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:00:22.789Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MollyStarkMtn</label_text>
 </label>
 </extensions>
@@ -2151,7 +2156,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:01:00.882Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BeaneMtn</label_text>
 </label>
 </extensions>
@@ -2164,7 +2169,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JerusalemTH</label_text>
 </label>
 </extensions>
@@ -2176,7 +2181,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:22:46.720Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JT93</label_text>
 </label>
 </extensions>
@@ -2187,7 +2192,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BeaneTrail</label_text>
 </label>
 </extensions>
@@ -2199,7 +2204,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtRoosevelt</label_text>
 </label>
 </extensions>
@@ -2212,7 +2217,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:54:17.420Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>KirbyPeak</label_text>
 </label>
 </extensions>
@@ -2225,7 +2230,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurntHillTH</label_text>
 </label>
 </extensions>
@@ -2236,7 +2241,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PleiadLake</label_text>
 </label>
 </extensions>
@@ -2247,7 +2252,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Voter</label_text>
 </label>
 </extensions>
@@ -2260,7 +2265,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T17:26:26.830Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LTSuckerBrookTrail</label_text>
 </label>
 </extensions>
@@ -2273,7 +2278,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T17:27:01.463Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SuckerBk-Halfdan</label_text>
 </label>
 </extensions>
@@ -2285,7 +2290,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SuckerBk-Stewart</label_text>
 </label>
 </extensions>
@@ -2298,7 +2303,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:51:17.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SuckerBkTH</label_text>
 </label>
 </extensions>
@@ -2311,7 +2316,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T18:25:14.930Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BoilingSpring</label_text>
 </label>
 </extensions>
@@ -2323,8 +2328,33 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T18:29:44.728Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT11212</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.37851928" lon="-72.91692920">
+<ele>96.800</ele>
+<time>2018-01-27T18:55:34.910Z</time>
+<name>WinooskiBridge</name>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>WinooskiBridge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="44.37187166" lon="-72.89573305">
+<ele>104.000</ele>
+<time>2018-01-27T18:55:09.105Z</time>
+<name>DuxburyParking</name>
+<sym>Parking Area</sym>
+<type>Parking</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:34:54.505Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>DuxburyParking</label_text>
 </label>
 </extensions>
 </wpt>
@@ -2335,7 +2365,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:30:37.569Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Great Cliff Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -2391,7 +2421,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T21:20:25.476Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Skyline Pond Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -3545,7 +3575,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:06:15.982Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Battell Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -4492,7 +4522,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:07:20.214Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Glen Ellen Shelter Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -4602,7 +4632,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-08-17T20:35:13.529Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Hedgehog Brook Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5633,7 +5663,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-13T13:50:27.811Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>New Boston Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5800,7 +5830,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:30:38.973Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Tucker Johnson Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5835,7 +5865,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-30T21:20:05.784Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LT13575 View Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5876,7 +5906,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-24T02:22:35.586Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Skyline Water Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5911,7 +5941,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:14:40.066Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Breadloaf Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5985,7 +6015,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:06:44.308Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Sugarbush Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -6020,7 +6050,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:06:50.831Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Holt Hollow Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -6062,9 +6092,9 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T19:46:31.596Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-04T03:58:28.256Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Long Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -41448,6 +41478,726 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <trkpt lat="44.36969347" lon="-72.87931012">
 <ele>105.807</ele>
 </trkpt>
+<trkpt lat="44.36971054" lon="-72.87934727">
+<ele>105.776</ele>
+</trkpt>
+<trkpt lat="44.36975671" lon="-72.87954039">
+<ele>104.726</ele>
+</trkpt>
+<trkpt lat="44.36979904" lon="-72.87971742">
+<ele>105.998</ele>
+</trkpt>
+<trkpt lat="44.36983367" lon="-72.87985689">
+<ele>107.315</ele>
+</trkpt>
+<trkpt lat="44.36986830" lon="-72.87999637">
+<ele>107.721</ele>
+</trkpt>
+<trkpt lat="44.36991833" lon="-72.88018948">
+<ele>107.847</ele>
+</trkpt>
+<trkpt lat="44.36997604" lon="-72.88038797">
+<ele>107.512</ele>
+</trkpt>
+<trkpt lat="44.37004531" lon="-72.88058109">
+<ele>107.271</ele>
+</trkpt>
+<trkpt lat="44.37009148" lon="-72.88076884">
+<ele>107.283</ele>
+</trkpt>
+<trkpt lat="44.37011072" lon="-72.88101561">
+<ele>107.389</ele>
+</trkpt>
+<trkpt lat="44.37009918" lon="-72.88114972">
+<ele>107.326</ele>
+</trkpt>
+<trkpt lat="44.37007224" lon="-72.88135356">
+<ele>107.122</ele>
+</trkpt>
+<trkpt lat="44.37005300" lon="-72.88158423">
+<ele>106.604</ele>
+</trkpt>
+<trkpt lat="44.37002992" lon="-72.88183100">
+<ele>106.609</ele>
+</trkpt>
+<trkpt lat="44.37001068" lon="-72.88196511">
+<ele>107.117</ele>
+</trkpt>
+<trkpt lat="44.36996450" lon="-72.88217968">
+<ele>108.192</ele>
+</trkpt>
+<trkpt lat="44.36992987" lon="-72.88240499">
+<ele>108.964</ele>
+</trkpt>
+<trkpt lat="44.36991833" lon="-72.88263566">
+<ele>108.897</ele>
+</trkpt>
+<trkpt lat="44.36991448" lon="-72.88282341">
+<ele>108.740</ele>
+</trkpt>
+<trkpt lat="44.36991063" lon="-72.88302190">
+<ele>108.649</ele>
+</trkpt>
+<trkpt lat="44.36991063" lon="-72.88321502">
+<ele>108.598</ele>
+</trkpt>
+<trkpt lat="44.36991063" lon="-72.88341886">
+<ele>108.705</ele>
+</trkpt>
+<trkpt lat="44.36991063" lon="-72.88354761">
+<ele>108.751</ele>
+</trkpt>
+<trkpt lat="44.36991448" lon="-72.88376755">
+<ele>108.738</ele>
+</trkpt>
+<trkpt lat="44.36992987" lon="-72.88398213">
+<ele>108.508</ele>
+</trkpt>
+<trkpt lat="44.36993757" lon="-72.88422889">
+<ele>108.496</ele>
+</trkpt>
+<trkpt lat="44.36993372" lon="-72.88444347">
+<ele>108.492</ele>
+</trkpt>
+<trkpt lat="44.36992218" lon="-72.88457221">
+<ele>108.589</ele>
+</trkpt>
+<trkpt lat="44.36989909" lon="-72.88470096">
+<ele>108.479</ele>
+</trkpt>
+<trkpt lat="44.36985676" lon="-72.88493163">
+<ele>107.645</ele>
+</trkpt>
+<trkpt lat="44.36982213" lon="-72.88515157">
+<ele>105.546</ele>
+</trkpt>
+<trkpt lat="44.36977211" lon="-72.88537151">
+<ele>103.907</ele>
+</trkpt>
+<trkpt lat="44.36972593" lon="-72.88558609">
+<ele>103.560</ele>
+</trkpt>
+<trkpt lat="44.36970669" lon="-72.88577921">
+<ele>103.611</ele>
+</trkpt>
+<trkpt lat="44.36969900" lon="-72.88601524">
+<ele>103.630</ele>
+</trkpt>
+<trkpt lat="44.36970284" lon="-72.88621909">
+<ele>103.690</ele>
+</trkpt>
+<trkpt lat="44.36971824" lon="-72.88637466">
+<ele>103.677</ele>
+</trkpt>
+<trkpt lat="44.36974902" lon="-72.88654096">
+<ele>103.707</ele>
+</trkpt>
+<trkpt lat="44.36979135" lon="-72.88675017">
+<ele>104.237</ele>
+</trkpt>
+<trkpt lat="44.36983752" lon="-72.88696474">
+<ele>104.445</ele>
+</trkpt>
+<trkpt lat="44.36989139" lon="-72.88714713">
+<ele>104.803</ele>
+</trkpt>
+<trkpt lat="44.36992602" lon="-72.88727588">
+<ele>106.133</ele>
+</trkpt>
+<trkpt lat="44.36997605" lon="-72.88745291">
+<ele>106.965</ele>
+</trkpt>
+<trkpt lat="44.37002992" lon="-72.88762457">
+<ele>106.800</ele>
+</trkpt>
+<trkpt lat="44.37007994" lon="-72.88780696">
+<ele>105.764</ele>
+</trkpt>
+<trkpt lat="44.37012227" lon="-72.88797862">
+<ele>104.808</ele>
+</trkpt>
+<trkpt lat="44.37016074" lon="-72.88818247">
+<ele>104.409</ele>
+</trkpt>
+<trkpt lat="44.37020692" lon="-72.88842923">
+<ele>104.293</ele>
+</trkpt>
+<trkpt lat="44.37024155" lon="-72.88863308">
+<ele>105.890</ele>
+</trkpt>
+<trkpt lat="44.37028388" lon="-72.88885302">
+<ele>107.015</ele>
+</trkpt>
+<trkpt lat="44.37031466" lon="-72.88902468">
+<ele>107.205</ele>
+</trkpt>
+<trkpt lat="44.37035699" lon="-72.88926072">
+<ele>105.884</ele>
+</trkpt>
+<trkpt lat="44.37039931" lon="-72.88949139">
+<ele>104.721</ele>
+</trkpt>
+<trkpt lat="44.37044549" lon="-72.88971133">
+<ele>104.252</ele>
+</trkpt>
+<trkpt lat="44.37051090" lon="-72.88990445">
+<ele>104.249</ele>
+</trkpt>
+<trkpt lat="44.37054938" lon="-72.89002783">
+<ele>104.599</ele>
+</trkpt>
+<trkpt lat="44.37061479" lon="-72.89023704">
+<ele>105.659</ele>
+</trkpt>
+<trkpt lat="44.37070329" lon="-72.89045162">
+<ele>106.591</ele>
+</trkpt>
+<trkpt lat="44.37077640" lon="-72.89063937">
+<ele>106.398</ele>
+</trkpt>
+<trkpt lat="44.37084182" lon="-72.89079494">
+<ele>105.447</ele>
+</trkpt>
+<trkpt lat="44.37091493" lon="-72.89096660">
+<ele>104.607</ele>
+</trkpt>
+<trkpt lat="44.37098034" lon="-72.89111144">
+<ele>105.343</ele>
+</trkpt>
+<trkpt lat="44.37104960" lon="-72.89132602">
+<ele>106.248</ele>
+</trkpt>
+<trkpt lat="44.37110347" lon="-72.89156205">
+<ele>106.742</ele>
+</trkpt>
+<trkpt lat="44.37113810" lon="-72.89173371">
+<ele>106.662</ele>
+</trkpt>
+<trkpt lat="44.37114964" lon="-72.89192683">
+<ele>107.061</ele>
+</trkpt>
+<trkpt lat="44.37116504" lon="-72.89217896">
+<ele>107.704</ele>
+</trkpt>
+<trkpt lat="44.37117658" lon="-72.89234526">
+<ele>108.257</ele>
+</trkpt>
+<trkpt lat="44.37118812" lon="-72.89253301">
+<ele>108.717</ele>
+</trkpt>
+<trkpt lat="44.37119967" lon="-72.89266176">
+<ele>108.857</ele>
+</trkpt>
+<trkpt lat="44.37122660" lon="-72.89288170">
+<ele>108.589</ele>
+</trkpt>
+<trkpt lat="44.37124584" lon="-72.89312846">
+<ele>107.811</ele>
+</trkpt>
+<trkpt lat="44.37125354" lon="-72.89326794">
+<ele>107.239</ele>
+</trkpt>
+<trkpt lat="44.37126893" lon="-72.89345569">
+<ele>106.191</ele>
+</trkpt>
+<trkpt lat="44.37128432" lon="-72.89370245">
+<ele>103.145</ele>
+</trkpt>
+<trkpt lat="44.37131125" lon="-72.89392776">
+<ele>102.076</ele>
+</trkpt>
+<trkpt lat="44.37133819" lon="-72.89415843">
+<ele>102.902</ele>
+</trkpt>
+<trkpt lat="44.37136897" lon="-72.89436764">
+<ele>103.984</ele>
+</trkpt>
+<trkpt lat="44.37140745" lon="-72.89458758">
+<ele>104.451</ele>
+</trkpt>
+<trkpt lat="44.37143823" lon="-72.89476461">
+<ele>104.626</ele>
+</trkpt>
+<trkpt lat="44.37147286" lon="-72.89493091">
+<ele>104.774</ele>
+</trkpt>
+<trkpt lat="44.37151903" lon="-72.89515085">
+<ele>105.145</ele>
+</trkpt>
+<trkpt lat="44.37155751" lon="-72.89534397">
+<ele>105.643</ele>
+</trkpt>
+<trkpt lat="44.37160369" lon="-72.89554245">
+<ele>106.213</ele>
+</trkpt>
+<trkpt lat="44.37164986" lon="-72.89569265">
+<ele>106.178</ele>
+</trkpt>
+<trkpt lat="44.37168545" lon="-72.89585090">
+<ele>105.099</ele>
+</trkpt>
+<trkpt lat="44.37186918" lon="-72.89573557">
+<ele>104.041</ele>
+</trkpt>
+<trkpt lat="44.37196153" lon="-72.89570875">
+<ele>103.141</ele>
+</trkpt>
+<trkpt lat="44.37205388" lon="-72.89582676">
+<ele>102.726</ele>
+</trkpt>
+<trkpt lat="44.37211544" lon="-72.89601452">
+<ele>102.694</ele>
+</trkpt>
+<trkpt lat="44.37216931" lon="-72.89613254">
+<ele>102.617</ele>
+</trkpt>
+<trkpt lat="44.37227705" lon="-72.89625055">
+<ele>102.843</ele>
+</trkpt>
+<trkpt lat="44.37241941" lon="-72.89639003">
+<ele>101.940</ele>
+</trkpt>
+<trkpt lat="44.37250406" lon="-72.89654560">
+<ele>100.810</ele>
+</trkpt>
+<trkpt lat="44.37258102" lon="-72.89677090">
+<ele>102.122</ele>
+</trkpt>
+<trkpt lat="44.37262719" lon="-72.89688355">
+<ele>102.339</ele>
+</trkpt>
+<trkpt lat="44.37268491" lon="-72.89700157">
+<ele>101.514</ele>
+</trkpt>
+<trkpt lat="44.37280034" lon="-72.89718933">
+<ele>100.201</ele>
+</trkpt>
+<trkpt lat="44.37293501" lon="-72.89729125">
+<ele>99.645</ele>
+</trkpt>
+<trkpt lat="44.37299272" lon="-72.89739317">
+<ele>99.718</ele>
+</trkpt>
+<trkpt lat="44.37306198" lon="-72.89754338">
+<ele>99.324</ele>
+</trkpt>
+<trkpt lat="44.37314278" lon="-72.89770967">
+<ele>98.777</ele>
+</trkpt>
+<trkpt lat="44.37319665" lon="-72.89782233">
+<ele>98.907</ele>
+</trkpt>
+<trkpt lat="44.37328900" lon="-72.89800472">
+<ele>98.810</ele>
+</trkpt>
+<trkpt lat="44.37336980" lon="-72.89815492">
+<ele>98.477</ele>
+</trkpt>
+<trkpt lat="44.37343136" lon="-72.89825148">
+<ele>98.474</ele>
+</trkpt>
+<trkpt lat="44.37349292" lon="-72.89835340">
+<ele>98.346</ele>
+</trkpt>
+<trkpt lat="44.37358912" lon="-72.89850897">
+<ele>97.962</ele>
+</trkpt>
+<trkpt lat="44.37364683" lon="-72.89861626">
+<ele>98.155</ele>
+</trkpt>
+<trkpt lat="44.37368531" lon="-72.89873428">
+<ele>98.747</ele>
+</trkpt>
+<trkpt lat="44.37368531" lon="-72.89886302">
+<ele>98.847</ele>
+</trkpt>
+<trkpt lat="44.37371609" lon="-72.89908833">
+<ele>98.822</ele>
+</trkpt>
+<trkpt lat="44.37379304" lon="-72.89917952">
+<ele>98.697</ele>
+</trkpt>
+<trkpt lat="44.37392771" lon="-72.89933509">
+<ele>98.904</ele>
+</trkpt>
+<trkpt lat="44.37403929" lon="-72.89952285">
+<ele>98.719</ele>
+</trkpt>
+<trkpt lat="44.37413548" lon="-72.89967842">
+<ele>98.609</ele>
+</trkpt>
+<trkpt lat="44.37422013" lon="-72.89983935">
+<ele>99.009</ele>
+</trkpt>
+<trkpt lat="44.37428169" lon="-72.89994664">
+<ele>99.174</ele>
+</trkpt>
+<trkpt lat="44.37435480" lon="-72.90009148">
+<ele>99.031</ele>
+</trkpt>
+<trkpt lat="44.37446253" lon="-72.90028996">
+<ele>98.918</ele>
+</trkpt>
+<trkpt lat="44.37454333" lon="-72.90044553">
+<ele>99.058</ele>
+</trkpt>
+<trkpt lat="44.37464337" lon="-72.90062792">
+<ele>98.808</ele>
+</trkpt>
+<trkpt lat="44.37475110" lon="-72.90083713">
+<ele>98.790</ele>
+</trkpt>
+<trkpt lat="44.37484729" lon="-72.90103025">
+<ele>98.848</ele>
+</trkpt>
+<trkpt lat="44.37490115" lon="-72.90114290">
+<ele>98.648</ele>
+</trkpt>
+<trkpt lat="44.37500119" lon="-72.90134675">
+<ele>98.747</ele>
+</trkpt>
+<trkpt lat="44.37510507" lon="-72.90154523">
+<ele>98.644</ele>
+</trkpt>
+<trkpt lat="44.37519742" lon="-72.90174908">
+<ele>98.477</ele>
+</trkpt>
+<trkpt lat="44.37524744" lon="-72.90188319">
+<ele>98.421</ele>
+</trkpt>
+<trkpt lat="44.37527822" lon="-72.90200657">
+<ele>98.275</ele>
+</trkpt>
+<trkpt lat="44.37533208" lon="-72.90212995">
+<ele>98.287</ele>
+</trkpt>
+<trkpt lat="44.37538595" lon="-72.90225870">
+<ele>98.141</ele>
+</trkpt>
+<trkpt lat="44.37543597" lon="-72.90245718">
+<ele>98.198</ele>
+</trkpt>
+<trkpt lat="44.37535517" lon="-72.90263957">
+<ele>99.221</ele>
+</trkpt>
+<trkpt lat="44.37524359" lon="-72.90275759">
+<ele>99.617</ele>
+</trkpt>
+<trkpt lat="44.37518203" lon="-72.90289170">
+<ele>99.893</ele>
+</trkpt>
+<trkpt lat="44.37519742" lon="-72.90311701">
+<ele>99.807</ele>
+</trkpt>
+<trkpt lat="44.37523589" lon="-72.90324039">
+<ele>99.822</ele>
+</trkpt>
+<trkpt lat="44.37523589" lon="-72.90348715">
+<ele>99.941</ele>
+</trkpt>
+<trkpt lat="44.37525513" lon="-72.90365881">
+<ele>100.033</ele>
+</trkpt>
+<trkpt lat="44.37527437" lon="-72.90388948">
+<ele>100.182</ele>
+</trkpt>
+<trkpt lat="44.37527437" lon="-72.90412552">
+<ele>100.274</ele>
+</trkpt>
+<trkpt lat="44.37527437" lon="-72.90434009">
+<ele>100.244</ele>
+</trkpt>
+<trkpt lat="44.37525898" lon="-72.90451712">
+<ele>100.474</ele>
+</trkpt>
+<trkpt lat="44.37515125" lon="-72.90466196">
+<ele>101.011</ele>
+</trkpt>
+<trkpt lat="44.37507430" lon="-72.90473706">
+<ele>101.244</ele>
+</trkpt>
+<trkpt lat="44.37492424" lon="-72.90484971">
+<ele>101.696</ele>
+</trkpt>
+<trkpt lat="44.37477803" lon="-72.90490872">
+<ele>102.035</ele>
+</trkpt>
+<trkpt lat="44.37467799" lon="-72.90494627">
+<ele>102.273</ele>
+</trkpt>
+<trkpt lat="44.37452024" lon="-72.90502674">
+<ele>102.665</ele>
+</trkpt>
+<trkpt lat="44.37442790" lon="-72.90518767">
+<ele>103.002</ele>
+</trkpt>
+<trkpt lat="44.37439327" lon="-72.90537006">
+<ele>103.080</ele>
+</trkpt>
+<trkpt lat="44.37441251" lon="-72.90561683">
+<ele>102.845</ele>
+</trkpt>
+<trkpt lat="44.37445483" lon="-72.90584213">
+<ele>103.075</ele>
+</trkpt>
+<trkpt lat="44.37456641" lon="-72.90601916">
+<ele>102.924</ele>
+</trkpt>
+<trkpt lat="44.37471647" lon="-72.90599770">
+<ele>102.376</ele>
+</trkpt>
+<trkpt lat="44.37484729" lon="-72.90592796">
+<ele>101.915</ele>
+</trkpt>
+<trkpt lat="44.37499734" lon="-72.90585286">
+<ele>101.657</ele>
+</trkpt>
+<trkpt lat="44.37511277" lon="-72.90577776">
+<ele>101.473</ele>
+</trkpt>
+<trkpt lat="44.37523205" lon="-72.90570802">
+<ele>101.313</ele>
+</trkpt>
+<trkpt lat="44.37537056" lon="-72.90562219">
+<ele>101.057</ele>
+</trkpt>
+<trkpt lat="44.37554370" lon="-72.90564365">
+<ele>100.316</ele>
+</trkpt>
+<trkpt lat="44.37561295" lon="-72.90574021">
+<ele>100.028</ele>
+</trkpt>
+<trkpt lat="44.37575146" lon="-72.90590650">
+<ele>99.788</ele>
+</trkpt>
+<trkpt lat="44.37583611" lon="-72.90599234">
+<ele>99.752</ele>
+</trkpt>
+<trkpt lat="44.37598616" lon="-72.90612645">
+<ele>99.599</ele>
+</trkpt>
+<trkpt lat="44.37612082" lon="-72.90626056">
+<ele>99.596</ele>
+</trkpt>
+<trkpt lat="44.37620162" lon="-72.90633566">
+<ele>99.505</ele>
+</trkpt>
+<trkpt lat="44.37632859" lon="-72.90641076">
+<ele>99.344</ele>
+</trkpt>
+<trkpt lat="44.37642093" lon="-72.90644295">
+<ele>99.281</ele>
+</trkpt>
+<trkpt lat="44.37659791" lon="-72.90646977">
+<ele>99.224</ele>
+</trkpt>
+<trkpt lat="44.37672873" lon="-72.90655023">
+<ele>99.355</ele>
+</trkpt>
+<trkpt lat="44.37676720" lon="-72.90667898">
+<ele>99.434</ele>
+</trkpt>
+<trkpt lat="44.37678259" lon="-72.90681309">
+<ele>99.489</ele>
+</trkpt>
+<trkpt lat="44.37680183" lon="-72.90695257">
+<ele>99.447</ele>
+</trkpt>
+<trkpt lat="44.37684030" lon="-72.90715641">
+<ele>99.364</ele>
+</trkpt>
+<trkpt lat="44.37686723" lon="-72.90728516">
+<ele>99.335</ele>
+</trkpt>
+<trkpt lat="44.37689801" lon="-72.90741391">
+<ele>99.322</ele>
+</trkpt>
+<trkpt lat="44.37691725" lon="-72.90760703">
+<ele>99.170</ele>
+</trkpt>
+<trkpt lat="44.37694034" lon="-72.90775723">
+<ele>98.982</ele>
+</trkpt>
+<trkpt lat="44.37696342" lon="-72.90796108">
+<ele>98.686</ele>
+</trkpt>
+<trkpt lat="44.37698650" lon="-72.90815956">
+<ele>98.477</ele>
+</trkpt>
+<trkpt lat="44.37699420" lon="-72.90830440">
+<ele>98.381</ele>
+</trkpt>
+<trkpt lat="44.37700574" lon="-72.90843851">
+<ele>98.291</ele>
+</trkpt>
+<trkpt lat="44.37705961" lon="-72.90861017">
+<ele>97.995</ele>
+</trkpt>
+<trkpt lat="44.37711732" lon="-72.90884084">
+<ele>97.743</ele>
+</trkpt>
+<trkpt lat="44.37716733" lon="-72.90907688">
+<ele>97.691</ele>
+</trkpt>
+<trkpt lat="44.37719811" lon="-72.90931291">
+<ele>97.697</ele>
+</trkpt>
+<trkpt lat="44.37723274" lon="-72.90953822">
+<ele>97.708</ele>
+</trkpt>
+<trkpt lat="44.37726737" lon="-72.90975816">
+<ele>97.615</ele>
+</trkpt>
+<trkpt lat="44.37728276" lon="-72.90995664">
+<ele>97.550</ele>
+</trkpt>
+<trkpt lat="44.37729815" lon="-72.91016585">
+<ele>97.477</ele>
+</trkpt>
+<trkpt lat="44.37729815" lon="-72.91030533">
+<ele>97.404</ele>
+</trkpt>
+<trkpt lat="44.37729430" lon="-72.91045017">
+<ele>97.354</ele>
+</trkpt>
+<trkpt lat="44.37728660" lon="-72.91058428">
+<ele>97.382</ele>
+</trkpt>
+<trkpt lat="44.37722505" lon="-72.91075594">
+<ele>97.411</ele>
+</trkpt>
+<trkpt lat="44.37710193" lon="-72.91091151">
+<ele>97.405</ele>
+</trkpt>
+<trkpt lat="44.37699035" lon="-72.91104025">
+<ele>97.548</ele>
+</trkpt>
+<trkpt lat="44.37687493" lon="-72.91121728">
+<ele>97.850</ele>
+</trkpt>
+<trkpt lat="44.37675566" lon="-72.91135675">
+<ele>98.620</ele>
+</trkpt>
+<trkpt lat="44.37667486" lon="-72.91151232">
+<ele>99.736</ele>
+</trkpt>
+<trkpt lat="44.37657867" lon="-72.91167325">
+<ele>100.763</ele>
+</trkpt>
+<trkpt lat="44.37647479" lon="-72.91182346">
+<ele>102.029</ele>
+</trkpt>
+<trkpt lat="44.37635167" lon="-72.91189320">
+<ele>103.229</ele>
+</trkpt>
+<trkpt lat="44.37630550" lon="-72.91205413">
+<ele>104.427</ele>
+</trkpt>
+<trkpt lat="44.37640169" lon="-72.91220970">
+<ele>104.362</ele>
+</trkpt>
+<trkpt lat="44.37648249" lon="-72.91229016">
+<ele>103.802</ele>
+</trkpt>
+<trkpt lat="44.37661330" lon="-72.91242427">
+<ele>102.275</ele>
+</trkpt>
+<trkpt lat="44.37668256" lon="-72.91251547">
+<ele>100.984</ele>
+</trkpt>
+<trkpt lat="44.37675181" lon="-72.91260130">
+<ele>99.232</ele>
+</trkpt>
+<trkpt lat="44.37687878" lon="-72.91276760">
+<ele>98.261</ele>
+</trkpt>
+<trkpt lat="44.37697112" lon="-72.91291780">
+<ele>98.316</ele>
+</trkpt>
+<trkpt lat="44.37707884" lon="-72.91311092">
+<ele>98.592</ele>
+</trkpt>
+<trkpt lat="44.37714810" lon="-72.91327722">
+<ele>99.279</ele>
+</trkpt>
+<trkpt lat="44.37717888" lon="-72.91341669">
+<ele>100.004</ele>
+</trkpt>
+<trkpt lat="44.37720966" lon="-72.91363127">
+<ele>100.997</ele>
+</trkpt>
+<trkpt lat="44.37723274" lon="-72.91386730">
+<ele>101.638</ele>
+</trkpt>
+<trkpt lat="44.37724044" lon="-72.91409797">
+<ele>101.782</ele>
+</trkpt>
+<trkpt lat="44.37724044" lon="-72.91426963">
+<ele>101.425</ele>
+</trkpt>
+<trkpt lat="44.37725198" lon="-72.91447884">
+<ele>100.751</ele>
+</trkpt>
+<trkpt lat="44.37726737" lon="-72.91467733">
+<ele>100.277</ele>
+</trkpt>
+<trkpt lat="44.37727891" lon="-72.91490800">
+<ele>100.198</ele>
+</trkpt>
+<trkpt lat="44.37729430" lon="-72.91511721">
+<ele>100.255</ele>
+</trkpt>
+<trkpt lat="44.37733662" lon="-72.91534788">
+<ele>99.760</ele>
+</trkpt>
+<trkpt lat="44.37737125" lon="-72.91553564">
+<ele>99.405</ele>
+</trkpt>
+<trkpt lat="44.37740203" lon="-72.91570193">
+<ele>99.481</ele>
+</trkpt>
+<trkpt lat="44.37744435" lon="-72.91588969">
+<ele>99.493</ele>
+</trkpt>
+<trkpt lat="44.37747898" lon="-72.91603453">
+<ele>99.341</ele>
+</trkpt>
+<trkpt lat="44.37750975" lon="-72.91616327">
+<ele>99.116</ele>
+</trkpt>
+<trkpt lat="44.37757901" lon="-72.91637785">
+<ele>98.326</ele>
+</trkpt>
+<trkpt lat="44.37765980" lon="-72.91657633">
+<ele>97.579</ele>
+</trkpt>
+<trkpt lat="44.37773290" lon="-72.91668898">
+<ele>97.610</ele>
+</trkpt>
+<trkpt lat="44.37785602" lon="-72.91683919">
+<ele>97.543</ele>
+</trkpt>
+<trkpt lat="44.37800222" lon="-72.91698939">
+<ele>97.809</ele>
+</trkpt>
+<trkpt lat="44.37807917" lon="-72.91706986">
+<ele>97.633</ele>
+</trkpt>
+<trkpt lat="44.37815611" lon="-72.91714496">
+<ele>97.704</ele>
+</trkpt>
+<trkpt lat="44.37829847" lon="-72.91725225">
+<ele>97.698</ele>
+</trkpt>
+<trkpt lat="44.37839850" lon="-72.91725761">
+<ele>97.229</ele>
+</trkpt>
+<trkpt lat="44.37845621" lon="-72.91715032">
+<ele>96.855</ele>
+</trkpt>
+<trkpt lat="44.37851777" lon="-72.91693038">
+<ele>96.827</ele>
+</trkpt>
 </trkseg>
 </trk>
 <trk>
@@ -41457,7 +42207,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:05:05.560Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Bamforth Ridge Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -41546,7 +42296,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T13:54:58.948Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Silent Cliff Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -41686,7 +42436,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:17:41.134Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Monroe Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -42792,7 +43542,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:38:54.158Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Dean Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -43157,7 +43907,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:32:29.563Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Alpine Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -43732,7 +44482,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T14:39:05.533Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Allis Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -43848,7 +44598,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T01:58:41.655Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Clark Brook Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -44936,7 +45686,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:07:40.670Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Cooley Glen Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -46417,7 +47167,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-13T13:50:45.267Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Burrows Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -46848,7 +47598,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T14:18:32.912Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Emily Proctor Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -47741,7 +48491,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T14:47:21.961Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Forest City Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -48400,7 +49150,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:07:24.552Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Forest City Connector</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -48462,7 +49212,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:59:32.662Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Jerusalem Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -49232,7 +49982,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T13:56:25.680Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Beane Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -49501,7 +50251,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T15:53:25.057Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Burnt Hill Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -50151,7 +50901,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T16:37:24.295Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Lake Pleiad Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -50204,7 +50954,7 @@ W 21 miles to Burlington, Vermont's largest city. Burlington hostel offers bunks
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-09T17:22:38.415Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Sucker Brook Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
